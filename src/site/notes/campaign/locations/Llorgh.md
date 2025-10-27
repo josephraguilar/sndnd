@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/llorgh/"}
+{"dg-publish":true,"permalink":"/campaign/locations/llorgh/","noteIcon":"","created":"2025-10-26T10:04:22.021-07:00","updated":"2025-10-27T13:35:57.304-07:00"}
 ---
 
 # # [[campaign/locations/Llorgh\|Llorgh]]

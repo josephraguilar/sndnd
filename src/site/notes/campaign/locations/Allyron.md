@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/allyron/"}
+{"dg-publish":true,"permalink":"/campaign/locations/allyron/","noteIcon":"","created":"2025-10-26T09:04:51.758-07:00","updated":"2025-10-27T13:25:38.272-07:00"}
 ---
 
 # # [[campaign/locations/Allyron\|Allyron]]

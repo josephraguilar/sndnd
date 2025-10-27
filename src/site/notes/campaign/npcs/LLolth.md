@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/l-lolth/","tags":["character","npc"]}
+{"dg-publish":true,"permalink":"/campaign/npcs/l-lolth/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:19:39.199-07:00","updated":"2025-10-27T13:38:26.181-07:00"}
 ---
 
 # [[campaign/npcs/LLolth\|LLolth]]

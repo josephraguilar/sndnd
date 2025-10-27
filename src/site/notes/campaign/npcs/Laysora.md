@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/laysora/","tags":["character","npc"]}
+{"dg-publish":true,"permalink":"/campaign/npcs/laysora/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T10:44:26.463-07:00","updated":"2025-10-27T13:38:17.027-07:00"}
 ---
 
 # [[campaign/npcs/Laysora\|Laysora]]

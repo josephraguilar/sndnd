@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/embris/","tags":["character","npc"]}
+{"dg-publish":true,"permalink":"/campaign/npcs/embris/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T14:50:45.500-07:00","updated":"2025-10-27T13:37:10.172-07:00"}
 ---
 
 # [[campaign/npcs/Embris\|Embris]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/obold/","tags":["character","player"]}
+{"dg-publish":true,"permalink":"/campaign/players/obold/","tags":["character","player"],"noteIcon":"","created":"2025-10-26T08:58:31.407-07:00","updated":"2025-10-27T13:40:14.217-07:00"}
 ---
 
 

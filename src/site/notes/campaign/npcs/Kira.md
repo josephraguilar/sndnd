@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/kira/","tags":["character","npc"]}
+{"dg-publish":true,"permalink":"/campaign/npcs/kira/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T09:19:57.137-07:00","updated":"2025-10-27T13:38:12.081-07:00"}
 ---
 
 # [[campaign/npcs/Kira\|Kira]]

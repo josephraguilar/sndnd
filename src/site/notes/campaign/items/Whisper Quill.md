@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/whisper-quill/"}
+{"dg-publish":true,"permalink":"/campaign/items/whisper-quill/","noteIcon":"","created":"2025-10-26T13:09:24.658-07:00","updated":"2025-10-27T13:25:33.868-07:00"}
 ---
 
 # [[campaign/items/Whisper Quill\|Whisper Quill]]

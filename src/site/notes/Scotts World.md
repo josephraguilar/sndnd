@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/scotts-world/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/scotts-world/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-26T08:08:34.355-07:00","updated":"2025-10-27T13:18:42.606-07:00"}
 ---
 
 
@@ -29,12 +29,12 @@ Based in Faerun. The world is ran by a slaving organization who the crew origina
 | ----------------------------------------------------------- | --------------------------------------------------------- |
 | [[campaign/factions/Unseen\|Unseen]]                     | Thieves guild of Waterdeep                                |
 | [[campaign/factions/Dark Daggers\|Dark Daggers]]         | Thieves guild of [[campaign/locations/Baldur's Gate\|Baldur's Gate]]                        |
-| [[campaign/factions/Ironclad Enclave\|Ironclad Enclave]] | Faerun slave masters                                      |
 | [[campaign/factions/Gloomshadow\|Gloomshadow]]           | Thieves guild in Caer Callidier                           |
+| [[campaign/factions/Ironclad Enclave\|Ironclad Enclave]] | Faerun slave masters                                      |
 | [[campaign/factions/Velvet Blade\|Velvet Blade]]         | Thieves guild of Llejaigh                                 |
 | [[campaign/factions/Shag Dominica\|Shag Dominica]]       | Sahaugan that guard "The Three"                           |
-| [[campaign/factions/The Three\|The Three]]               | Three powerful hag sisters that lead The Ironcald Enclave |
 | [[campaign/factions/Veruz Rexna\|Veruz Rexna]]           | The paladins of Iuz, a sect formed of half goliaths.      |
+| [[campaign/factions/The Three\|The Three]]               | Three powerful hag sisters that lead The Ironcald Enclave |
 | [[campaign/factions/Black Maw\|Black Maw]]               | A brutal orc clan in Valeen                               |
 
 { .block-language-dataview}

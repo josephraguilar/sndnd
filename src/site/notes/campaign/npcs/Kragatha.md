@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/kragatha/","tags":["character","npc"]}
+{"dg-publish":true,"permalink":"/campaign/npcs/kragatha/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:29:53.848-07:00","updated":"2025-10-27T13:38:14.582-07:00"}
 ---
 
 # [[campaign/npcs/Kragatha\|Kragatha]]

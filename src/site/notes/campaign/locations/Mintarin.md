@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/mintarin/"}
+{"dg-publish":true,"permalink":"/campaign/locations/mintarin/","noteIcon":"","created":"2025-10-26T10:17:50.471-07:00","updated":"2025-10-27T13:36:03.206-07:00"}
 ---
 
 # # [[campaign/locations/Mintarin\|Mintarin]]

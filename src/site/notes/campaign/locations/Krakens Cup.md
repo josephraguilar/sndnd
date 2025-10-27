@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/krakens-cup/"}
+{"dg-publish":true,"permalink":"/campaign/locations/krakens-cup/","noteIcon":"","created":"2025-10-26T20:19:06.891-07:00","updated":"2025-10-27T13:26:43.428-07:00"}
 ---
 
 # # [[campaign/locations/Krakens Cup\|Krakens Cup]]

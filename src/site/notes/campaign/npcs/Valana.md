@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/valana/","tags":["character","npc"]}
+{"dg-publish":true,"permalink":"/campaign/npcs/valana/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T10:42:44.478-07:00","updated":"2025-10-27T13:39:34.222-07:00"}
 ---
 
 # [[campaign/npcs/Valana\|Valana]]

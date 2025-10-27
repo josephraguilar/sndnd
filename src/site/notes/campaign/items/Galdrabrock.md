@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/galdrabrock/"}
+{"dg-publish":true,"permalink":"/campaign/items/galdrabrock/","noteIcon":"","created":"2025-10-26T09:57:19.445-07:00","updated":"2025-10-27T13:25:21.521-07:00"}
 ---
 
 # [[campaign/items/Galdrabrock\|Galdrabrock]]

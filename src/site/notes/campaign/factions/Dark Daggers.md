@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/factions/dark-daggers/","tags":["faction"]}
+{"dg-publish":true,"permalink":"/campaign/factions/dark-daggers/","tags":["faction"],"noteIcon":"","created":"2025-10-26T10:35:55.022-07:00","updated":"2025-10-27T13:24:38.665-07:00"}
 ---
 
 # [[campaign/factions/Dark Daggers\|Dark Daggers]]

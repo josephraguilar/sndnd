@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/wicked-ursula-worm-wiggle/","tags":["character","npc"]}
+{"dg-publish":true,"permalink":"/campaign/npcs/wicked-ursula-worm-wiggle/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:28:11.238-07:00","updated":"2025-10-27T13:39:41.891-07:00"}
 ---
 
 # [[campaign/npcs/Wicked Ursula Worm Wiggle\|Wicked Ursula Worm Wiggle]]

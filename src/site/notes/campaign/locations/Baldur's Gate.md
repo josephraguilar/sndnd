@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/baldur-s-gate/"}
+{"dg-publish":true,"permalink":"/campaign/locations/baldur-s-gate/","noteIcon":"","created":"2025-10-26T08:49:11.662-07:00","updated":"2025-10-27T13:25:42.717-07:00"}
 ---
 
 # # [[campaign/locations/Baldur's Gate\|Baldur's Gate]]

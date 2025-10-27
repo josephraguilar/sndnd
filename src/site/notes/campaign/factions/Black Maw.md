@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/factions/black-maw/","tags":["faction"]}
+{"dg-publish":true,"permalink":"/campaign/factions/black-maw/","tags":["faction"],"noteIcon":"","created":"2025-10-26T20:30:48.186-07:00","updated":"2025-10-27T13:24:36.256-07:00"}
 ---
 
 # [[campaign/factions/Black Maw\|Black Maw]]

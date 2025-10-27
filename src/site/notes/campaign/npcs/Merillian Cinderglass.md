@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/merillian-cinderglass/","tags":["character","npc"]}
+{"dg-publish":true,"permalink":"/campaign/npcs/merillian-cinderglass/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T12:28:00.177-07:00","updated":"2025-10-27T13:38:36.198-07:00"}
 ---
 
 # [[campaign/npcs/Merillian Cinderglass\|Merillian Cinderglass]]

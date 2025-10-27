@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/driftwood-ulga-worm-wiggle/","tags":["character","npc"]}
+{"dg-publish":true,"permalink":"/campaign/npcs/driftwood-ulga-worm-wiggle/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:29:00.558-07:00","updated":"2025-10-27T13:37:02.162-07:00"}
 ---
 
 # [[campaign/npcs/Driftwood Ulga Worm Wiggle\|Driftwood Ulga Worm Wiggle]]

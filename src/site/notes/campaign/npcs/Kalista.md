@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/kalista/","tags":["character","npc"]}
+{"dg-publish":true,"permalink":"/campaign/npcs/kalista/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:20:54.883-07:00","updated":"2025-10-27T13:37:50.298-07:00"}
 ---
 
 # [[campaign/npcs/Kalista\|Kalista]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/briar-trask/","tags":["character","npc"]}
+{"dg-publish":true,"permalink":"/campaign/npcs/briar-trask/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:28:08.169-07:00","updated":"2025-10-27T13:36:56.755-07:00"}
 ---
 
 # [[campaign/npcs/Briar Trask\|Briar Trask]]

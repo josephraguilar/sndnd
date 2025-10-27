@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/tibit/","tags":["character","npc"]}
+{"dg-publish":true,"permalink":"/campaign/npcs/tibit/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:35:35.787-07:00","updated":"2025-10-27T13:39:22.759-07:00"}
 ---
 
 # [[campaign/npcs/Tibit\|Tibit]]

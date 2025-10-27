@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/thavgrak/","tags":["character","npc"]}
+{"dg-publish":true,"permalink":"/campaign/npcs/thavgrak/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T18:27:46.227-07:00","updated":"2025-10-27T13:39:17.457-07:00"}
 ---
 
 # [[campaign/npcs/Thavgrak\|Thavgrak]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/templates/player/","tags":["character","player"]}
+{"dg-publish":true,"permalink":"/templates/player/","tags":["character","player"],"noteIcon":"","created":"2025-10-26T08:08:36.476-07:00","updated":"2025-10-27T13:41:10.814-07:00"}
 ---
 
 

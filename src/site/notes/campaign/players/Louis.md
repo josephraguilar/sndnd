@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/louis/","tags":["character","player"]}
+{"dg-publish":true,"permalink":"/campaign/players/louis/","tags":["character","player"],"noteIcon":"","created":"2025-10-26T08:26:41.862-07:00","updated":"2025-10-27T13:40:11.301-07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/wanton-witch/"}
+{"dg-publish":true,"permalink":"/campaign/locations/wanton-witch/","noteIcon":"","created":"2025-10-26T08:18:07.705-07:00","updated":"2025-10-27T13:36:28.807-07:00"}
 ---
 
 # # [[campaign/locations/Wanton Witch\|Wanton Witch]]

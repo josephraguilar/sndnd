@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/queens-bitch/"}
+{"dg-publish":true,"permalink":"/campaign/items/queens-bitch/","noteIcon":"","created":"2025-10-26T10:26:31.999-07:00","updated":"2025-10-27T13:25:26.553-07:00"}
 ---
 
 # [[campaign/items/Queens Bitch\|Queens Bitch]]

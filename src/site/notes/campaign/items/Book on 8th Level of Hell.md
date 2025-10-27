@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/book-on-8th-level-of-hell/"}
+{"dg-publish":true,"permalink":"/campaign/items/book-on-8th-level-of-hell/","noteIcon":"","created":"2025-10-26T09:24:37.895-07:00","updated":"2025-10-27T13:25:12.290-07:00"}
 ---
 
 # [[campaign/items/Book on 8th Level of Hell\|Book on 8th Level of Hell]]

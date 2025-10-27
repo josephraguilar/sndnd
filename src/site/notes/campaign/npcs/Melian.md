@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/melian/","tags":["character","npc"]}
+{"dg-publish":true,"permalink":"/campaign/npcs/melian/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T10:30:41.185-07:00","updated":"2025-10-27T13:38:33.565-07:00"}
 ---
 
 # [[campaign/npcs/Melian\|Melian]]

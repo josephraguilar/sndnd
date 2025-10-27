@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/eternal-parchment/"}
+{"dg-publish":true,"permalink":"/campaign/items/eternal-parchment/","noteIcon":"","created":"2025-10-26T13:08:51.074-07:00","updated":"2025-10-27T13:25:18.122-07:00"}
 ---
 
 # [[campaign/items/Eternal Parchment\|Eternal Parchment]]

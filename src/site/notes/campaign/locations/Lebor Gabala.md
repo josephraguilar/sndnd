@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/lebor-gabala/"}
+{"dg-publish":true,"permalink":"/campaign/locations/lebor-gabala/","noteIcon":"","created":"2025-10-26T19:24:39.935-07:00","updated":"2025-10-27T13:35:52.158-07:00"}
 ---
 
 # # [[campaign/locations/Lebor Gabala\|Lebor Gabala]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/velvet-veil/"}
+{"dg-publish":true,"permalink":"/campaign/locations/velvet-veil/","noteIcon":"","created":"2025-10-26T10:39:03.600-07:00","updated":"2025-10-27T13:36:26.272-07:00"}
 ---
 
 # # [[campaign/locations/Velvet Veil\|Velvet Veil]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/cylia-liaric/","tags":["character","npc"]}
+{"dg-publish":true,"permalink":"/campaign/npcs/cylia-liaric/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T09:06:57.387-07:00","updated":"2025-10-27T13:36:59.674-07:00"}
 ---
 
 # [[campaign/npcs/Cylia Liaric\|Cylia Liaric]]
