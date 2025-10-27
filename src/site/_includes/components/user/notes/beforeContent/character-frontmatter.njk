@@ -1,0 +1,39 @@
+{% set showCard = tags and ("player" in tags or "character" in tags) %}
+{% if showCard %}
+
+  {% set fields = [
+    ["played_by", "Played By"],
+    ["race", "Race"],
+    ["class", "Class"],
+    ["level", "Level"],
+    ["alignment", "Alignment"],
+    ["role", "Role"],
+    ["status", "Status"],
+    ["affiliation", "Affiliation"],
+    ["first_appearance", "First Appearance"],
+    ["notes", "Notes"]
+  ] %}
+
+  {% set hasAny = false %}
+  {% for key, _ in fields %}
+    {% if attribute(this, key) %}{% set hasAny = true %}{% endif %}
+  {% endfor %}
+
+  {% if hasAny %}
+  <div class="character-card">
+    <h3 class="character-card__title">Character</h3>
+    <dl class="character-card__grid">
+      {% for key, label in fields %}
+        {% set val = attribute(this, key) %}
+        {% if val %}
+          <dt>{{ label }}</dt>
+          <dd>
+            {% if val.push is defined %}{{ val | join(', ') }}{% else %}{{ val }}{% endif %}
+          </dd>
+        {% endif %}
+      {% endfor %}
+    </dl>
+  </div>
+  {% endif %}
+
+{% endif %}
