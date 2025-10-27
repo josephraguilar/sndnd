@@ -1,0 +1,31 @@
+.character-card {
+  border: 1px solid var(--outline-color, #444);
+  padding: 12px;
+  border-radius: 10px;
+  margin: 1rem 0 1.2rem;
+  background: var(--card-bg, rgba(255,255,255,0.03));
+}
+
+.character-card__title {
+  margin: 0 0 .5rem 0;
+  font-size: 1.05rem;
+  opacity: .9;
+}
+
+.character-card__grid {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: .3rem .75rem;
+  margin: 0;
+}
+
+.character-card dt {
+  font-weight: 600;
+  opacity: .85;
+}
+
+.character-card dd {
+  margin: 0;
+  opacity: .95;
+  word-break: break-word;
+}
