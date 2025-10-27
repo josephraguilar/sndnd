@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"name":"Velvet Veil","location_type":"stronghold","continent":null,"region":null,"city":"[[campaign/locations/Baldur's Gate\|Baldur's Gate]]","description":null,"tags":null,"permalink":"/campaign/locations/velvet-veil/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-26T10:39:03.600-07:00","updated":"2025-10-27T13:36:26.272-07:00"}
+{"dg-publish":true,"name":"Velvet Veil","location_type":"stronghold","continent":null,"region":null,"city":"[[Baldur's Gate\|Baldur's Gate]]","description":null,"tags":null,"permalink":"/campaign/locations/velvet-veil/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-26T10:39:03.600-07:00","updated":"2025-10-27T13:36:26.272-07:00"}
 ---
 
 # # [[campaign/locations/Velvet Veil\|Velvet Veil]]
