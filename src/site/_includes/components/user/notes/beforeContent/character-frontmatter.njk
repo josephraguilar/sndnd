@@ -1,39 +1,48 @@
+{# Show only on notes with these tags; change as you like #}
 {% set showCard = tags and ("player" in tags or "character" in tags) %}
 {% if showCard %}
 
+  {# Build the list AND bind the actual values up front.
+     This avoids calling attribute() or using tricky context lookups. #}
   {% set fields = [
-    ["played_by", "Played By"],
-    ["race", "Race"],
-    ["class", "Class"],
-    ["level", "Level"],
-    ["alignment", "Alignment"],
-    ["role", "Role"],
-    ["status", "Status"],
-    ["affiliation", "Affiliation"],
-    ["first_appearance", "First Appearance"],
-    ["notes", "Notes"]
+    ["Played By", played_by],
+    ["Race", race],
+    ["Class", class],
+    ["Level", level],
+    ["Alignment", alignment],
+    ["Role", role],
+    ["Status", status],
+    ["Affiliation", affiliation],
+    ["First Appearance", first_appearance],
+    ["Notes", notes]
   ] %}
 
+  {# Detect if any value exists #}
   {% set hasAny = false %}
-  {% for key, _ in fields %}
-    {% if attribute(this, key) %}{% set hasAny = true %}{% endif %}
+  {% for label, val in fields %}
+    {% if val %}{% set hasAny = true %}{% endif %}
   {% endfor %}
 
   {% if hasAny %}
   <div class="character-card">
     <h3 class="character-card__title">Character</h3>
     <dl class="character-card__grid">
-      {% for key, label in fields %}
-        {% set val = attribute(this, key) %}
+      {% for label, val in fields %}
         {% if val %}
           <dt>{{ label }}</dt>
           <dd>
+            {# If someone later turns a field into a list, render nicely #}
             {% if val.push is defined %}{{ val | join(', ') }}{% else %}{{ val }}{% endif %}
           </dd>
         {% endif %}
       {% endfor %}
+
+      {# Optional: show tags too #}
+      {% if tags and tags.length %}
+        <dt>Tags</dt>
+        <dd>{{ tags | join(', ') }}</dd>
+      {% endif %}
     </dl>
   </div>
   {% endif %}
-
 {% endif %}
