@@ -1,7 +1,17 @@
 ---
-{"dg-publish":true,"played_by":"Rodney","race":"Dwarf","class":"Cleric - War Domain","level":7,"alignment":null,"background":null,"role":null,"status":null,"current_location":null,"affiliation":["[[campaign/players/Kormak\|Kormak]]"],"first_appearance":null,"notes":null,"tags":["character","player"],"permalink":"/campaign/players/thorin/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-26T09:02:09.860-07:00","updated":"2025-10-27T13:40:22.107-07:00"}
+{"dg-publish":true,"played_by":"Rodney","race":"Dwarf","class":"Cleric - War Domain","level":7,"alignment":null,"background":null,"role":null,"status":null,"current_location":null,"affiliation":["[[campaign/players/Kormak\|Kormak]]"],"first_appearance":null,"notes":null,"tags":["character","player"],"permalink":"/campaign/players/thorin/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-26T09:02:09.860-07:00","updated":"2025-10-27T16:06:02.831-07:00"}
 ---
 
+
+<p><span><ul>
+<li dir="auto"><strong>Played By:</strong> Rodney</li>
+<li dir="auto"><strong>Race:</strong> Dwarf</li>
+<li dir="auto"><strong>Class:</strong> Cleric - War Domain</li>
+<li dir="auto"><strong>Level:</strong> 7</li>
+<li dir="auto"><strong>Affiliation:</strong> <a data-tooltip-position="top" aria-label="campaign/players/Kormak.md" data-href="campaign/players/Kormak.md" href="campaign/players/Kormak.md" class="internal-link" target="_blank" rel="noopener nofollow">Kormak</a></li>
+</ul></span></p>
+
+---
 
 # [[campaign/players/Thorin\|Thorin]]
 *Physical appearance, demeanor, quirks, and mannerisms.*

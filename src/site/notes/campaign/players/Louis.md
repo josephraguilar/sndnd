@@ -1,7 +1,15 @@
 ---
-{"dg-publish":true,"played_by":"Emily","race":"Halfling","class":"Warlock","level":null,"alignment":null,"background":null,"role":null,"status":null,"current_location":null,"affiliation":null,"first_appearance":null,"notes":null,"tags":["character","player"],"permalink":"/campaign/players/louis/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-26T08:26:41.862-07:00","updated":"2025-10-27T13:40:11.301-07:00"}
+{"dg-publish":true,"played_by":"Emily","race":"Halfling","class":"Warlock","level":null,"alignment":null,"background":null,"role":null,"status":null,"current_location":null,"affiliation":null,"first_appearance":null,"notes":null,"tags":["character","player"],"permalink":"/campaign/players/louis/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-26T08:26:41.862-07:00","updated":"2025-10-27T16:05:45.832-07:00"}
 ---
 
+
+<p><span><ul>
+<li dir="auto"><strong>Played By:</strong> Emily</li>
+<li dir="auto"><strong>Race:</strong> Halfling</li>
+<li dir="auto"><strong>Class:</strong> Warlock</li>
+</ul></span></p>
+
+---
 
 # [[campaign/players/Louis\|Louis]]
 A small frail old lady who keeps dark company. Care for a Werther's original? 
