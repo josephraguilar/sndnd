@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/lebor-gabala/","noteIcon":"","created":"2025-10-26T19:24:39.935-07:00","updated":"2025-10-27T13:35:52.158-07:00"}
+{"dg-publish":true,"name":"Lebor gabala","location_type":"region","continent":null,"region":null,"city":null,"description":"The promised land for Firbolg","tags":null,"permalink":"/campaign/locations/lebor-gabala/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-26T19:24:39.935-07:00","updated":"2025-10-27T13:35:52.158-07:00"}
 ---
 
 # # [[campaign/locations/Lebor Gabala\|Lebor Gabala]]

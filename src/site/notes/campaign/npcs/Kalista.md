@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/kalista/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:20:54.883-07:00","updated":"2025-10-27T13:37:50.298-07:00"}
+{"dg-publish":true,"name":"Kalista","gender":"female","race":"Human","class":null,"level":null,"alignment":null,"background":null,"role":null,"status":null,"current_location":null,"affiliation":null,"first_appearance":null,"description":"a younger more attractive woman","tags":["character","npc"],"permalink":"/campaign/npcs/kalista/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-26T08:20:54.883-07:00","updated":"2025-10-27T13:37:50.298-07:00"}
 ---
 
 # [[campaign/npcs/Kalista\|Kalista]]
