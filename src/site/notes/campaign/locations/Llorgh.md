@@ -1,5 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/llorgh/","noteIcon":"","created":"2025-10-26T10:04:22.021-07:00","updated":"2025-10-27T13:35:57.304-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/llorgh/","noteIcon":"","created":"2025-10-26T10:04:22.021-07:00","updated":"2025-10-27T16:35:34.673-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Llorgh</li>
+<li dir="auto"><strong>Location Type:</strong> island</li>
+<li dir="auto"><strong>Description:</strong> Obold's home island.</li>
+</ul></span></p>
+
 ---
 
 # # [[campaign/locations/Llorgh\|Llorgh]]

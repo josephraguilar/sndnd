@@ -1,5 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/kragatha/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:29:53.848-07:00","updated":"2025-10-27T13:38:14.582-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/kragatha/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:29:53.848-07:00","updated":"2025-10-27T16:37:46.776-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Kragatha</li>
+<li dir="auto"><strong>Gender:</strong> female</li>
+</ul></span></p>
+
 ---
 
 # [[campaign/npcs/Kragatha\|Kragatha]]

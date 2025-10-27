@@ -1,5 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/llejaigh/","noteIcon":"","created":"2025-10-26T20:20:16.820-07:00","updated":"2025-10-27T13:35:54.547-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/llejaigh/","noteIcon":"","created":"2025-10-26T20:20:16.820-07:00","updated":"2025-10-27T16:35:32.342-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Llejaigh</li>
+<li dir="auto"><strong>Continent:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Allyron.md" data-href="campaign/locations/Allyron.md" href="campaign/locations/Allyron.md" class="internal-link" target="_blank" rel="noopener nofollow">Allyron</a></li>
+</ul></span></p>
+
 ---
 
 # # [[campaign/locations/Llejaigh\|Llejaigh]]

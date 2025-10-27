@@ -1,5 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/thavgrak/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T18:27:46.227-07:00","updated":"2025-10-27T13:39:17.457-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/thavgrak/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T18:27:46.227-07:00","updated":"2025-10-27T16:38:42.596-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Thavgrak</li>
+<li dir="auto"><strong>Gender:</strong> male</li>
+<li dir="auto"><strong>Race:</strong> Goliath</li>
+</ul></span></p>
+
 ---
 
 # [[campaign/npcs/Thavgrak\|Thavgrak]]

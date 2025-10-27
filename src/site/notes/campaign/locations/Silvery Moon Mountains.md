@@ -1,5 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/silvery-moon-mountains/","noteIcon":"","created":"2025-10-26T10:33:13.055-07:00","updated":"2025-10-27T13:36:09.005-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/silvery-moon-mountains/","noteIcon":"","created":"2025-10-26T10:33:13.055-07:00","updated":"2025-10-27T16:35:44.871-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Silvery Moon Mountains</li>
+<li dir="auto"><strong>Location Type:</strong> region</li>
+</ul></span></p>
+
 ---
 
 # # [[campaign/locations/Silvery Moon Mountains\|Silvery Moon Mountains]]

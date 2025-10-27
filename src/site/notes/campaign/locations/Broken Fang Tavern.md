@@ -1,5 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/broken-fang-tavern/","noteIcon":"","created":"2025-10-26T08:35:02.057-07:00","updated":"2025-10-27T13:25:45.625-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/broken-fang-tavern/","noteIcon":"","created":"2025-10-26T08:35:02.057-07:00","updated":"2025-10-27T16:34:53.106-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Broken Fang Tavern</li>
+<li dir="auto"><strong>Location Type:</strong> inn</li>
+<li dir="auto"><strong>Region:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Valeen.md" data-href="campaign/locations/Valeen.md" href="campaign/locations/Valeen.md" class="internal-link" target="_blank" rel="noopener nofollow">Valeen</a></li>
+<li dir="auto"><strong>City:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Kragthars Respite.md" data-href="campaign/locations/Kragthars Respite.md" href="campaign/locations/Kragthars Respite.md" class="internal-link" target="_blank" rel="noopener nofollow">Kragthars Respite</a></li>
+</ul></span></p>
+
 ---
 
 # # [[campaign/locations/Broken Fang Tavern\|Broken Fang Tavern]]

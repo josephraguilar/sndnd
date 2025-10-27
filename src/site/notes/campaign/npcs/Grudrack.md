@@ -1,5 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/grudrack/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T18:47:54.838-07:00","updated":"2025-10-27T13:37:21.325-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/grudrack/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T18:47:54.838-07:00","updated":"2025-10-27T16:37:18.467-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Grudrack</li>
+</ul></span></p>
+
 ---
 
 # [[campaign/npcs/Grudrack\|Grudrack]]

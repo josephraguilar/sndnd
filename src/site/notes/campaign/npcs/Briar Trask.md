@@ -1,5 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/briar-trask/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:28:08.169-07:00","updated":"2025-10-27T13:36:56.755-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/briar-trask/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:28:08.169-07:00","updated":"2025-10-27T16:36:50.860-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Briar Trask</li>
+<li dir="auto"><strong>Gender:</strong> male</li>
+<li dir="auto"><strong>Role:</strong> Task master</li>
+<li dir="auto"><strong>Status:</strong> dead</li>
+<li dir="auto"><strong>Faction:</strong> <a data-tooltip-position="top" aria-label="campaign/factions/Gloomshadow.md" data-href="campaign/factions/Gloomshadow.md" href="campaign/factions/Gloomshadow.md" class="internal-link" target="_blank" rel="noopener nofollow">Gloomshadow</a></li>
+</ul></span></p>
+
 ---
 
 # [[campaign/npcs/Briar Trask\|Briar Trask]]

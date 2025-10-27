@@ -1,5 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/kragthars-respite/","noteIcon":"","created":"2025-10-26T08:35:20.039-07:00","updated":"2025-10-27T13:26:39.196-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/kragthars-respite/","noteIcon":"","created":"2025-10-26T08:35:20.039-07:00","updated":"2025-10-27T16:35:25.571-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Kragthars Respite</li>
+<li dir="auto"><strong>Location Type:</strong> city</li>
+<li dir="auto"><strong>Region:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Valeen.md" data-href="campaign/locations/Valeen.md" href="campaign/locations/Valeen.md" class="internal-link" target="_blank" rel="noopener nofollow">Valeen</a></li>
+</ul></span></p>
+
 ---
 
 # # [[campaign/locations/Kragthars Respite\|Kragthars Respite]]

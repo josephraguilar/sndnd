@@ -1,5 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/sword-coast/","noteIcon":"","created":"2025-10-26T14:56:51.090-07:00","updated":"2025-10-27T13:36:14.503-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/sword-coast/","noteIcon":"","created":"2025-10-26T14:56:51.090-07:00","updated":"2025-10-27T16:35:50.475-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Sword Coast</li>
+<li dir="auto"><strong>Location Type:</strong> region</li>
+</ul></span></p>
+
 ---
 
 # # [[campaign/locations/Sword Coast\|Sword Coast]]

@@ -1,5 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/wicked-ursula-worm-wiggle/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:28:11.238-07:00","updated":"2025-10-27T13:39:41.891-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/wicked-ursula-worm-wiggle/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:28:11.238-07:00","updated":"2025-10-27T16:39:07.090-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Wicked Ursula Worm Wiggle</li>
+<li dir="auto"><strong>Gender:</strong> female</li>
+</ul></span></p>
+
 ---
 
 # [[campaign/npcs/Wicked Ursula Worm Wiggle\|Wicked Ursula Worm Wiggle]]

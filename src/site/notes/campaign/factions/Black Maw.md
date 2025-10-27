@@ -1,5 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/factions/black-maw/","tags":["faction"],"noteIcon":"","created":"2025-10-26T20:30:48.186-07:00","updated":"2025-10-27T13:24:36.256-07:00"}
+{"dg-publish":true,"permalink":"/campaign/factions/black-maw/","tags":["faction"],"noteIcon":"","created":"2025-10-26T20:30:48.186-07:00","updated":"2025-10-27T16:33:39.267-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Black Maw</li>
+<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Valeen.md" data-href="campaign/locations/Valeen.md" href="campaign/locations/Valeen.md" class="internal-link" target="_blank" rel="noopener nofollow">Valeen</a></li>
+<li dir="auto"><strong>Current Location:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Valeen.md" data-href="campaign/locations/Valeen.md" href="campaign/locations/Valeen.md" class="internal-link" target="_blank" rel="noopener nofollow">Valeen</a></li>
+<li dir="auto"><strong>Affiliation:</strong> <a data-tooltip-position="top" aria-label="campaign/factions/Veruz Rexna.md" data-href="campaign/factions/Veruz Rexna.md" href="campaign/factions/Veruz Rexna.md" class="internal-link" target="_blank" rel="noopener nofollow">Veruz Rexna</a></li>
+<li dir="auto"><strong>Description:</strong> A brutal orc clan in Valeen</li>
+</ul></span></p>
+
 ---
 
 # [[campaign/factions/Black Maw\|Black Maw]]

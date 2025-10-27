@@ -1,5 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/jai/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:31:58.879-07:00","updated":"2025-10-27T13:37:35.056-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/jai/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:31:58.879-07:00","updated":"2025-10-27T16:37:30.536-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Jai</li>
+</ul></span></p>
+
 ---
 
 # [[campaign/npcs/Jai\|Jai]]

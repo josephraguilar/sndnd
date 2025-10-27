@@ -1,5 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/lebor-gabala/","noteIcon":"","created":"2025-10-26T19:24:39.935-07:00","updated":"2025-10-27T13:35:52.158-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/lebor-gabala/","noteIcon":"","created":"2025-10-26T19:24:39.935-07:00","updated":"2025-10-27T16:35:29.999-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Lebor gabala</li>
+<li dir="auto"><strong>Location Type:</strong> region</li>
+<li dir="auto"><strong>Description:</strong> The promised land for Firbolg</li>
+</ul></span></p>
+
 ---
 
 # # [[campaign/locations/Lebor Gabala\|Lebor Gabala]]

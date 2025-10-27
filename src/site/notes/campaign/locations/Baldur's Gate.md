@@ -1,5 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/baldur-s-gate/","noteIcon":"","created":"2025-10-26T08:49:11.662-07:00","updated":"2025-10-27T16:14:22.717-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/baldur-s-gate/","noteIcon":"","created":"2025-10-26T08:49:11.662-07:00","updated":"2025-10-27T16:34:50.593-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Baldurs Gate</li>
+<li dir="auto"><strong>Location Type:</strong> city</li>
+</ul></span></p>
+
 ---
 
 # # [[campaign/locations/Baldur's Gate\|Baldur's Gate]]

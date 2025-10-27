@@ -1,5 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/merillian-cinderglass/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T12:28:00.177-07:00","updated":"2025-10-27T13:38:36.198-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/merillian-cinderglass/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T12:28:00.177-07:00","updated":"2025-10-27T16:38:09.171-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Merillian Cinderglass</li>
+</ul></span></p>
+
 ---
 
 # [[campaign/npcs/Merillian Cinderglass\|Merillian Cinderglass]]

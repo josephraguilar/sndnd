@@ -1,5 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/okku/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:40:36.699-07:00","updated":"2025-10-27T13:38:44.741-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/okku/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:40:36.699-07:00","updated":"2025-10-27T16:38:14.058-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Okku</li>
+<li dir="auto"><strong>Role:</strong> God</li>
+</ul></span></p>
+
 ---
 
 # [[campaign/npcs/Okku\|Okku]]

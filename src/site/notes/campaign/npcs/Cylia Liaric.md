@@ -1,5 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/cylia-liaric/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T09:06:57.387-07:00","updated":"2025-10-27T13:36:59.674-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/cylia-liaric/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T09:06:57.387-07:00","updated":"2025-10-27T16:36:53.382-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Cylie Liaric</li>
+<li dir="auto"><strong>Gender:</strong> female</li>
+<li dir="auto"><strong>Race:</strong> Elf</li>
+<li dir="auto"><strong>Description:</strong> a beautiful blue haired elf</li>
+</ul></span></p>
+
 ---
 
 # [[campaign/npcs/Cylia Liaric\|Cylia Liaric]]

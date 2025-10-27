@@ -1,5 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/eargrak/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T18:26:39.797-07:00","updated":"2025-10-27T13:37:04.608-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/eargrak/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T18:26:39.797-07:00","updated":"2025-10-27T16:36:59.315-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Eargrak</li>
+<li dir="auto"><strong>Gender:</strong> male</li>
+<li dir="auto"><strong>Race:</strong> Half Goliath</li>
+</ul></span></p>
+
 ---
 
 # [[campaign/npcs/Eargrak\|Eargrak]]

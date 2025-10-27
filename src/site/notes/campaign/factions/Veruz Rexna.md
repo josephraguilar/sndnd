@@ -1,5 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/factions/veruz-rexna/","tags":["faction"],"noteIcon":"","created":"2025-10-26T10:09:45.842-07:00","updated":"2025-10-27T13:24:56.898-07:00"}
+{"dg-publish":true,"permalink":"/campaign/factions/veruz-rexna/","tags":["faction"],"noteIcon":"","created":"2025-10-26T10:09:45.842-07:00","updated":"2025-10-27T16:34:03.481-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Veruz Rexna</li>
+<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Allyron.md" data-href="campaign/locations/Allyron.md" href="campaign/locations/Allyron.md" class="internal-link" target="_blank" rel="noopener nofollow">Allyron</a></li>
+<li dir="auto"><strong>Affiliation:</strong> <a data-tooltip-position="top" aria-label="campaign/factions/Ironclad Enclave.md" data-href="campaign/factions/Ironclad Enclave.md" href="campaign/factions/Ironclad Enclave.md" class="internal-link" target="_blank" rel="noopener nofollow">Ironclad Enclave</a></li>
+<li dir="auto"><strong>Description:</strong> The paladins of Iuz, a sect formed of half goliaths.</li>
+</ul></span></p>
+
 ---
 
 # [[campaign/factions/Veruz Rexna\|Veruz Rexna]]

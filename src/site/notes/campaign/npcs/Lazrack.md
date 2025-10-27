@@ -1,5 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/lazrack/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T18:46:19.837-07:00","updated":"2025-10-27T13:38:21.059-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/lazrack/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T18:46:19.837-07:00","updated":"2025-10-27T16:37:52.001-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Lazrack</li>
+<li dir="auto"><strong>Race:</strong> Goliath</li>
+</ul></span></p>
+
 ---
 
 # [[campaign/npcs/Lazrack\|Lazrack]]

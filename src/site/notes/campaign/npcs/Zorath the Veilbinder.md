@@ -1,5 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/zorath-the-veilbinder/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:48:44.042-07:00","updated":"2025-10-27T13:39:55.770-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/zorath-the-veilbinder/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:48:44.042-07:00","updated":"2025-10-27T16:39:20.961-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Zorath the Veilbinder</li>
+<li dir="auto"><strong>Class:</strong> Wizard</li>
+<li dir="auto"><strong>Status:</strong> dead</li>
+</ul></span></p>
+
 ---
 
 # [[campaign/npcs/Zorath the Veilbinder\|Zorath the Veilbinder]]

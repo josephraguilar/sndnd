@@ -1,5 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/magnolia-duvall/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T12:25:19.403-07:00","updated":"2025-10-27T13:38:31.189-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/magnolia-duvall/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T12:25:19.403-07:00","updated":"2025-10-27T16:38:03.628-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Magnolia Duvall</li>
+<li dir="auto"><strong>Gender:</strong> female</li>
+<li dir="auto"><strong>Race:</strong> Elf</li>
+</ul></span></p>
+
 ---
 
 # [[campaign/npcs/Magnolia Duvall\|Magnolia Duvall]]

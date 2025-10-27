@@ -1,5 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/luiren/","noteIcon":"","created":"2025-10-26T19:03:34.973-07:00","updated":"2025-10-27T13:36:00.126-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/luiren/","noteIcon":"","created":"2025-10-26T19:03:34.973-07:00","updated":"2025-10-27T16:35:37.649-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Luiren</li>
+<li dir="auto"><strong>Location Type:</strong> region</li>
+</ul></span></p>
+
 ---
 
 # [[campaign/locations/Luiren\|Luiren]]

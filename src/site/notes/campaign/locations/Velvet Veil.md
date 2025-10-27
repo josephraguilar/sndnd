@@ -1,5 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/velvet-veil/","noteIcon":"","created":"2025-10-26T10:39:03.600-07:00","updated":"2025-10-27T16:14:21.296-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/velvet-veil/","noteIcon":"","created":"2025-10-26T10:39:03.600-07:00","updated":"2025-10-27T16:36:00.400-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Velvet Veil</li>
+<li dir="auto"><strong>Location Type:</strong> stronghold</li>
+<li dir="auto"><strong>City:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Baldur's Gate.md" data-href="campaign/locations/Baldur's Gate.md" href="campaign/locations/Baldur's Gate.md" class="internal-link" target="_blank" rel="noopener nofollow">Baldur's Gate</a></li>
+</ul></span></p>
+
 ---
 
 # # [[campaign/locations/Velvet Veil\|Velvet Veil]]

@@ -1,5 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/kalista/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:20:54.883-07:00","updated":"2025-10-27T13:37:50.298-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/kalista/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:20:54.883-07:00","updated":"2025-10-27T16:37:37.383-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Kalista</li>
+<li dir="auto"><strong>Gender:</strong> female</li>
+<li dir="auto"><strong>Race:</strong> Human</li>
+<li dir="auto"><strong>Description:</strong> a younger more attractive woman</li>
+</ul></span></p>
+
 ---
 
 # [[campaign/npcs/Kalista\|Kalista]]

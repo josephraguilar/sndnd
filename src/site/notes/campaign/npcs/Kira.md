@@ -1,5 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/kira/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T09:19:57.137-07:00","updated":"2025-10-27T13:38:12.081-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/kira/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T09:19:57.137-07:00","updated":"2025-10-27T16:37:43.700-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Kira</li>
+<li dir="auto"><strong>Gender:</strong> female</li>
+<li dir="auto"><strong>Race:</strong> Human</li>
+<li dir="auto"><strong>Class:</strong> Wizard</li>
+</ul></span></p>
+
 ---
 
 # [[campaign/npcs/Kira\|Kira]]

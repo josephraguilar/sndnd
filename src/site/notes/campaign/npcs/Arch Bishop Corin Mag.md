@@ -1,5 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/arch-bishop-corin-mag/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:25:57.390-07:00","updated":"2025-10-27T13:36:39.589-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/arch-bishop-corin-mag/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:25:57.390-07:00","updated":"2025-10-27T16:36:36.918-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Arch Bishop Corin Mag</li>
+<li dir="auto"><strong>Gender:</strong> male</li>
+<li dir="auto"><strong>Role:</strong> Arch Bishop</li>
+<li dir="auto"><strong>Status:</strong> dead</li>
+</ul></span></p>
+
 ---
 
 # [[campaign/npcs/Arch Bishop Corin Mag\|Arch Bishop Corin Mag]]

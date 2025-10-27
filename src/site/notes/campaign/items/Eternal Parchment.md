@@ -1,5 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/eternal-parchment/","noteIcon":"","created":"2025-10-26T13:08:51.074-07:00","updated":"2025-10-27T13:25:18.122-07:00"}
+{"dg-publish":true,"permalink":"/campaign/items/eternal-parchment/","noteIcon":"","created":"2025-10-26T13:08:51.074-07:00","updated":"2025-10-27T16:34:29.344-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Eternal Parchment</li>
+<li dir="auto"><strong>Owner:</strong> <a data-tooltip-position="top" aria-label="campaign/players/Alias.md" data-href="campaign/players/Alias.md" href="campaign/players/Alias.md" class="internal-link" target="_blank" rel="noopener nofollow">Alias</a></li>
+</ul></span></p>
+
 ---
 
 # [[campaign/items/Eternal Parchment\|Eternal Parchment]]

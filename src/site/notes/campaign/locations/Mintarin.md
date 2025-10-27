@@ -1,5 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/mintarin/","noteIcon":"","created":"2025-10-26T10:17:50.471-07:00","updated":"2025-10-27T13:36:03.206-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/mintarin/","noteIcon":"","created":"2025-10-26T10:17:50.471-07:00","updated":"2025-10-27T16:35:40.095-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Minterin</li>
+<li dir="auto"><strong>Location Type:</strong> island</li>
+<li dir="auto"><strong>Description:</strong> the island Obold pledged his life to Baphomet</li>
+</ul></span></p>
+
 ---
 
 # # [[campaign/locations/Mintarin\|Mintarin]]

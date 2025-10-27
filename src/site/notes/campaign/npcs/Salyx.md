@@ -1,5 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/salyx/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T09:48:28.084-07:00","updated":"2025-10-27T13:38:55.884-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/salyx/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T09:48:28.084-07:00","updated":"2025-10-27T16:38:24.981-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Sal</li>
+<li dir="auto"><strong>Gender:</strong> male</li>
+<li dir="auto"><strong>Race:</strong> Halfling</li>
+</ul></span></p>
+
 ---
 
 # [[campaign/npcs/Salyx\|Salyx]]

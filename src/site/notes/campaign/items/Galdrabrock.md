@@ -1,5 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/galdrabrock/","noteIcon":"","created":"2025-10-26T09:57:19.445-07:00","updated":"2025-10-27T13:25:21.521-07:00"}
+{"dg-publish":true,"permalink":"/campaign/items/galdrabrock/","noteIcon":"","created":"2025-10-26T09:57:19.445-07:00","updated":"2025-10-27T16:34:33.018-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Galdrabrock</li>
+<li dir="auto"><strong>Owner:</strong> <a data-tooltip-position="top" aria-label="campaign/npcs/Thexus.md" data-href="campaign/npcs/Thexus.md" href="campaign/npcs/Thexus.md" class="internal-link" target="_blank" rel="noopener nofollow">Thexus</a></li>
+</ul></span></p>
+
 ---
 
 # [[campaign/items/Galdrabrock\|Galdrabrock]]

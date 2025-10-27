@@ -1,5 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/book-of-necromancy/","noteIcon":"","created":"2025-10-26T09:16:40.745-07:00","updated":"2025-10-27T13:25:09.154-07:00"}
+{"dg-publish":true,"permalink":"/campaign/items/book-of-necromancy/","noteIcon":"","created":"2025-10-26T09:16:40.745-07:00","updated":"2025-10-27T16:34:16.666-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Book of Necromancy</li>
+<li dir="auto"><strong>Owner:</strong> <a data-tooltip-position="top" aria-label="campaign/npcs/Kira.md" data-href="campaign/npcs/Kira.md" href="campaign/npcs/Kira.md" class="internal-link" target="_blank" rel="noopener nofollow">Kira</a></li>
+</ul></span></p>
+
 ---
 
 # [[campaign/items/Book of Necromancy\|Book of Necromancy]]

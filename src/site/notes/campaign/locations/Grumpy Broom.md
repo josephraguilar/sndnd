@@ -1,5 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/grumpy-broom/","noteIcon":"","created":"2025-10-26T19:33:27.869-07:00","updated":"2025-10-27T13:26:29.466-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/grumpy-broom/","noteIcon":"","created":"2025-10-26T19:33:27.869-07:00","updated":"2025-10-27T16:35:16.952-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Grumpy Broom</li>
+</ul></span></p>
+
 ---
 
 # # [[campaign/locations/Grumpy Broom\|Grumpy Broom]]

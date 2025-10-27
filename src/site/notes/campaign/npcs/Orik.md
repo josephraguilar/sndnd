@@ -1,5 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/orik/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:33:12.643-07:00","updated":"2025-10-27T13:38:47.344-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/orik/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:33:12.643-07:00","updated":"2025-10-27T16:38:16.601-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Orik</li>
+</ul></span></p>
+
 ---
 
 # [[campaign/npcs/Orik\|Orik]]

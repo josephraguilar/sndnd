@@ -1,5 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/waterdeep/","noteIcon":"","created":"2025-10-26T10:01:34.616-07:00","updated":"2025-10-27T13:36:31.419-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/waterdeep/","noteIcon":"","created":"2025-10-26T10:01:34.616-07:00","updated":"2025-10-27T16:36:06.404-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Waterdeep</li>
+<li dir="auto"><strong>Location Type:</strong> city</li>
+</ul></span></p>
+
 ---
 
 # # [[campaign/locations/Waterdeep\|Waterdeep]]

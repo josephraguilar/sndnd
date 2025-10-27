@@ -1,5 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/caer-callidier/","noteIcon":"","created":"2025-10-26T09:22:15.344-07:00","updated":"2025-10-27T13:25:49.067-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/caer-callidier/","noteIcon":"","created":"2025-10-26T09:22:15.344-07:00","updated":"2025-10-27T16:34:55.394-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Caer Callidier</li>
+<li dir="auto"><strong>Location Type:</strong> city</li>
+<li dir="auto"><strong>Continent:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Allyron.md" data-href="campaign/locations/Allyron.md" href="campaign/locations/Allyron.md" class="internal-link" target="_blank" rel="noopener nofollow">Allyron</a></li>
+</ul></span></p>
+
 ---
 
 # # [[campaign/locations/Caer Callidier\|Caer Callidier]]
