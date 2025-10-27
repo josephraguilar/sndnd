@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"type":"session","location":null,"date":"<% tp.date.now(\"YYYY-MM-DD\") %>","summary":"","art":"","episode":null,"tags":null,"permalink":"/templates/session/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-26T08:08:36.503-07:00","updated":"2025-10-27T13:23:46.322-07:00"}
+{"dg-publish":true,"permalink":"/templates/session/","noteIcon":"","created":"2025-10-26T08:08:36.503-07:00","updated":"2025-10-27T13:23:46.322-07:00"}
 ---
 
 # [[<% tp.file.title %>\|<% tp.file.title %>]]

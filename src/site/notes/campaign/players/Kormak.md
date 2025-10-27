@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"played_by":"Caleb","race":"Dwarf","class":"Artificer - Armorer","level":7,"alignment":null,"background":null,"role":null,"status":null,"current_location":null,"affiliation":null,"first_appearance":null,"notes":null,"tags":["character","player"],"permalink":"/campaign/players/kormak/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-26T09:01:34.968-07:00","updated":"2025-10-27T13:40:08.255-07:00"}
+{"dg-publish":true,"permalink":"/campaign/players/kormak/","tags":["character","player"],"noteIcon":"","created":"2025-10-26T09:01:34.968-07:00","updated":"2025-10-27T13:40:08.255-07:00"}
 ---
 
 

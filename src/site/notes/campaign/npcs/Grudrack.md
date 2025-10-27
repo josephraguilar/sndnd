@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"name":"Grudrack","gender":null,"race":null,"class":null,"level":null,"alignment":null,"background":null,"role":null,"status":null,"current_location":null,"affiliation":null,"first_appearance":null,"description":null,"tags":["character","npc"],"permalink":"/campaign/npcs/grudrack/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-26T18:47:54.838-07:00","updated":"2025-10-27T13:37:21.325-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/grudrack/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T18:47:54.838-07:00","updated":"2025-10-27T13:37:21.325-07:00"}
 ---
 
 # [[campaign/npcs/Grudrack\|Grudrack]]

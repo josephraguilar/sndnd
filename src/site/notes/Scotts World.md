@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/scotts-world/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-26T08:08:34.355-07:00","updated":"2025-10-27T13:18:42.606-07:00"}
+{"dg-publish":true,"permalink":"/scotts-world/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-26T08:08:34.355-07:00","updated":"2025-10-27T13:18:42.606-07:00"}
 ---
 
 

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"name":"Dark Daggers","background":null,"role":null,"first_appearance":null,"current_location":"[[campaign/locations/Baldur's Gate\|Baldur's Gate]]","affiliation":null,"status":null,"description":"Thieves guild of [[Baldur's Gate]]","tags":["faction"],"permalink":"/campaign/factions/dark-daggers/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-26T10:35:55.022-07:00","updated":"2025-10-27T13:24:38.665-07:00"}
+{"dg-publish":true,"permalink":"/campaign/factions/dark-daggers/","tags":["faction"],"noteIcon":"","created":"2025-10-26T10:35:55.022-07:00","updated":"2025-10-27T13:24:38.665-07:00"}
 ---
 
 # [[campaign/factions/Dark Daggers\|Dark Daggers]]
-Thieves guild of [[Baldur's Gate]] , their hideout is the [[campaign/locations/Velvet Veil\|Velvet Veil]]
+Thieves guild of [[campaign/locations/Baldur's Gate\|Baldur's Gate]] , their hideout is the [[campaign/locations/Velvet Veil\|Velvet Veil]]
 ## Notes
 The original organization the party was enslaved by. 
 
