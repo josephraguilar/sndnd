@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"name":"Okku","gender":null,"race":null,"class":null,"level":null,"alignment":null,"background":null,"role":"God","status":null,"current_location":null,"faction":null,"affiliation":null,"first_appearance":null,"description":null,"tags":["character","npc"],"permalink":"/campaign/npcs/okku/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-26T19:40:36.699-07:00","updated":"2025-10-27T13:38:44.741-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/okku/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:40:36.699-07:00","updated":"2025-10-27T13:38:44.741-07:00"}
 ---
 
 # [[campaign/npcs/Okku\|Okku]]

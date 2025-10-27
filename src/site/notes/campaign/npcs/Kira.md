@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"name":"Kira","gender":"female","race":"Human","class":"Wizard","level":null,"alignment":null,"background":null,"role":null,"status":null,"current_location":null,"affiliation":null,"first_appearance":null,"description":null,"tags":["character","npc"],"permalink":"/campaign/npcs/kira/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-26T09:19:57.137-07:00","updated":"2025-10-27T13:38:12.081-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/kira/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T09:19:57.137-07:00","updated":"2025-10-27T13:38:12.081-07:00"}
 ---
 
 # [[campaign/npcs/Kira\|Kira]]

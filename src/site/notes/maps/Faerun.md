@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps/faerun/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-26T20:59:20.449-07:00","updated":"2025-10-27T14:45:54.097-07:00"}
+{"dg-publish":true,"permalink":"/maps/faerun/","noteIcon":"","created":"2025-10-26T20:59:20.449-07:00","updated":"2025-10-27T14:45:54.097-07:00"}
 ---
 
 [[Faerun_Full_Map.jpg]]

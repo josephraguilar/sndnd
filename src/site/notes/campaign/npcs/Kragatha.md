@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"name":"Kragatha","gender":"female","race":null,"class":null,"level":null,"alignment":null,"background":null,"role":null,"status":null,"current_location":null,"faction":null,"affiliation":null,"first_appearance":null,"description":null,"tags":["character","npc"],"permalink":"/campaign/npcs/kragatha/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-26T19:29:53.848-07:00","updated":"2025-10-27T13:38:14.582-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/kragatha/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:29:53.848-07:00","updated":"2025-10-27T13:38:14.582-07:00"}
 ---
 
 # [[campaign/npcs/Kragatha\|Kragatha]]

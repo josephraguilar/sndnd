@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"name":"Eargrak","gender":"male","race":"Half Goliath","class":null,"level":null,"alignment":null,"background":null,"role":null,"status":null,"current_location":null,"affiliation":null,"first_appearance":null,"description":null,"tags":["character","npc"],"permalink":"/campaign/npcs/eargrak/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-26T18:26:39.797-07:00","updated":"2025-10-27T13:37:04.608-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/eargrak/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T18:26:39.797-07:00","updated":"2025-10-27T13:37:04.608-07:00"}
 ---
 
 # [[campaign/npcs/Eargrak\|Eargrak]]

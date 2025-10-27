@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/scotts-world/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-26T08:08:34.355-07:00","updated":"2025-10-27T13:18:42.606-07:00"}
+{"dg-publish":true,"permalink":"/scotts-world/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-26T08:08:34.355-07:00","updated":"2025-10-27T13:18:42.606-07:00"}
 ---
 
 
@@ -28,7 +28,7 @@ Based in Faerun. The world is ran by a slaving organization who the crew origina
 | File                                                        | Description                                               |
 | ----------------------------------------------------------- | --------------------------------------------------------- |
 | [[campaign/factions/Unseen\|Unseen]]                     | Thieves guild of Waterdeep                                |
-| [[campaign/factions/Dark Daggers\|Dark Daggers]]         | Thieves guild of [[Baldur's Gate\|Baldur's Gate]]                        |
+| [[campaign/factions/Dark Daggers\|Dark Daggers]]         | Thieves guild of [[campaign/locations/Baldur's Gate\|Baldur's Gate]]                        |
 | [[campaign/factions/Gloomshadow\|Gloomshadow]]           | Thieves guild in Caer Callidier                           |
 | [[campaign/factions/Ironclad Enclave\|Ironclad Enclave]] | Faerun slave masters                                      |
 | [[campaign/factions/Velvet Blade\|Velvet Blade]]         | Thieves guild of Llejaigh                                 |

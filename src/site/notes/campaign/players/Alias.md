@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"played_by":"Tristan","race":"Human","class":"Rogue - Swashbuckler","level":7,"alignment":null,"background":null,"role":null,"status":null,"current_location":null,"affiliation":null,"first_appearance":null,"notes":null,"tags":["character","player"],"permalink":"/campaign/players/alias/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-26T08:57:28.921-07:00","updated":"2025-10-27T16:05:02.737-07:00"}
+{"dg-publish":true,"permalink":"/campaign/players/alias/","tags":["character","player"],"noteIcon":"","created":"2025-10-26T08:57:28.921-07:00","updated":"2025-10-27T16:05:02.737-07:00"}
 ---
 
 

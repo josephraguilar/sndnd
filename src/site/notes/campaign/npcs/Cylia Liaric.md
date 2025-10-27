@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"name":"Cylie Liaric","gender":"female","race":"Elf","class":null,"level":null,"alignment":null,"background":null,"role":null,"status":null,"current_location":null,"affiliation":null,"first_appearance":null,"description":"a beautiful blue haired elf","tags":["character","npc"],"permalink":"/campaign/npcs/cylia-liaric/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-26T09:06:57.387-07:00","updated":"2025-10-27T13:36:59.674-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/cylia-liaric/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T09:06:57.387-07:00","updated":"2025-10-27T13:36:59.674-07:00"}
 ---
 
 # [[campaign/npcs/Cylia Liaric\|Cylia Liaric]]

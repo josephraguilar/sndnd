@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"name":"Minterin","location_type":"island","continent":null,"region":null,"city":null,"description":"the island Obold pledged his life to Baphomet","tags":null,"permalink":"/campaign/locations/mintarin/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-26T10:17:50.471-07:00","updated":"2025-10-27T13:36:03.206-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/mintarin/","noteIcon":"","created":"2025-10-26T10:17:50.471-07:00","updated":"2025-10-27T13:36:03.206-07:00"}
 ---
 
 # # [[campaign/locations/Mintarin\|Mintarin]]
