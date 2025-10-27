@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/valeen/","noteIcon":"","created":"2025-10-26T10:06:25.121-07:00","updated":"2025-10-27T13:36:23.034-07:00"}
+{"dg-publish":true,"name":"Valeen","location_type":"region","continent":null,"region":null,"city":null,"description":null,"tags":null,"permalink":"/campaign/locations/valeen/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-26T10:06:25.121-07:00","updated":"2025-10-27T13:36:23.034-07:00"}
 ---
 
 # # [[campaign/locations/Valeen\|Valeen]]

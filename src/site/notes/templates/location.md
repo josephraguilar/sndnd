@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/templates/location/","noteIcon":"","created":"2025-10-26T08:08:36.526-07:00","updated":"2025-10-27T13:24:07.807-07:00"}
+{"dg-publish":true,"name":"<% tp.file.title %>","location_type":null,"continent":null,"region":null,"city":null,"description":null,"tags":null,"permalink":"/templates/location/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-26T08:08:36.526-07:00","updated":"2025-10-27T13:24:07.807-07:00"}
 ---
 
 # # [[<% tp.file.title %>\|<% tp.file.title %>]]

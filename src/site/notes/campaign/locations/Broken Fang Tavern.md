@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/broken-fang-tavern/","noteIcon":"","created":"2025-10-26T08:35:02.057-07:00","updated":"2025-10-27T13:25:45.625-07:00"}
+{"dg-publish":true,"name":"Broken Fang Tavern","location_type":"inn","continent":null,"region":"[[campaign/locations/Valeen\|Valeen]]","city":"[[campaign/locations/Kragthars Respite\|Kragthars Respite]]","description":null,"tags":null,"permalink":"/campaign/locations/broken-fang-tavern/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-26T08:35:02.057-07:00","updated":"2025-10-27T13:25:45.625-07:00"}
 ---
 
 # # [[campaign/locations/Broken Fang Tavern\|Broken Fang Tavern]]
-A small inn in [[campaign/locations/Valeen\|Valeen]] where the party "handled" [[campaign/npcs/Grashnak the Skullhunter\|Grashnak the Skullhunter]]. 
+A small inn in [[Valeen]] where the party "handled" [[campaign/npcs/Grashnak the Skullhunter\|Grashnak the Skullhunter]]. 
 [[campaign/npcs/Bo Duvall\|Bo Duvall]] likes to hangout here too. 
 
 ## Relevant People
@@ -22,7 +22,7 @@ A small inn in [[campaign/locations/Valeen\|Valeen]] where the party "handled" [
 
 { .block-language-dataview}
 ## Notes
-innn in [[campaign/locations/Kragthars Respite\|Kragthars Respite]] 
+innn in [[Kragthars Respite]] 
 
 where [[campaign/npcs/Grashnak the Skullhunter\|Grashnak the Skullhunter]] stays often
 

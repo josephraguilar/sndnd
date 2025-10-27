@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/embris-s-letter/","noteIcon":"","created":"2025-10-26T14:49:02.003-07:00","updated":"2025-10-27T13:25:15.225-07:00"}
+{"dg-publish":true,"name":"Embris's Letter","type":null,"attunement":null,"rarity":null,"requires":null,"source":"","owner":null,"tags":null,"permalink":"/campaign/items/embris-s-letter/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-26T14:49:02.003-07:00","updated":"2025-10-27T13:25:15.225-07:00"}
 ---
 
 # [[campaign/items/Embris's Letter\|Embris's Letter]]

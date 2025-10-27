@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/obold/","tags":["character","player"],"noteIcon":"","created":"2025-10-26T08:58:31.407-07:00","updated":"2025-10-27T13:40:14.217-07:00"}
+{"dg-publish":true,"played_by":"Joe","race":"Half Goliath","class":"Paladin - Oath of Vengeance","level":7,"alignment":"Lawful Neutrel","background":null,"role":null,"status":null,"current_location":null,"affiliation":null,"first_appearance":"[[Caer Callidier]]","notes":null,"tags":["character","player"],"permalink":"/campaign/players/obold/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-26T08:58:31.407-07:00","updated":"2025-10-27T13:40:14.217-07:00"}
 ---
 
 

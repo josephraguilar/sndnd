@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/louis/","tags":["character","player"],"noteIcon":"","created":"2025-10-26T08:26:41.862-07:00","updated":"2025-10-27T13:40:11.301-07:00"}
+{"dg-publish":true,"played_by":"Emily","race":"Halfling","class":"Warlock","level":null,"alignment":null,"background":null,"role":null,"status":null,"current_location":null,"affiliation":null,"first_appearance":null,"notes":null,"tags":["character","player"],"permalink":"/campaign/players/louis/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-26T08:26:41.862-07:00","updated":"2025-10-27T13:40:11.301-07:00"}
 ---
 
 
