@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/lebor-gabala/","tags":["location"],"noteIcon":"","created":"2025-10-26T19:24:39.935-07:00","updated":"2025-10-28T07:53:25.658-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/lebor-gabala/","tags":["location"],"noteIcon":"","created":"2025-10-26T19:24:39.935-07:00","updated":"2025-10-28T08:01:32.518-07:00"}
 ---
 
 # # [[campaign/locations/Lebor Gabala\|Lebor Gabala]]
 The promise land for Firbolg, which they were driven from by untold calamity. Is said to be untouched by man or monsters. 
 <p><span><ul>
-<li dir="auto"><strong>Name:</strong> Lebor gabala</li>
+<li dir="auto"><strong>Name:</strong> Lebor Gabala</li>
 <li dir="auto"><strong>Location Type:</strong> 3_nation</li>
 </ul></span></p>
 

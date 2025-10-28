@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/alaron/","noteIcon":"","created":"2025-10-26T09:04:51.758-07:00","updated":"2025-10-28T07:49:40.662-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/alaron/","noteIcon":"","created":"2025-10-26T09:04:51.758-07:00","updated":"2025-10-28T08:02:10.249-07:00"}
 ---
 
 # # [[campaign/locations/Alaron\|Alaron]]
 Large land mass off the sword coast of Faerun.
 <p><span><ul>
-<li dir="auto"><strong>Name:</strong> Allyron</li>
+<li dir="auto"><strong>Name:</strong> Alaron</li>
 <li dir="auto"><strong>Location Type:</strong> 2_region/archipelago</li>
 <li dir="auto"><strong>Part Of:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Faerun.md" data-href="campaign/locations/Faerun.md" href="campaign/locations/Faerun.md" class="internal-link" target="_blank" rel="noopener nofollow">Faerun</a></li>
 </ul></span></p>
