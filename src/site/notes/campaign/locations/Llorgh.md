@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/llorgh/","noteIcon":"","created":"2025-10-26T10:04:22.021-07:00","updated":"2025-10-27T22:12:24.822-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/llorgh/","tags":["location"],"noteIcon":"","created":"2025-10-26T10:04:22.021-07:00","updated":"2025-10-28T07:53:45.648-07:00"}
 ---
 
+# # [[campaign/locations/Llorgh\|Llorgh]]
+An island where 5 Goliath brothers are breeding with human women to become paladins of [[campaign/npcs/Iuz\|Iuz]].
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Llorgh</li>
-<li dir="auto"><strong>Location Type:</strong> island</li>
-<li dir="auto"><strong>Description:</strong> Obold's home island.</li>
+<li dir="auto"><strong>Location Type:</strong> 4_city/island</li>
+<li dir="auto"><strong>Part Of:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Alaron.md" data-href="campaign/locations/Alaron.md" href="campaign/locations/Alaron.md" class="internal-link" target="_blank" rel="noopener nofollow">Alaron</a></li>
 </ul></span></p>
 
 ---
@@ -17,9 +19,6 @@
 { .block-language-dataview}
 
 ---
-
-# # [[campaign/locations/Llorgh\|Llorgh]]
-An island where 5 Goliath brothers are breeding with human women to become paladins of [[campaign/npcs/Iuz\|Iuz]].
 
 ## Relevant People
 | File | Gender | Race | Role | Description |

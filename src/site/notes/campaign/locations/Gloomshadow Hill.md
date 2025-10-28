@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/gloomshadow-hill/","tags":["location"],"noteIcon":"","created":"2025-10-26T09:31:11.190-07:00","updated":"2025-10-27T22:30:14.362-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/gloomshadow-hill/","tags":["location"],"noteIcon":"","created":"2025-10-26T09:31:11.190-07:00","updated":"2025-10-28T07:52:14.790-07:00"}
 ---
 
+# # [[campaign/locations/Gloomshadow Hill\|Gloomshadow Hill]]
+Stronghold of the [[campaign/factions/Gloomshadow\|Gloomshadow]] thieves guild
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Gloomshadow Hill</li>
 <li dir="auto"><strong>Location Type:</strong> 6_site</li>
@@ -17,9 +19,6 @@
 { .block-language-dataview}
 
 ---
-
-# # [[campaign/locations/Gloomshadow Hill\|Gloomshadow Hill]]
-Stronghold of the [[campaign/factions/Gloomshadow\|Gloomshadow]] thieves guild
 
 ## Relevant People
 | File | Gender | Race | Role | Description |

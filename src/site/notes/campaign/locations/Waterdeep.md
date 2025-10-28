@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/waterdeep/","noteIcon":"","created":"2025-10-26T10:01:34.616-07:00","updated":"2025-10-27T22:13:08.035-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/waterdeep/","tags":["location"],"noteIcon":"","created":"2025-10-26T10:01:34.616-07:00","updated":"2025-10-28T07:55:58.832-07:00"}
 ---
 
+# # [[campaign/locations/Waterdeep\|Waterdeep]]
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Waterdeep</li>
-<li dir="auto"><strong>Location Type:</strong> city</li>
+<li dir="auto"><strong>Location Type:</strong> 4_city/island</li>
+<li dir="auto"><strong>Part Of:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Sword Coast.md" data-href="campaign/locations/Sword Coast.md" href="campaign/locations/Sword Coast.md" class="internal-link" target="_blank" rel="noopener nofollow">Sword Coast</a></li>
 </ul></span></p>
 
 ---
@@ -17,9 +19,6 @@
 { .block-language-dataview}
 
 ---
-
-# # [[campaign/locations/Waterdeep\|Waterdeep]]
-
 
 ## Relevant People
 | File                                  | Gender | Race              | Role      | Description |

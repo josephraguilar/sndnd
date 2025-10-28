@@ -1,24 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/cloud-peak-mountains/","noteIcon":"","created":"2025-10-26T20:22:24.155-07:00","updated":"2025-10-27T22:11:29.732-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/cloud-peak-mountains/","tags":["location"],"noteIcon":"","created":"2025-10-26T20:22:24.155-07:00","updated":"2025-10-28T07:51:20.490-07:00"}
 ---
 
+# # [[campaign/locations/Cloud Peak Mountains\|Cloud Peak Mountains]]
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Cloud Peak Mountains</li>
+<li dir="auto"><strong>Location Type:</strong> 3_nation</li>
 </ul></span></p>
 
 ---
 
 ### Contains
-| Location                                 | Type                 |
-| ---------------------------------------- | -------------------- |
-| [[campaign/locations/Alaron\|Alaron]] | 2_region/archipelago |
+| Location | Type |
+| -------- | ---- |
 
 { .block-language-dataview}
 
 ---
-
-# # [[campaign/locations/Cloud Peak Mountains\|Cloud Peak Mountains]]
-
 
 ## Relevant People
 | File | Gender | Race | Role | Description |

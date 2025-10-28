@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/galdur-tower/","tags":["location"],"noteIcon":"","created":"2025-10-26T19:49:50.465-07:00","updated":"2025-10-27T22:28:23.014-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/galdur-tower/","tags":["location"],"noteIcon":"","created":"2025-10-26T19:49:50.465-07:00","updated":"2025-10-28T07:56:16.791-07:00"}
 ---
 
+# # [[campaign/locations/Galdur Tower\|Galdur Tower]]
+located in [[campaign/locations/Calimshan\|Calimshan]]
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Galdur Tower</li>
 <li dir="auto"><strong>Location Type:</strong> 6_site</li>
@@ -11,16 +13,12 @@
 ---
 
 ### Contains
-| Location                                 | Type                 |
-| ---------------------------------------- | -------------------- |
-| [[campaign/locations/Alaron\|Alaron]] | 2_region/archipelago |
+| Location | Type |
+| -------- | ---- |
 
 { .block-language-dataview}
 
 ---
-
-# # [[campaign/locations/Galdur Tower\|Galdur Tower]]
-located in [[campaign/locations/Calimshan\|Calimshan]]
 
 ## Relevant People
 | File | Gender | Race | Role | Description |

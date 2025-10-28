@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/luiren/","noteIcon":"","created":"2025-10-26T19:03:34.973-07:00","updated":"2025-10-27T22:12:30.626-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/luiren/","tags":["location"],"noteIcon":"","created":"2025-10-26T19:03:34.973-07:00","updated":"2025-10-28T07:53:54.181-07:00"}
 ---
 
+# [[campaign/locations/Luiren\|Luiren]]
+< I have no idea >
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Luiren</li>
-<li dir="auto"><strong>Location Type:</strong> region</li>
 </ul></span></p>
 
 ---
@@ -16,9 +17,6 @@
 { .block-language-dataview}
 
 ---
-
-# [[campaign/locations/Luiren\|Luiren]]
-< I have no idea >
 
 ## Relevant People
 | File | Gender | Race | Role | Description |

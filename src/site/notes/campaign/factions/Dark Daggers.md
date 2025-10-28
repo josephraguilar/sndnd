@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/factions/dark-daggers/","tags":["faction"],"noteIcon":"","created":"2025-10-26T10:35:55.022-07:00","updated":"2025-10-27T22:21:27.386-07:00"}
+{"dg-publish":true,"permalink":"/campaign/factions/dark-daggers/","tags":["faction"],"noteIcon":"","created":"2025-10-26T10:35:55.022-07:00","updated":"2025-10-27T22:21:35.598-07:00"}
 ---
 
 

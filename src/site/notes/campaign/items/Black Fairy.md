@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/black-fairy/","noteIcon":"","created":"2025-10-26T10:35:21.005-07:00","updated":"2025-10-27T16:34:20.761-07:00"}
+{"dg-publish":true,"permalink":"/campaign/items/black-fairy/","noteIcon":"","created":"2025-10-26T10:35:21.005-07:00","updated":"2025-10-27T16:34:09.956-07:00"}
 ---
 
 

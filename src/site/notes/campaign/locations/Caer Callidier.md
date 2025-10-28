@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/caer-callidier/","tags":["location"],"noteIcon":"","created":"2025-10-26T09:22:15.344-07:00","updated":"2025-10-27T22:31:32.010-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/caer-callidier/","tags":["location"],"noteIcon":"","created":"2025-10-26T09:22:15.344-07:00","updated":"2025-10-28T07:50:56.184-07:00"}
 ---
 
+# # [[campaign/locations/Caer Callidier\|Caer Callidier]]
+Large port city in [[campaign/locations/Alaron\|Alaron]]
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Caer Callidier</li>
 <li dir="auto"><strong>Location Type:</strong> 4_city/island</li>
@@ -10,15 +12,12 @@
 
 ---
 
-# # [[campaign/locations/Caer Callidier\|Caer Callidier]]
-Large port city in [[campaign/locations/Alaron\|Alaron]]
-
----
-
 ### Contains
-| Location                                                     | Type   |
-| ------------------------------------------------------------ | ------ |
-| [[campaign/locations/Gloomshadow Hill\|Gloomshadow Hill]] | 6_site |
+| Location                                                                       | Type   |
+| ------------------------------------------------------------------------------ | ------ |
+| [[campaign/locations/Gloomshadow Hill\|Gloomshadow Hill]]                   | 6_site |
+| [[campaign/locations/Temple of the high Cleric\|Temple of the high Cleric]] | 6_site |
+| [[campaign/locations/Wanton Witch\|Wanton Witch]]                           | 6_site |
 
 { .block-language-dataview}
 

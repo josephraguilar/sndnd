@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/broken-fang-tavern/","tags":["location"],"noteIcon":"","created":"2025-10-26T08:35:02.057-07:00","updated":"2025-10-27T22:16:06.585-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/broken-fang-tavern/","tags":["location"],"noteIcon":"","created":"2025-10-26T08:35:02.057-07:00","updated":"2025-10-28T07:50:37.381-07:00"}
 ---
 
+# # [[campaign/locations/Broken Fang Tavern\|Broken Fang Tavern]]
+A small inn in [[campaign/locations/Velen\|Velen]] where the party "handled" [[campaign/npcs/Grashnak the Skullhunter\|Grashnak the Skullhunter]]. 
+[[campaign/npcs/Bo Duvall\|Bo Duvall]] likes to hangout here too. 
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Broken Fang Tavern</li>
 <li dir="auto"><strong>Location Type:</strong> 6_site</li>
@@ -17,10 +20,6 @@
 { .block-language-dataview}
 
 ---
-
-# # [[campaign/locations/Broken Fang Tavern\|Broken Fang Tavern]]
-A small inn in [[campaign/locations/Velen\|Velen]] where the party "handled" [[campaign/npcs/Grashnak the Skullhunter\|Grashnak the Skullhunter]]. 
-[[campaign/npcs/Bo Duvall\|Bo Duvall]] likes to hangout here too. 
 
 ## Relevant People
 | File                                                                    | Gender | Race     | Role           | Description                                      |

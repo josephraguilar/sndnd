@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/lila/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:22:10.142-07:00","updated":"2025-10-27T16:38:00.579-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/lila/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:22:10.142-07:00","updated":"2025-10-27T16:37:54.655-07:00"}
 ---
 
 

@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/mintarin/","noteIcon":"","created":"2025-10-26T10:17:50.471-07:00","updated":"2025-10-27T22:12:33.760-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/mintarin/","tags":["location"],"noteIcon":"","created":"2025-10-26T10:17:50.471-07:00","updated":"2025-10-28T07:54:13.885-07:00"}
 ---
 
+# # [[campaign/locations/Mintarin\|Mintarin]]
+A small island said to carry treasure, however, we were told to avoid at all costs because of a powerful & dangerous creature who dwells there. 
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Minterin</li>
-<li dir="auto"><strong>Location Type:</strong> island</li>
-<li dir="auto"><strong>Description:</strong> the island Obold pledged his life to Baphomet</li>
+<li dir="auto"><strong>Location Type:</strong> 4_city/island</li>
+<li dir="auto"><strong>Part Of:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Sword Coast.md" data-href="campaign/locations/Sword Coast.md" href="campaign/locations/Sword Coast.md" class="internal-link" target="_blank" rel="noopener nofollow">Sword Coast</a></li>
 </ul></span></p>
 
 ---
@@ -17,9 +19,6 @@
 { .block-language-dataview}
 
 ---
-
-# # [[campaign/locations/Mintarin\|Mintarin]]
-A small island said to carry treasure, however, we were told to avoid at all costs because of a powerful & dangerous creature who dwells there. 
 
 ## Relevant People
 | File | Gender | Race | Role | Description |
