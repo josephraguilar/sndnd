@@ -1,18 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/kragthars-respite/","noteIcon":"","created":"2025-10-26T08:35:20.039-07:00","updated":"2025-10-27T16:35:32.956-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/kragthars-respite/","noteIcon":"","created":"2025-10-26T08:35:20.039-07:00","updated":"2025-10-27T22:16:06.776-07:00"}
 ---
-
 
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Kragthars Respite</li>
 <li dir="auto"><strong>Location Type:</strong> city</li>
-<li dir="auto"><strong>Region:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Valeen.md" data-href="campaign/locations/Valeen.md" href="campaign/locations/Valeen.md" class="internal-link" target="_blank" rel="noopener nofollow">Valeen</a></li>
+<li dir="auto"><strong>Region:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Velen.md" data-href="campaign/locations/Velen.md" href="campaign/locations/Velen.md" class="internal-link" target="_blank" rel="noopener nofollow">Velen</a></li>
 </ul></span></p>
 
 ---
 
+### Contains
+| Location | Type |
+| -------- | ---- |
+
+{ .block-language-dataview}
+
+---
+
 # # [[campaign/locations/Kragthars Respite\|Kragthars Respite]]
-port town in [[campaign/locations/Valeen\|Valeen]]
+port town in [[campaign/locations/Velen\|Velen]]
 
 ## Relevant People
 | File                                  | Gender | Race                     | Role      | Description                                      |

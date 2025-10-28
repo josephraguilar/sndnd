@@ -1,18 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/caer-callidier/","noteIcon":"","created":"2025-10-26T09:22:15.344-07:00","updated":"2025-10-27T16:35:02.327-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/caer-callidier/","tags":["location"],"noteIcon":"","created":"2025-10-26T09:22:15.344-07:00","updated":"2025-10-27T22:31:32.010-07:00"}
 ---
-
 
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Caer Callidier</li>
-<li dir="auto"><strong>Location Type:</strong> city</li>
-<li dir="auto"><strong>Continent:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Allyron.md" data-href="campaign/locations/Allyron.md" href="campaign/locations/Allyron.md" class="internal-link" target="_blank" rel="noopener nofollow">Allyron</a></li>
+<li dir="auto"><strong>Location Type:</strong> 4_city/island</li>
+<li dir="auto"><strong>Part Of:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Alaron.md" data-href="campaign/locations/Alaron.md" href="campaign/locations/Alaron.md" class="internal-link" target="_blank" rel="noopener nofollow">Alaron</a></li>
 </ul></span></p>
 
 ---
 
 # # [[campaign/locations/Caer Callidier\|Caer Callidier]]
-Large port city in [[campaign/locations/Allyron\|Allyron]]
+Large port city in [[campaign/locations/Alaron\|Alaron]]
+
+---
+
+### Contains
+| Location                                                     | Type   |
+| ------------------------------------------------------------ | ------ |
+| [[campaign/locations/Gloomshadow Hill\|Gloomshadow Hill]] | 6_site |
+
+{ .block-language-dataview}
+
+---
 
 ## Relevant People
 | File                                                                        | Gender | Race                  | Role | Description |

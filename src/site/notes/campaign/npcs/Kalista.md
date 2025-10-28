@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/kalista/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:20:54.883-07:00","updated":"2025-10-27T16:37:43.285-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/kalista/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:20:54.883-07:00","updated":"2025-10-27T22:27:00.875-07:00"}
 ---
 
 
@@ -13,7 +13,7 @@
 ---
 
 # [[campaign/npcs/Kalista\|Kalista]]
-Young, beautiful, and powerful. She aided us in our quests in [[campaign/locations/Allyron\|Allyron]] 
+Young, beautiful, and powerful. She aided us in our quests in [[campaign/locations/Alaron\|Alaron]] 
 ## Personality
 **Traits:**  
 **Ideals:**  
@@ -38,4 +38,4 @@ fiancé of the [[campaign/npcs/Betrayer King\|Betrayer King]]
 
 younger, more attractive woman
 
-not a part of an organization, but has grown up in [[campaign/locations/Allyron\|Allyron]] fighting the [[campaign/factions/Ironclad Enclave\|Ironclad Enclave]]
+not a part of an organization, but has grown up in [[campaign/locations/Alaron\|Alaron]] fighting the [[campaign/factions/Ironclad Enclave\|Ironclad Enclave]]

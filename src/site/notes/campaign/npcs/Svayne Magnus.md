@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/svayne-magnus/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:30:39.098-07:00","updated":"2025-10-27T16:38:42.707-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/svayne-magnus/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:30:39.098-07:00","updated":"2025-10-27T22:16:07.052-07:00"}
 ---
 
 
@@ -27,4 +27,4 @@
 ---
 
 ## Notes
-was protecting [[campaign/npcs/Kragatha\|Kragatha]] in part of an envoy in [[campaign/locations/Valeen\|Valeen]]. They were sent from [[campaign/locations/Caer Callidier\|Caer Callidier]] to meet 
+was protecting [[campaign/npcs/Kragatha\|Kragatha]] in part of an envoy in [[campaign/locations/Velen\|Velen]]. They were sent from [[campaign/locations/Caer Callidier\|Caer Callidier]] to meet 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/grolgath/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:00:10.089-07:00","updated":"2025-10-27T16:37:22.997-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/grolgath/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:00:10.089-07:00","updated":"2025-10-27T22:16:06.954-07:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 ---
 
 # [[campaign/npcs/Grolgath\|Grolgath]]
-Our orc guide and friend from [[campaign/locations/Valeen\|Valeen]]
+Our orc guide and friend from [[campaign/locations/Velen\|Velen]]
 ## Personality
 **Traits:**  
 **Ideals:**  

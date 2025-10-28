@@ -1,13 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/krakens-cup/","noteIcon":"","created":"2025-10-26T20:19:06.891-07:00","updated":"2025-10-27T16:35:34.934-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/krakens-cup/","noteIcon":"","created":"2025-10-26T20:19:06.891-07:00","updated":"2025-10-27T22:16:06.842-07:00"}
 ---
-
 
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Krakens Cup</li>
-<li dir="auto"><strong>Region:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Valeen.md" data-href="campaign/locations/Valeen.md" href="campaign/locations/Valeen.md" class="internal-link" target="_blank" rel="noopener nofollow">Valeen</a></li>
+<li dir="auto"><strong>Region:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Velen.md" data-href="campaign/locations/Velen.md" href="campaign/locations/Velen.md" class="internal-link" target="_blank" rel="noopener nofollow">Velen</a></li>
 <li dir="auto"><strong>City:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Grud-Thacks Cradle.md" data-href="campaign/locations/Grud-Thacks Cradle.md" href="campaign/locations/Grud-Thacks Cradle.md" class="internal-link" target="_blank" rel="noopener nofollow">Grud-Thacks Cradle</a></li>
 </ul></span></p>
+
+---
+
+### Contains
+| Location | Type |
+| -------- | ---- |
+
+{ .block-language-dataview}
 
 ---
 

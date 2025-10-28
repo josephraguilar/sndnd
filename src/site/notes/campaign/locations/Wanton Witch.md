@@ -1,14 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/wanton-witch/","noteIcon":"","created":"2025-10-26T08:18:07.705-07:00","updated":"2025-10-27T16:36:10.254-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/wanton-witch/","noteIcon":"","created":"2025-10-26T08:18:07.705-07:00","updated":"2025-10-27T22:27:00.747-07:00"}
 ---
-
 
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Wonton Witch</li>
 <li dir="auto"><strong>Location Type:</strong> inn</li>
-<li dir="auto"><strong>Continent:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Allyron.md" data-href="campaign/locations/Allyron.md" href="campaign/locations/Allyron.md" class="internal-link" target="_blank" rel="noopener nofollow">Allyron</a></li>
+<li dir="auto"><strong>Continent:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Alaron.md" data-href="campaign/locations/Alaron.md" href="campaign/locations/Alaron.md" class="internal-link" target="_blank" rel="noopener nofollow">Alaron</a></li>
 <li dir="auto"><strong>City:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Caer Callidier.md" data-href="campaign/locations/Caer Callidier.md" href="campaign/locations/Caer Callidier.md" class="internal-link" target="_blank" rel="noopener nofollow">Caer Callidier</a></li>
 </ul></span></p>
+
+---
+
+### Contains
+| Location | Type |
+| -------- | ---- |
+
+{ .block-language-dataview}
 
 ---
 

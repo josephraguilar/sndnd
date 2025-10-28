@@ -1,14 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/gloomshadow-hill/","noteIcon":"","created":"2025-10-26T09:31:11.190-07:00","updated":"2025-10-27T16:35:20.620-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/gloomshadow-hill/","tags":["location"],"noteIcon":"","created":"2025-10-26T09:31:11.190-07:00","updated":"2025-10-27T22:30:14.362-07:00"}
 ---
-
 
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Gloomshadow Hill</li>
-<li dir="auto"><strong>Location Type:</strong> stronghold</li>
-<li dir="auto"><strong>Continent:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Allyron.md" data-href="campaign/locations/Allyron.md" href="campaign/locations/Allyron.md" class="internal-link" target="_blank" rel="noopener nofollow">Allyron</a></li>
-<li dir="auto"><strong>City:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Caer Callidier.md" data-href="campaign/locations/Caer Callidier.md" href="campaign/locations/Caer Callidier.md" class="internal-link" target="_blank" rel="noopener nofollow">Caer Callidier</a></li>
+<li dir="auto"><strong>Location Type:</strong> 6_site</li>
+<li dir="auto"><strong>Part Of:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Caer Callidier.md" data-href="campaign/locations/Caer Callidier.md" href="campaign/locations/Caer Callidier.md" class="internal-link" target="_blank" rel="noopener nofollow">Caer Callidier</a></li>
 </ul></span></p>
+
+---
+
+### Contains
+| Location | Type |
+| -------- | ---- |
+
+{ .block-language-dataview}
 
 ---
 

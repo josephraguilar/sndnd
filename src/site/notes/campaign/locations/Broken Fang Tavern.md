@@ -1,19 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/broken-fang-tavern/","noteIcon":"","created":"2025-10-26T08:35:02.057-07:00","updated":"2025-10-27T16:35:00.103-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/broken-fang-tavern/","tags":["location"],"noteIcon":"","created":"2025-10-26T08:35:02.057-07:00","updated":"2025-10-27T22:16:06.585-07:00"}
 ---
-
 
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Broken Fang Tavern</li>
-<li dir="auto"><strong>Location Type:</strong> inn</li>
-<li dir="auto"><strong>Region:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Valeen.md" data-href="campaign/locations/Valeen.md" href="campaign/locations/Valeen.md" class="internal-link" target="_blank" rel="noopener nofollow">Valeen</a></li>
-<li dir="auto"><strong>City:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Kragthars Respite.md" data-href="campaign/locations/Kragthars Respite.md" href="campaign/locations/Kragthars Respite.md" class="internal-link" target="_blank" rel="noopener nofollow">Kragthars Respite</a></li>
+<li dir="auto"><strong>Location Type:</strong> 6_site</li>
+<li dir="auto"><strong>Part Of:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Velen.md" data-href="campaign/locations/Velen.md" href="campaign/locations/Velen.md" class="internal-link" target="_blank" rel="noopener nofollow">Velen</a></li>
 </ul></span></p>
 
 ---
 
+### Contains
+| Location | Type |
+| -------- | ---- |
+
+{ .block-language-dataview}
+
+---
+
 # # [[campaign/locations/Broken Fang Tavern\|Broken Fang Tavern]]
-A small inn in [[campaign/locations/Valeen\|Valeen]] where the party "handled" [[campaign/npcs/Grashnak the Skullhunter\|Grashnak the Skullhunter]]. 
+A small inn in [[campaign/locations/Velen\|Velen]] where the party "handled" [[campaign/npcs/Grashnak the Skullhunter\|Grashnak the Skullhunter]]. 
 [[campaign/npcs/Bo Duvall\|Bo Duvall]] likes to hangout here too. 
 
 ## Relevant People
