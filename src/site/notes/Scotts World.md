@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/scotts-world/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-26T08:08:34.355-07:00","updated":"2025-10-27T18:05:15.972-07:00"}
+{"dg-publish":true,"permalink":"/scotts-world/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-26T08:08:34.355-07:00","updated":"2025-10-27T18:14:15.659-07:00"}
 ---
 
 
@@ -27,14 +27,14 @@ Based in Faerun. The world is ran by a slaving organization who the crew origina
 
 | File                                                        | Description                                               |
 | ----------------------------------------------------------- | --------------------------------------------------------- |
-| [[campaign/factions/Ironclad Enclave\|Ironclad Enclave]] | Faerun slave masters                                      |
 | [[campaign/factions/Shag Dominica\|Shag Dominica]]       | Sahaugan that guard "The Three"                           |
+| [[campaign/factions/Ironclad Enclave\|Ironclad Enclave]] | Faerun slave masters                                      |
 | [[campaign/factions/The Three\|The Three]]               | Three powerful hag sisters that lead The Ironcald Enclave |
 | [[campaign/factions/Gloomshadow\|Gloomshadow]]           | Thieves guild in Caer Callidier                           |
 | [[campaign/factions/Veruz Rexna\|Veruz Rexna]]           | The paladins of Iuz, a sect formed of half goliaths.      |
+| [[campaign/factions/Black Maw\|Black Maw]]               | A brutal orc clan in Valeen                               |
 | [[campaign/factions/Dark Daggers\|Dark Daggers]]         | Thieves guild of [[campaign/locations/Baldur's Gate\|Baldur's Gate]]                        |
 | [[campaign/factions/Unseen\|Unseen]]                     | Thieves guild of Waterdeep                                |
-| [[campaign/factions/Black Maw\|Black Maw]]               | A brutal orc clan in Valeen                               |
 | [[campaign/factions/Velvet Blade\|Velvet Blade]]         | Thieves guild of Llejaigh                                 |
 
 { .block-language-dataview}
@@ -54,7 +54,7 @@ Based in Faerun. The world is ran by a slaving organization who the crew origina
 
 ```leaflet
 id: Faerun2
-image: https://raw.githubusercontent.com/josephraguilar/sndnd/main/src/site/notes/maps/83fc41caffb182ca0d7b155bc623a4c8.jpg
+image: https://raw.githubusercontent.com/josephraguilar/sndnd/d29291393328d7b27cf1092c1fefe5544817f869/src/site/img/Faerun.jpg
 minZoom: 0
 maxZoom: 5
 defaultZoom: 1.5
