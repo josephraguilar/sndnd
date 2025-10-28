@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/scotts-world/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-26T08:08:34.355-07:00","updated":"2025-10-27T18:14:15.659-07:00"}
+{"dg-publish":true,"permalink":"/scotts-world/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-26T08:08:34.355-07:00","updated":"2025-10-27T18:24:30.148-07:00"}
 ---
 
 
@@ -53,15 +53,15 @@ Based in Faerun. The world is ran by a slaving organization who the crew origina
 { .block-language-dataview}
 
 ```leaflet
-id: Faerun2
-image: https://raw.githubusercontent.com/josephraguilar/sndnd/d29291393328d7b27cf1092c1fefe5544817f869/src/site/img/Faerun.jpg
+id: faerun-home
+image: /data/maps/Faerun.jpg
 minZoom: 0
 maxZoom: 5
 defaultZoom: 1.5
 height: 720px
 width: 1000px
 lat: 50
-long: 50
+lng: 50
 ```
 
 ## [[Safety Tools\|Safety Tools]]
