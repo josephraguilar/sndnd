@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/scotts-world/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-26T08:08:34.355-07:00","updated":"2025-10-27T21:10:56.409-07:00"}
+{"dg-publish":true,"permalink":"/scotts-world/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-26T08:08:34.355-07:00","updated":"2025-10-27T21:38:06.902-07:00"}
 ---
 
 
@@ -57,7 +57,7 @@ id: faerun-home-page
 image: https://raw.githubusercontent.com/josephraguilar/sndnd/main/src/site/img/Faerun.jpg
 minZoom: 0
 maxZoom: 5
-defaultZoom: 1.5
+defaultZoom: 1.0
 height: 720px
 width: 1000px
 lat: 50
