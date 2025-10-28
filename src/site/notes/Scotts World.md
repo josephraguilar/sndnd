@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/scotts-world/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-26T08:08:34.355-07:00","updated":"2025-10-27T13:18:44.565-07:00"}
+{"dg-publish":true,"permalink":"/scotts-world/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-26T08:08:34.355-07:00","updated":"2025-10-27T18:01:33.111-07:00"}
 ---
 
 
@@ -27,8 +27,8 @@ Based in Faerun. The world is ran by a slaving organization who the crew origina
 
 | File                                                        | Description                                               |
 | ----------------------------------------------------------- | --------------------------------------------------------- |
-| [[campaign/factions/Shag Dominica\|Shag Dominica]]       | Sahaugan that guard "The Three"                           |
 | [[campaign/factions/Ironclad Enclave\|Ironclad Enclave]] | Faerun slave masters                                      |
+| [[campaign/factions/Shag Dominica\|Shag Dominica]]       | Sahaugan that guard "The Three"                           |
 | [[campaign/factions/The Three\|The Three]]               | Three powerful hag sisters that lead The Ironcald Enclave |
 | [[campaign/factions/Gloomshadow\|Gloomshadow]]           | Thieves guild in Caer Callidier                           |
 | [[campaign/factions/Veruz Rexna\|Veruz Rexna]]           | The paladins of Iuz, a sect formed of half goliaths.      |
@@ -54,15 +54,14 @@ Based in Faerun. The world is ran by a slaving organization who the crew origina
 
 ```leaflet
 id: Faerun
-image: [[Faerun_Full_Map.jpg]]
+image: https://raw.githubusercontent.com/josephraguilar/sndnd/main/src/site/notes/maps/83fc41caffb182ca0d7b155bc623a4c8.jpg
 minZoom: 0
 maxZoom: 5
 defaultZoom: 1.5
 height: 720px
-width: 720px
-lat: 0
-long: 0marker: default,-84.20703125,95.75,,,,
-
+width: 1000px
+lat: 50
+long: 50
 ```
 
 ## [[Safety Tools\|Safety Tools]]
