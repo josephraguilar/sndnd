@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/baldur-s-gate/","noteIcon":"","created":"2025-10-26T08:49:11.662-07:00","updated":"2025-10-27T16:34:50.593-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/baldur-s-gate/","noteIcon":"","created":"2025-10-26T08:49:11.662-07:00","updated":"2025-10-27T16:34:57.563-07:00"}
 ---
 
 

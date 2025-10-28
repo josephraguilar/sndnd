@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/argram/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T10:25:29.137-07:00","updated":"2025-10-27T16:36:39.723-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/argram/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T10:25:29.137-07:00","updated":"2025-10-27T16:36:47.228-07:00"}
 ---
 
 

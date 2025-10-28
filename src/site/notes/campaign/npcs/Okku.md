@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/okku/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:40:36.699-07:00","updated":"2025-10-27T16:38:14.058-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/okku/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:40:36.699-07:00","updated":"2025-10-27T16:38:20.608-07:00"}
 ---
 
 

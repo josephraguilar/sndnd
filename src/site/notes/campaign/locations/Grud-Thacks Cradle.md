@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/grud-thacks-cradle/","noteIcon":"","created":"2025-10-26T12:29:30.647-07:00","updated":"2025-10-27T16:35:14.594-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/grud-thacks-cradle/","noteIcon":"","created":"2025-10-26T12:29:30.647-07:00","updated":"2025-10-27T16:35:20.854-07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/tymora/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:02:16.500-07:00","updated":"2025-10-27T16:38:52.955-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/tymora/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:02:16.500-07:00","updated":"2025-10-27T16:39:00.083-07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/allyron/","noteIcon":"","created":"2025-10-26T09:04:51.758-07:00","updated":"2025-10-27T16:34:48.147-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/allyron/","noteIcon":"","created":"2025-10-26T09:04:51.758-07:00","updated":"2025-10-27T16:34:55.654-07:00"}
 ---
 
 

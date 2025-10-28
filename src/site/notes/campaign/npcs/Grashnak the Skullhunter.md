@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/grashnak-the-skullhunter/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:34:35.454-07:00","updated":"2025-10-27T16:37:12.172-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/grashnak-the-skullhunter/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:34:35.454-07:00","updated":"2025-10-27T16:37:21.396-07:00"}
 ---
 
 

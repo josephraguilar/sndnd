@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/ugmarn/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T12:29:07.445-07:00","updated":"2025-10-27T16:38:55.810-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/ugmarn/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T12:29:07.445-07:00","updated":"2025-10-27T16:39:01.899-07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/kira/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T09:19:57.137-07:00","updated":"2025-10-27T16:37:43.700-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/kira/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T09:19:57.137-07:00","updated":"2025-10-27T16:37:50.462-07:00"}
 ---
 
 

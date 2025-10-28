@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/laysora/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T10:44:26.463-07:00","updated":"2025-10-27T16:37:49.631-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/laysora/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T10:44:26.463-07:00","updated":"2025-10-27T16:37:55.557-07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/yorga/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T12:33:25.219-07:00","updated":"2025-10-27T16:39:12.230-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/yorga/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T12:33:25.219-07:00","updated":"2025-10-27T16:39:20.712-07:00"}
 ---
 
 

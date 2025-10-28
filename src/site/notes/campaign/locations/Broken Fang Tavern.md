@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/broken-fang-tavern/","noteIcon":"","created":"2025-10-26T08:35:02.057-07:00","updated":"2025-10-27T16:34:53.106-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/broken-fang-tavern/","noteIcon":"","created":"2025-10-26T08:35:02.057-07:00","updated":"2025-10-27T16:35:00.103-07:00"}
 ---
 
 

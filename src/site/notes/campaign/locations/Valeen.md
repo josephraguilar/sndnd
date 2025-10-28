@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/valeen/","noteIcon":"","created":"2025-10-26T10:06:25.121-07:00","updated":"2025-10-27T16:35:57.934-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/valeen/","noteIcon":"","created":"2025-10-26T10:06:25.121-07:00","updated":"2025-10-27T16:36:05.704-07:00"}
 ---
 
 

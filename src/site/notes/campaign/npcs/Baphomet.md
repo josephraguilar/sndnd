@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/baphomet/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T09:26:59.827-07:00","updated":"2025-10-27T16:36:42.375-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/baphomet/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T09:26:59.827-07:00","updated":"2025-10-27T16:36:49.040-07:00"}
 ---
 
 

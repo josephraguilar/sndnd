@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/waterdeep/","noteIcon":"","created":"2025-10-26T10:01:34.616-07:00","updated":"2025-10-27T16:36:06.404-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/waterdeep/","noteIcon":"","created":"2025-10-26T10:01:34.616-07:00","updated":"2025-10-27T16:36:12.181-07:00"}
 ---
 
 

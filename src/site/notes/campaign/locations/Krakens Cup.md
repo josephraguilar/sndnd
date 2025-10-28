@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/krakens-cup/","noteIcon":"","created":"2025-10-26T20:19:06.891-07:00","updated":"2025-10-27T16:35:27.783-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/krakens-cup/","noteIcon":"","created":"2025-10-26T20:19:06.891-07:00","updated":"2025-10-27T16:35:34.934-07:00"}
 ---
 
 

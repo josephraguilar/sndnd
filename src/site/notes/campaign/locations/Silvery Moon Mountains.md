@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/silvery-moon-mountains/","noteIcon":"","created":"2025-10-26T10:33:13.055-07:00","updated":"2025-10-27T16:35:44.871-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/silvery-moon-mountains/","noteIcon":"","created":"2025-10-26T10:33:13.055-07:00","updated":"2025-10-27T16:35:50.776-07:00"}
 ---
 
 

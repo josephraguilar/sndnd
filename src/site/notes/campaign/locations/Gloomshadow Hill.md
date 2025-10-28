@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/gloomshadow-hill/","noteIcon":"","created":"2025-10-26T09:31:11.190-07:00","updated":"2025-10-27T16:35:12.122-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/gloomshadow-hill/","noteIcon":"","created":"2025-10-26T09:31:11.190-07:00","updated":"2025-10-27T16:35:20.620-07:00"}
 ---
 
 

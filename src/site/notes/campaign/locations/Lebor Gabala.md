@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/lebor-gabala/","noteIcon":"","created":"2025-10-26T19:24:39.935-07:00","updated":"2025-10-27T16:35:29.999-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/lebor-gabala/","noteIcon":"","created":"2025-10-26T19:24:39.935-07:00","updated":"2025-10-27T16:35:35.792-07:00"}
 ---
 
 

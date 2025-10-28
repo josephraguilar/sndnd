@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/rotten-agnis-worm-wiggle/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:28:40.921-07:00","updated":"2025-10-27T16:38:22.335-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/rotten-agnis-worm-wiggle/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:28:40.921-07:00","updated":"2025-10-27T16:38:29.395-07:00"}
 ---
 
 

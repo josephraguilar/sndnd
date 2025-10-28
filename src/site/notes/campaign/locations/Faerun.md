@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/faerun/","noteIcon":"","created":"2025-10-26T12:14:57.279-07:00","updated":"2025-10-27T16:35:02.674-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/faerun/","noteIcon":"","created":"2025-10-26T12:14:57.279-07:00","updated":"2025-10-27T16:35:09.727-07:00"}
 ---
 
 

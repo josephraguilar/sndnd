@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/iuz/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:24:12.682-07:00","updated":"2025-10-27T16:37:27.883-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/iuz/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:24:12.682-07:00","updated":"2025-10-27T16:37:34.362-07:00"}
 ---
 
 

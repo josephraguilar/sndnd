@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/kragthars-respite/","noteIcon":"","created":"2025-10-26T08:35:20.039-07:00","updated":"2025-10-27T16:35:25.571-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/kragthars-respite/","noteIcon":"","created":"2025-10-26T08:35:20.039-07:00","updated":"2025-10-27T16:35:32.956-07:00"}
 ---
 
 

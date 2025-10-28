@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/temple-of-the-high-cleric/","noteIcon":"","created":"2025-10-26T09:04:38.022-07:00","updated":"2025-10-27T16:35:52.751-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/temple-of-the-high-cleric/","noteIcon":"","created":"2025-10-26T09:04:38.022-07:00","updated":"2025-10-27T16:35:58.840-07:00"}
 ---
 
 

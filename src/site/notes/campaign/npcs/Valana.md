@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/valana/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T10:42:44.478-07:00","updated":"2025-10-27T16:38:58.428-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/valana/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T10:42:44.478-07:00","updated":"2025-10-27T16:39:05.556-07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/wanton-witch/","noteIcon":"","created":"2025-10-26T08:18:07.705-07:00","updated":"2025-10-27T16:36:03.115-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/wanton-witch/","noteIcon":"","created":"2025-10-26T08:18:07.705-07:00","updated":"2025-10-27T16:36:10.254-07:00"}
 ---
 
 

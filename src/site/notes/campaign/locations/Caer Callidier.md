@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/caer-callidier/","noteIcon":"","created":"2025-10-26T09:22:15.344-07:00","updated":"2025-10-27T16:34:55.394-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/caer-callidier/","noteIcon":"","created":"2025-10-26T09:22:15.344-07:00","updated":"2025-10-27T16:35:02.327-07:00"}
 ---
 
 

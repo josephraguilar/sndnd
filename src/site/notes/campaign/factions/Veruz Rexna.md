@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/factions/veruz-rexna/","tags":["faction"],"noteIcon":"","created":"2025-10-26T10:09:45.842-07:00","updated":"2025-10-27T16:34:03.481-07:00"}
+{"dg-publish":true,"permalink":"/campaign/factions/veruz-rexna/","tags":["faction"],"noteIcon":"","created":"2025-10-26T10:09:45.842-07:00","updated":"2025-10-27T16:34:09.653-07:00"}
 ---
 
 

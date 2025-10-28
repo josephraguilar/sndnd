@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/llejaigh/","noteIcon":"","created":"2025-10-26T20:20:16.820-07:00","updated":"2025-10-27T16:35:32.342-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/llejaigh/","noteIcon":"","created":"2025-10-26T20:20:16.820-07:00","updated":"2025-10-27T16:35:40.747-07:00"}
 ---
 
 

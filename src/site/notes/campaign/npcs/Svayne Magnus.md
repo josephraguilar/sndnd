@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/svayne-magnus/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:30:39.098-07:00","updated":"2025-10-27T16:38:36.053-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/svayne-magnus/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:30:39.098-07:00","updated":"2025-10-27T16:38:42.707-07:00"}
 ---
 
 

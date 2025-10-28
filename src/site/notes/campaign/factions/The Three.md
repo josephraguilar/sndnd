@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/factions/the-three/","tags":["faction"],"noteIcon":"","created":"2025-10-26T08:31:07.989-07:00","updated":"2025-10-27T16:33:56.555-07:00"}
+{"dg-publish":true,"permalink":"/campaign/factions/the-three/","tags":["faction"],"noteIcon":"","created":"2025-10-26T08:31:07.989-07:00","updated":"2025-10-27T16:34:05.607-07:00"}
 ---
 
 

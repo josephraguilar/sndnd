@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/fiery-flaggen/","noteIcon":"","created":"2025-10-26T14:54:31.536-07:00","updated":"2025-10-27T16:35:05.326-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/fiery-flaggen/","noteIcon":"","created":"2025-10-26T14:54:31.536-07:00","updated":"2025-10-27T16:35:11.420-07:00"}
 ---
 
 

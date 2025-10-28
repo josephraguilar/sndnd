@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/knives-eye/","noteIcon":"","created":"2025-10-26T12:58:40.278-07:00","updated":"2025-10-27T16:35:22.585-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/knives-eye/","noteIcon":"","created":"2025-10-26T12:58:40.278-07:00","updated":"2025-10-27T16:35:31.040-07:00"}
 ---
 
 

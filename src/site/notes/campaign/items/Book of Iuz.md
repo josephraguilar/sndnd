@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/book-of-iuz/","noteIcon":"","created":"2025-10-26T09:26:50.137-07:00","updated":"2025-10-27T16:34:12.284-07:00"}
+{"dg-publish":true,"permalink":"/campaign/items/book-of-iuz/","noteIcon":"","created":"2025-10-26T09:26:50.137-07:00","updated":"2025-10-27T16:34:20.734-07:00"}
 ---
 
 
