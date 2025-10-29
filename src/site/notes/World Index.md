@@ -1,34 +1,41 @@
 ---
-{"dg-publish":true,"permalink":"/world-index/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/world-index/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-26T08:08:34.355-07:00","updated":"2025-10-27T22:36:01.904-07:00"}
 ---
 
-# The World of # Bydmorathir
+
+# The World of S.N. D&D
 
 ## Player Characters
-| Character                                                  | Played By | Race                  | Class                          | Alignment |
-| ---------------------------------------------------------- | --------- | --------------------- | ------------------------------ | --------- |
-| [[campaign/players/Faliq\|Faliq]]                       | \-        | Elf - elf             | Fighter - Arcane Archer        | \-        |
-| [[campaign/players/Untitled\|Untitled]]                 | \-        | \-                    | \-                             | \-        |
-| [[campaign/players/Flynn\|Flynn]]                       | Becca     | <ul><li>Elf</li></ul> | Fighter - Echo Knight          | \-        |
-| [[campaign/players/Dags\|Dags]]                         | Justin    | Mark of Finding Human | Artificer                      | \-        |
-| [[campaign/players/Adira\|Adira]]                       | Kayla     | Human                 | Barbarian - Path of Wild Magic | \-        |
-| [[campaign/players/Ulric Moonshadow\|Ulric Moonshadow]] | Michael   | Elf                   | Rogue - Soulknife              | \-        |
-| [[campaign/players/Manon\|Manon]]                       | Shay      | Elf                   | Ranger - Hunter                | \-        |
+| Characters                               | Played By | Race         | Class                          | Alignment      |
+| ---------------------------------------- | --------- | ------------ | ------------------------------ | -------------- |
+| [[campaign/players/Kormak\|Kormak]]   | Caleb     | Dwarf        | Artificer - Armorer            | \-             |
+| [[campaign/players/Louis\|Louis]]     | Emily     | Halfling     | Warlock                        | \-             |
+| [[campaign/players/Obold\|Obold]]     | Joe       | Half Goliath | Paladin - Oath of Vengeance    | Lawful Neutrel |
+| [[campaign/players/Kaneko\|Kaneko]]   | Kevin     | Wood Elf     | Ranger - Gloom Stalker         | \-             |
+| [[campaign/players/Ophie\|Ophie]]     | Megan     | Firbolg      | Druid - Circle of the Moon     | \-             |
+| [[campaign/players/Thorin\|Thorin]]   | Rodney    | Dwarf        | Cleric - War Domain            | \-             |
+| [[campaign/players/Gunther\|Gunther]] | Trevor    | Half-Orc     | Barbarian - Path of Wild Magic | \-             |
+| [[campaign/players/Alias\|Alias]]     | Tristan   | Human        | Rogue - Swashbuckler           | \-             |
 
 { .block-language-dataview}
 
+## About the Campaign
 
-## Truths about the campaign/world
-
-A place where friends come and go, but [[Mama Yasha\|Mama Yasha]] lives forever...
-
-- 
-
+Based in Faerun. The world is ran by a slaving organization who the crew originally found themselves victim to. They are questing to resolve their past issues and overturn the powerful enemies at play. 
 
 ## Factions
 
-| File | Description |
-| ---- | ----------- |
+| File                                                        | Description                                               |
+| ----------------------------------------------------------- | --------------------------------------------------------- |
+| [[campaign/factions/Unseen\|Unseen]]                     | Thieves guild of Waterdeep                                |
+| [[campaign/factions/Dark Daggers\|Dark Daggers]]         | Thieves guild of [[Baldur's Gate\|Baldur's Gate]]                        |
+| [[campaign/factions/Ironclad Enclave\|Ironclad Enclave]] | Faerun slave masters                                      |
+| [[campaign/factions/Veruz Rexna\|Veruz Rexna]]           | The paladins of Iuz, a sect formed of half goliaths.      |
+| [[campaign/factions/Shag Dominica\|Shag Dominica]]       | Sahaugan that guard "The Three"                           |
+| [[campaign/factions/Gloomshadow\|Gloomshadow]]           | Thieves guild in Caer Callidier                           |
+| [[campaign/factions/The Three\|The Three]]               | Three powerful hag sisters that lead The Ironcald Enclave |
+| [[campaign/factions/Black Maw\|Black Maw]]               | A brutal orc clan in Valeen                               |
+| [[campaign/factions/Velvet Blade\|Velvet Blade]]         | Thieves guild of Llejaigh                                 |
 
 { .block-language-dataview}
 
@@ -39,14 +46,20 @@ A place where friends come and go, but [[Mama Yasha\|Mama Yasha]] lives forever.
 
 ## Sessions
 
-| File                                                        | Summary |
-| ----------------------------------------------------------- | ------- |
-| [[campaign/sessions/10-07-2025 18-28\|10-07-2025 18-28]] | \-      |
-| [[campaign/sessions/10-14-2025 18-28\|10-14-2025 18-28]] | \-      |
-| [[campaign/sessions/10-28-2025 18-28\|10-28-2025 18-28]] | \-      |
+| File                                                        | Summary            |
+| ----------------------------------------------------------- | ------------------ |
+| [[campaign/sessions/10-26-2025 12-53\|10-26-2025 12-53]] | What's in the box? |
 
 { .block-language-dataview}
 
-
+```leaflet
+id: faerun-home-page
+image: https://raw.githubusercontent.com/josephraguilar/sndnd/main/src/site/img/Faerun.jpg
+minZoom: 0
+maxZoom: 5
+defaultZoom: 1.0
+lat: 50
+lng: 50
+```
 
 ## [[Safety Tools\|Safety Tools]]

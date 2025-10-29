@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/pip/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T12:33:46.161-07:00","updated":"2025-10-27T16:38:19.669-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/pip/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T12:33:46.161-07:00","updated":"2025-10-27T16:38:25.605-07:00"}
 ---
 
 

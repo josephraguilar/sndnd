@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/xanaphia/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T10:24:55.858-07:00","updated":"2025-10-27T16:39:09.623-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/xanaphia/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T10:24:55.858-07:00","updated":"2025-10-27T16:39:15.779-07:00"}
 ---
 
 

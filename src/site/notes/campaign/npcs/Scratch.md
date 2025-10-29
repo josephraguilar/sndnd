@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/scratch/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T20:27:12.534-07:00","updated":"2025-10-27T16:38:30.817-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/scratch/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T20:27:12.534-07:00","updated":"2025-10-27T16:38:37.668-07:00"}
 ---
 
 

@@ -1,0 +1,44 @@
+---
+{"dg-publish":true,"permalink":"/campaign/locations/broken-fang-tavern/","tags":["location"],"noteIcon":"","created":"2025-10-26T08:35:02.057-07:00","updated":"2025-10-28T07:50:42.643-07:00"}
+---
+
+# # [[campaign/locations/Broken Fang Tavern\|Broken Fang Tavern]]
+A small inn in [[campaign/locations/Velen\|Velen]] where the party "handled" [[campaign/npcs/Grashnak the Skullhunter\|Grashnak the Skullhunter]]. 
+[[campaign/npcs/Bo Duvall\|Bo Duvall]] likes to hangout here too. 
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Broken Fang Tavern</li>
+<li dir="auto"><strong>Location Type:</strong> 6_site</li>
+<li dir="auto"><strong>Part Of:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Velen.md" data-href="campaign/locations/Velen.md" href="campaign/locations/Velen.md" class="internal-link" target="_blank" rel="noopener nofollow">Velen</a></li>
+</ul></span></p>
+
+---
+
+### Contains
+| Location | Type |
+| -------- | ---- |
+
+{ .block-language-dataview}
+
+---
+
+## Relevant People
+| File                                                                    | Gender | Race     | Role           | Description                                      |
+| ----------------------------------------------------------------------- | ------ | -------- | -------------- | ------------------------------------------------ |
+| [[campaign/npcs/Bo Duvall\|Bo Duvall]]                               | male   | Elf      | Pirate Captain | eccentric elf pirate who "kinda" helps out.      |
+| [[campaign/npcs/Grashnak the Skullhunter\|Grashnak the Skullhunter]] | male   | Orc      | Gang Leader    | Killer of Thorin's wife and son (Dead)           |
+| [[campaign/npcs/Pip\|Pip]]                                           | male   | \-       | Barhand        | little dude who's too eager to introduce racists |
+| [[campaign/npcs/Yorga\|Yorga]]                                       | female | Half-Orc | Bar Owner      | owner of broken fang tavern                      |
+
+{ .block-language-dataview}
+
+## Factions
+| File | Description |
+| ---- | ----------- |
+
+{ .block-language-dataview}
+## Notes
+innn in [[campaign/locations/Kragthars Respite\|Kragthars Respite]] 
+
+where [[campaign/npcs/Grashnak the Skullhunter\|Grashnak the Skullhunter]] stays often
+
+[[campaign/npcs/Bo Duvall\|Bo Duvall]] was staying here when we were in to kill [[campaign/npcs/Grashnak the Skullhunter\|Grashnak the Skullhunter]]
