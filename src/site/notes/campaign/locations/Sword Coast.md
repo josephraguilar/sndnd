@@ -16,8 +16,8 @@
 | ---------------------------------------------------- | -------------------- |
 | [[campaign/locations/Velen\|Velen]]               | 2_region/archipelago |
 | [[campaign/locations/Calimshan\|Calimshan]]       | 2_region/archipelago |
-| [[campaign/locations/Mintarin\|Mintarin]]         | 4_city/island        |
 | [[campaign/locations/Waterdeep\|Waterdeep]]       | 4_city/island        |
+| [[campaign/locations/Mintarin\|Mintarin]]         | 4_city/island        |
 | [[campaign/locations/Baldurs Gate\|Baldurs Gate]] | 4_city/island        |
 
 { .block-language-dataview}
