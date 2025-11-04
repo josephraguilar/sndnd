@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/melian/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T10:30:41.185-07:00","updated":"2025-10-27T16:38:13.057-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/melian/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T10:30:41.185-07:00","updated":"2025-10-27T16:38:06.702-07:00"}
 ---
 
 

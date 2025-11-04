@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/kragatha/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:29:53.848-07:00","updated":"2025-10-27T16:37:55.592-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/kragatha/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:29:53.848-07:00","updated":"2025-10-27T16:37:46.776-07:00"}
 ---
 
 

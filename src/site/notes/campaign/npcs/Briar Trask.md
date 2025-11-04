@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/briar-trask/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:28:08.169-07:00","updated":"2025-10-27T16:36:57.198-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/briar-trask/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:28:08.169-07:00","updated":"2025-10-27T16:36:50.860-07:00"}
 ---
 
 

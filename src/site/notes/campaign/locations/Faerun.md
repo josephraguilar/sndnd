@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/faerun/","noteIcon":"","created":"2025-10-26T12:14:57.279-07:00","updated":"2025-10-28T07:51:37.076-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/faerun/","noteIcon":"","created":"2025-10-26T12:14:57.279-07:00","updated":"2025-10-28T07:51:29.598-07:00"}
 ---
 
 # # [[campaign/locations/Faerun\|Faerun]]

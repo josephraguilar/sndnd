@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/factions/gloomshadow/","tags":["faction"],"noteIcon":"","created":"2025-10-26T09:21:56.455-07:00","updated":"2025-10-27T16:33:55.564-07:00"}
+{"dg-publish":true,"permalink":"/campaign/factions/gloomshadow/","tags":["faction"],"noteIcon":"","created":"2025-10-26T09:21:56.455-07:00","updated":"2025-10-27T16:33:48.076-07:00"}
 ---
 
 

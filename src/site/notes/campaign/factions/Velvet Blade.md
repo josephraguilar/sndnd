@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/factions/velvet-blade/","tags":["faction"],"noteIcon":"","created":"2025-10-26T20:35:37.155-07:00","updated":"2025-10-27T16:34:07.718-07:00"}
+{"dg-publish":true,"permalink":"/campaign/factions/velvet-blade/","tags":["faction"],"noteIcon":"","created":"2025-10-26T20:35:37.155-07:00","updated":"2025-10-27T16:34:01.325-07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/sword-coast/","tags":["location"],"noteIcon":"","created":"2025-10-26T14:56:51.090-07:00","updated":"2025-10-28T07:55:06.243-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/sword-coast/","tags":["location"],"noteIcon":"","created":"2025-10-26T14:56:51.090-07:00","updated":"2025-10-28T07:55:00.845-07:00"}
 ---
 
 # # [[campaign/locations/Sword Coast\|Sword Coast]]

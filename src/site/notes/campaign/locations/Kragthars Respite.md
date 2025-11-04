@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/kragthars-respite/","tags":["location"],"noteIcon":"","created":"2025-10-26T08:35:20.039-07:00","updated":"2025-10-28T07:53:18.243-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/kragthars-respite/","tags":["location"],"noteIcon":"","created":"2025-10-26T08:35:20.039-07:00","updated":"2025-10-28T07:53:09.497-07:00"}
 ---
 
 # # [[campaign/locations/Kragthars Respite\|Kragthars Respite]]

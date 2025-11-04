@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/llejaigh/","tags":["location"],"noteIcon":"","created":"2025-10-26T20:20:16.820-07:00","updated":"2025-10-28T07:53:42.850-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/llejaigh/","tags":["location"],"noteIcon":"","created":"2025-10-26T20:20:16.820-07:00","updated":"2025-10-28T07:53:34.073-07:00"}
 ---
 
 # # [[campaign/locations/Llejaigh\|Llejaigh]]

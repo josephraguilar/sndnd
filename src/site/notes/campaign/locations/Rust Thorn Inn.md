@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/rust-thorn-inn/","tags":["location"],"noteIcon":"","created":"2025-10-26T19:58:49.971-07:00","updated":"2025-10-28T07:54:29.133-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/rust-thorn-inn/","tags":["location"],"noteIcon":"","created":"2025-10-26T19:58:49.971-07:00","updated":"2025-10-28T07:54:22.059-07:00"}
 ---
 
 # # [[campaign/locations/Rust Thorn Inn\|Rust Thorn Inn]]

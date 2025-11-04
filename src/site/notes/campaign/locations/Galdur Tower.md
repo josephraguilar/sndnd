@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/galdur-tower/","tags":["location"],"noteIcon":"","created":"2025-10-26T19:49:50.465-07:00","updated":"2025-10-28T07:56:26.457-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/galdur-tower/","tags":["location"],"noteIcon":"","created":"2025-10-26T19:49:50.465-07:00","updated":"2025-10-28T07:56:16.791-07:00"}
 ---
 
 # # [[campaign/locations/Galdur Tower\|Galdur Tower]]

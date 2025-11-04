@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/monsters/sahaugan/","noteIcon":"","created":"2025-10-26T09:15:00.170-07:00","updated":"2025-10-27T16:36:21.041-07:00"}
+{"dg-publish":true,"permalink":"/campaign/monsters/sahaugan/","noteIcon":"","created":"2025-10-26T09:15:00.170-07:00","updated":"2025-11-02T12:44:53.796-08:00"}
 ---
 
 
@@ -14,3 +14,5 @@
 # [[campaign/monsters/Sahaugan\|Sahaugan]]
 
 Water lizard people, used as guards by [[campaign/factions/The Three\|The Three]]
+
+![Sahuagin.webp](/img/user/data/images/Sahuagin.webp)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/scalius/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T12:09:30.601-07:00","updated":"2025-10-27T16:38:33.964-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/scalius/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T12:09:30.601-07:00","updated":"2025-10-27T16:38:28.010-07:00"}
 ---
 
 

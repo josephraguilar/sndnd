@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/cloud-peak-mountains/","tags":["location"],"noteIcon":"","created":"2025-10-26T20:22:24.155-07:00","updated":"2025-10-28T07:51:27.420-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/cloud-peak-mountains/","tags":["location"],"noteIcon":"","created":"2025-10-26T20:22:24.155-07:00","updated":"2025-10-28T07:51:20.490-07:00"}
 ---
 
 # # [[campaign/locations/Cloud Peak Mountains\|Cloud Peak Mountains]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/knifebloom/","tags":["location"],"noteIcon":"","created":"2025-10-26T12:58:03.101-07:00","updated":"2025-10-28T07:52:53.317-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/knifebloom/","tags":["location"],"noteIcon":"","created":"2025-10-26T12:58:03.101-07:00","updated":"2025-10-28T07:52:46.574-07:00"}
 ---
 
 # # [[campaign/locations/Knifebloom\|Knifebloom]]

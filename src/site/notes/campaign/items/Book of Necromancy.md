@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/book-of-necromancy/","noteIcon":"","created":"2025-10-26T09:16:40.745-07:00","updated":"2025-10-27T16:34:24.681-07:00"}
+{"dg-publish":true,"permalink":"/campaign/items/book-of-necromancy/","noteIcon":"","created":"2025-10-26T09:16:40.745-07:00","updated":"2025-10-27T16:34:16.666-07:00"}
 ---
 
 

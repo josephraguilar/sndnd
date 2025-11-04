@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-index/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-26T08:08:34.355-07:00","updated":"2025-10-27T22:36:01.904-07:00"}
+{"dg-publish":true,"permalink":"/world-index/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-26T08:08:34.355-07:00","updated":"2025-11-02T08:20:03.174-08:00"}
 ---
 
 
@@ -29,13 +29,13 @@ Based in Faerun. The world is ran by a slaving organization who the crew origina
 | ----------------------------------------------------------- | --------------------------------------------------------- |
 | [[campaign/factions/Unseen\|Unseen]]                     | Thieves guild of Waterdeep                                |
 | [[campaign/factions/Dark Daggers\|Dark Daggers]]         | Thieves guild of [[Baldur's Gate\|Baldur's Gate]]                        |
-| [[campaign/factions/Ironclad Enclave\|Ironclad Enclave]] | Faerun slave masters                                      |
-| [[campaign/factions/Veruz Rexna\|Veruz Rexna]]           | The paladins of Iuz, a sect formed of half goliaths.      |
-| [[campaign/factions/Shag Dominica\|Shag Dominica]]       | Sahaugan that guard "The Three"                           |
 | [[campaign/factions/Gloomshadow\|Gloomshadow]]           | Thieves guild in Caer Callidier                           |
-| [[campaign/factions/The Three\|The Three]]               | Three powerful hag sisters that lead The Ironcald Enclave |
-| [[campaign/factions/Black Maw\|Black Maw]]               | A brutal orc clan in Valeen                               |
+| [[campaign/factions/Ironclad Enclave\|Ironclad Enclave]] | Faerun slave masters                                      |
 | [[campaign/factions/Velvet Blade\|Velvet Blade]]         | Thieves guild of Llejaigh                                 |
+| [[campaign/factions/Shag Dominica\|Shag Dominica]]       | Sahaugan that guard "The Three"                           |
+| [[campaign/factions/The Three\|The Three]]               | Three powerful hag sisters that lead The Ironcald Enclave |
+| [[campaign/factions/Veruz Rexna\|Veruz Rexna]]           | The paladins of Iuz, a sect formed of half goliaths.      |
+| [[campaign/factions/Black Maw\|Black Maw]]               | A brutal orc clan in Valeen                               |
 
 { .block-language-dataview}
 
@@ -46,9 +46,30 @@ Based in Faerun. The world is ran by a slaving organization who the crew origina
 
 ## Sessions
 
-| File                                                        | Summary            |
-| ----------------------------------------------------------- | ------------------ |
-| [[campaign/sessions/10-26-2025 12-53\|10-26-2025 12-53]] | What's in the box? |
+| File                                                    | Episode            |
+| ------------------------------------------------------- | ------------------ |
+| [[campaign/sessions/001 10-27-2024\|001 10-27-2024]] | Blood Diamonds     |
+| [[campaign/sessions/002 11-10-2024\|002 11-10-2024]] | Hags Down Below    |
+| [[campaign/sessions/003 11-24-2024\|003 11-24-2024]] | Temple Run         |
+| [[campaign/sessions/004 01-05-2025\|004 01-05-2025]] | Eels & Undead      |
+| [[campaign/sessions/005 01-19-2025\|005 01-19-2025]] | Holda's Secret     |
+| [[campaign/sessions/006 02-01-2025\|006 02-01-2025]] | Soul Shopping      |
+| [[campaign/sessions/007 02-16-2025\|007 02-16-2025]] | Xanaphia y Zorath  |
+| [[campaign/sessions/008 03-02-2025\|008 03-02-2025]] | \-                 |
+| [[campaign/sessions/010 03-16-2025\|010 03-16-2025]] | \-                 |
+| [[campaign/sessions/011 03-30-2025\|011 03-30-2025]] | \-                 |
+| [[campaign/sessions/012 04-13-2025\|012 04-13-2025]] | \-                 |
+| [[campaign/sessions/013 04-27-2025\|013 04-27-2025]] | \-                 |
+| [[campaign/sessions/014 05-25-2025\|014 05-25-2025]] | \-                 |
+| [[campaign/sessions/015 06-14-2025\|015 06-14-2025]] | \-                 |
+| [[campaign/sessions/016 06-28-2025\|016 06-28-2025]] | \-                 |
+| [[campaign/sessions/017 07-12-2025\|017 07-12-2025]] | \-                 |
+| [[campaign/sessions/018 07-26-2025\|018 07-26-2025]] | \-                 |
+| [[campaign/sessions/019 08-10-2025\|019 08-10-2025]] | \-                 |
+| [[campaign/sessions/020 08-17-2025\|020 08-17-2025]] | \-                 |
+| [[campaign/sessions/021 08-24-2025\|021 08-24-2025]] | \-                 |
+| [[campaign/sessions/022 09-07-2025\|022 09-07-2025]] | \-                 |
+| [[campaign/sessions/099 11-10-2025\|099 11-10-2025]] | What's in the box? |
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/fiery-flaggen/","tags":["location"],"noteIcon":"","created":"2025-10-26T14:54:31.536-07:00","updated":"2025-10-28T07:52:07.178-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/fiery-flaggen/","tags":["location"],"noteIcon":"","created":"2025-10-26T14:54:31.536-07:00","updated":"2025-10-28T07:51:59.099-07:00"}
 ---
 
 # # [[campaign/locations/Fiery Flaggen\|Fiery Flaggen]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/gamora/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T18:52:33.764-07:00","updated":"2025-10-27T16:37:15.389-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/gamora/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T18:52:33.764-07:00","updated":"2025-10-27T16:37:09.079-07:00"}
 ---
 
 

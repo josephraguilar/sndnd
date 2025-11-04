@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/queens-bitch/","noteIcon":"","created":"2025-10-26T10:26:31.999-07:00","updated":"2025-10-27T16:34:45.214-07:00"}
+{"dg-publish":true,"permalink":"/campaign/items/queens-bitch/","noteIcon":"","created":"2025-10-26T10:26:31.999-07:00","updated":"2025-10-27T16:34:38.789-07:00"}
 ---
 
 

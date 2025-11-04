@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/kaneko/","tags":["character","player"],"noteIcon":"","created":"2025-10-26T09:00:54.372-07:00","updated":"2025-10-27T16:05:27.493-07:00"}
+{"dg-publish":true,"permalink":"/campaign/players/kaneko/","tags":["character","player"],"noteIcon":"","created":"2025-10-26T09:00:54.372-07:00","updated":"2025-10-27T16:05:17.527-07:00"}
 ---
 
 

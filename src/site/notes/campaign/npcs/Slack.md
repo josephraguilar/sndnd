@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/slack/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T10:00:01.808-07:00","updated":"2025-10-27T16:38:40.131-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/slack/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T10:00:01.808-07:00","updated":"2025-10-27T16:38:33.365-07:00"}
 ---
 
 

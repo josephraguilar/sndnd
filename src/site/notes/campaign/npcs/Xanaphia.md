@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/xanaphia/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T10:24:55.858-07:00","updated":"2025-10-27T16:39:15.779-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/xanaphia/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T10:24:55.858-07:00","updated":"2025-11-02T13:28:55.411-08:00"}
 ---
 
 
@@ -11,7 +11,7 @@
 ---
 
 # [[campaign/npcs/Xanaphia\|Xanaphia]]
-Captain of the [[campaign/items/Black Fairy\|Black Fairy]] [[campaign/players/Alias\|Alias]]'s old crush or friend? i need to ask more.
+Captain of the [[campaign/items/Black Fang\|Black Fang]] [[campaign/players/Alias\|Alias]]'s old crush or friend? i need to ask more.
 ## Personality
 **Traits:**  
 **Ideals:**  

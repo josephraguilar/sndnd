@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/alias/","tags":["character","player"],"noteIcon":"","created":"2025-10-26T08:57:28.921-07:00","updated":"2025-10-27T16:05:12.423-07:00"}
+{"dg-publish":true,"permalink":"/campaign/players/alias/","tags":["character","player"],"noteIcon":"","created":"2025-10-26T08:57:28.921-07:00","updated":"2025-10-27T16:05:02.737-07:00"}
 ---
 
 
