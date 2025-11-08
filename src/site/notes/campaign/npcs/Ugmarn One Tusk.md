@@ -12,7 +12,7 @@
 ---
 
 # [[campaign/npcs/Ugmarn One Tusk\|Ugmarn One Tusk]]
-chieftain of [[campaign/locations/sites/Grud-Thacks Cradle\|Grud-Thacks Cradle]]
+chieftain of [[campaign/locations/6_sites/Grud-Thacks Cradle\|Grud-Thacks Cradle]]
 not in a clan
 
 ## Personality

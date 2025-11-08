@@ -5,7 +5,7 @@
 
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Gloomshadow</li>
-<li dir="auto"><strong>Current Location:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/cities &amp; islands/Caer Callidier.md" data-href="campaign/locations/cities &amp; islands/Caer Callidier.md" href="campaign/locations/cities &amp; islands/Caer Callidier.md" class="internal-link" target="_blank" rel="noopener nofollow">Caer Callidier</a></li>
+<li dir="auto"><strong>Current Location:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/4_cities_islands/Caer Callidier.md" data-href="campaign/locations/4_cities_islands/Caer Callidier.md" href="campaign/locations/4_cities_islands/Caer Callidier.md" class="internal-link" target="_blank" rel="noopener nofollow">Caer Callidier</a></li>
 <li dir="auto"><strong>Affiliation:</strong> <a data-tooltip-position="top" aria-label="campaign/npcs/Kira.md" data-href="campaign/npcs/Kira.md" href="campaign/npcs/Kira.md" class="internal-link" target="_blank" rel="noopener nofollow">Kira</a></li>
 <li dir="auto"><strong>Description:</strong> Thieves guild in Caer Callidier</li>
 </ul></span></p>
@@ -13,4 +13,4 @@
 ---
 
 # [[campaign/factions/Gloomshadow\|Gloomshadow]]
-Thieves guild in [[campaign/locations/cities & islands/Caer Callidier\|Caer Callidier]], led by [[campaign/npcs/Kira\|Kira]] 
+Thieves guild in [[campaign/locations/4_cities_islands/Caer Callidier\|Caer Callidier]], led by [[campaign/npcs/Kira\|Kira]] 

@@ -10,7 +10,7 @@
 ---
 
 # [[campaign/npcs/Grolgath\|Grolgath]]
-Our orc guide and friend from [[campaign/locations/regions & archipalegos/Velen\|Velen]]
+Our orc guide and friend from [[campaign/locations/2_regions & archipelagos/Velen\|Velen]]
 ## Personality
 **Traits:**  
 **Ideals:**  

@@ -8,9 +8,9 @@
 <li dir="auto"><strong>Gender:</strong> female</li>
 <li dir="auto"><strong>Background:</strong> Guild Master of the dark daggers</li>
 <li dir="auto"><strong>Role:</strong> Guild Master</li>
-<li dir="auto"><strong>Current Location:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/cities &amp; islands/Baldurs Gate.md" data-href="campaign/locations/cities &amp; islands/Baldurs Gate.md" href="campaign/locations/cities &amp; islands/Baldurs Gate.md" class="internal-link" target="_blank" rel="noopener nofollow">Baldurs Gate</a></li>
+<li dir="auto"><strong>Current Location:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/4_cities_islands/Baldurs Gate.md" data-href="campaign/locations/4_cities_islands/Baldurs Gate.md" href="campaign/locations/4_cities_islands/Baldurs Gate.md" class="internal-link" target="_blank" rel="noopener nofollow">Baldurs Gate</a></li>
 <li dir="auto"><strong>Affiliation:</strong> <a data-tooltip-position="top" aria-label="campaign/factions/Dark Daggers.md" data-href="campaign/factions/Dark Daggers.md" href="campaign/factions/Dark Daggers.md" class="internal-link" target="_blank" rel="noopener nofollow">Dark Daggers</a></li>
-<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/sites/Velvet Veil.md" data-href="campaign/locations/sites/Velvet Veil.md" href="campaign/locations/sites/Velvet Veil.md" class="internal-link" target="_blank" rel="noopener nofollow">Velvet Veil</a></li>
+<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/6_sites/Velvet Veil.md" data-href="campaign/locations/6_sites/Velvet Veil.md" href="campaign/locations/6_sites/Velvet Veil.md" class="internal-link" target="_blank" rel="noopener nofollow">Velvet Veil</a></li>
 <li dir="auto"><strong>Description:</strong> Guild Master of the dark daggers</li>
 </ul></span></p>
 

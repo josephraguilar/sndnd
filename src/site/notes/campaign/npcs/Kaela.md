@@ -12,7 +12,7 @@
 ---
 	
 # [[campaign/npcs/Kaela\|Kaela]]
-Obold's Mother from [[campaign/locations/cities & islands/Llorgh\|Llorgh]], who is said to have been sacrificed by [[campaign/npcs/Grudrack\|Grudrack]].
+Obold's Mother from [[campaign/locations/4_cities_islands/Llorgh\|Llorgh]], who is said to have been sacrificed by [[campaign/npcs/Grudrack\|Grudrack]].
 ## Personality
 **Traits:**  
 **Ideals:**  

@@ -8,7 +8,7 @@
 <li dir="auto"><strong>Gender:</strong> male</li>
 <li dir="auto"><strong>Race:</strong> Elf</li>
 <li dir="auto"><strong>Role:</strong> Pirate Captain</li>
-<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/sites/Broken Fang Tavern.md" data-href="campaign/locations/sites/Broken Fang Tavern.md" href="campaign/locations/sites/Broken Fang Tavern.md" class="internal-link" target="_blank" rel="noopener nofollow">Broken Fang Tavern</a></li>
+<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/6_sites/Broken Fang Tavern.md" data-href="campaign/locations/6_sites/Broken Fang Tavern.md" href="campaign/locations/6_sites/Broken Fang Tavern.md" class="internal-link" target="_blank" rel="noopener nofollow">Broken Fang Tavern</a></li>
 <li dir="auto"><strong>Description:</strong> eccentric elf pirate who "kinda" helps out.</li>
 </ul></span></p>
 

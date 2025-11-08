@@ -10,7 +10,7 @@
 ---
 
 # [[campaign/npcs/Orik\|Orik]]
-We met at the [[campaign/locations/sites/Grumpy Broom\|Grumpy Broom]]
+We met at the [[campaign/locations/6_sites/Grumpy Broom\|Grumpy Broom]]
 ## Personality
 **Traits:**  
 **Ideals:**  

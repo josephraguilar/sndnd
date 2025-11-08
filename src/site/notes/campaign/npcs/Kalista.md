@@ -13,7 +13,7 @@
 ---
 
 # [[campaign/npcs/Kalista\|Kalista]]
-Young, beautiful, and powerful. She aided us in our quests in [[campaign/locations/regions & archipalegos/Alaron\|Alaron]] 
+Young, beautiful, and powerful. She aided us in our quests in [[campaign/locations/2_regions & archipelagos/Alaron\|Alaron]] 
 ## Personality
 **Traits:**  
 **Ideals:**  
@@ -38,4 +38,4 @@ fiancé of the [[campaign/npcs/Betrayer King\|Betrayer King]]
 
 younger, more attractive woman
 
-not a part of an organization, but has grown up in [[campaign/locations/regions & archipalegos/Alaron\|Alaron]] fighting the [[campaign/factions/Ironclad Enclave\|Ironclad Enclave]]
+not a part of an organization, but has grown up in [[campaign/locations/2_regions & archipelagos/Alaron\|Alaron]] fighting the [[campaign/factions/Ironclad Enclave\|Ironclad Enclave]]

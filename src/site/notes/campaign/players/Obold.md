@@ -9,7 +9,7 @@
 <li dir="auto"><strong>Class:</strong> Paladin - Oath of Vengeance</li>
 <li dir="auto"><strong>Level:</strong> 7</li>
 <li dir="auto"><strong>Alignment:</strong> Lawful Neutrel</li>
-<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/cities &amp; islands/Caer Callidier.md" data-href="campaign/locations/cities &amp; islands/Caer Callidier.md" href="campaign/locations/cities &amp; islands/Caer Callidier.md" class="internal-link" target="_blank" rel="noopener nofollow">Caer Callidier</a></li>
+<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/4_cities_islands/Caer Callidier.md" data-href="campaign/locations/4_cities_islands/Caer Callidier.md" href="campaign/locations/4_cities_islands/Caer Callidier.md" class="internal-link" target="_blank" rel="noopener nofollow">Caer Callidier</a></li>
 </ul></span></p>
 
 ---
@@ -36,4 +36,4 @@ A pale-skinned and completely hairless half goliath who's simple mind makes him 
 
 ## Notes
 Was forced to follow [[campaign/npcs/Baphomet\|Baphomet]] by [[campaign/npcs/Holda\|Holda]]
-Baphomet showed him a half-goliath paladin of [[campaign/npcs/Iuz\|Iuz]] on [[campaign/locations/cities & islands/Mintarin\|Mintarin]]
+Baphomet showed him a half-goliath paladin of [[campaign/npcs/Iuz\|Iuz]] on [[campaign/locations/4_cities_islands/Mintarin\|Mintarin]]

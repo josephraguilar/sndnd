@@ -13,4 +13,4 @@
 # [[campaign/items/Queens Bitch\|Queens Bitch]]
 [[campaign/players/Alias\|Alias]]'s previous vessel, or at least one he worked on. 
 ## Log
-In [[campaign/locations/cities & islands/Waterdeep\|Waterdeep]] we learned its still afloat and terrorizing the seas. 
+In [[campaign/locations/4_cities_islands/Waterdeep\|Waterdeep]] we learned its still afloat and terrorizing the seas. 

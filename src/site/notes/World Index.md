@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-index/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-26T08:08:34.355-07:00","updated":"2025-11-04T11:11:41.617-08:00"}
+{"dg-publish":true,"permalink":"/world-index/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-26T08:08:34.355-07:00","updated":"2025-11-07T18:52:57.953-08:00"}
 ---
 
 
@@ -32,7 +32,7 @@ Based in Faerun. The world is ran by a slaving organization who the crew origina
 | [[campaign/factions/The Three\|The Three]]                 | Three powerful hag sisters that lead The Ironcald Enclave |
 | [[campaign/factions/Gloomshadow\|Gloomshadow]]             | Thieves guild in Caer Callidier                           |
 | [[campaign/factions/Veruz Rexna\|Veruz Rexna]]             | The paladins of Iuz, a sect formed of half goliaths.      |
-| [[campaign/factions/Dark Daggers\|Dark Daggers]]           | Thieves guild of [[Baldur's Gate\|Baldur's Gate]]                        |
+| [[campaign/factions/Dark Daggers\|Dark Daggers]]           | Thieves guild of Baldur's Gate                            |
 | [[campaign/factions/Unseen\|Unseen]]                       | Thieves guild of Waterdeep                                |
 | [[campaign/factions/Black Maw Tribe\|Black Maw Tribe]]     | A brutal orc clan in Valeen                               |
 | [[campaign/factions/Velvet Blade\|Velvet Blade]]           | Thieves guild of Llejaigh                                 |
@@ -42,11 +42,6 @@ Based in Faerun. The world is ran by a slaving organization who the crew origina
 | [[campaign/factions/Green Court\|Green Court]]             | \-                                                        |
 
 { .block-language-dataview}
-
-## Custom rules
-
-- [[Character options\|Character options]]
-- [[ttrpgs//House Rules\|House Rules]]
 
 ## Sessions
 

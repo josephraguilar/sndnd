@@ -5,7 +5,7 @@
 
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Shag Dominica</li>
-<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/regions &amp; archipalegos/Alaron.md" data-href="campaign/locations/regions &amp; archipalegos/Alaron.md" href="campaign/locations/regions &amp; archipalegos/Alaron.md" class="internal-link" target="_blank" rel="noopener nofollow">Alaron</a></li>
+<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/2_regions &amp; archipelagos/Alaron.md" data-href="campaign/locations/2_regions &amp; archipelagos/Alaron.md" href="campaign/locations/2_regions &amp; archipelagos/Alaron.md" class="internal-link" target="_blank" rel="noopener nofollow">Alaron</a></li>
 <li dir="auto"><strong>Affiliation:</strong> <a data-tooltip-position="top" aria-label="campaign/factions/Ironclad Enclave.md" data-href="campaign/factions/Ironclad Enclave.md" href="campaign/factions/Ironclad Enclave.md" class="internal-link" target="_blank" rel="noopener nofollow">Ironclad Enclave</a></li>
 <li dir="auto"><strong>Description:</strong> Sahaugan that guard "The Three"</li>
 </ul></span></p>

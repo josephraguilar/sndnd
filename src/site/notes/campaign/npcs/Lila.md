@@ -13,4 +13,4 @@
 ---
 
 # [[campaign/npcs/Lila\|Lila]]
-bartender of the [[campaign/locations/sites/Wanton Witch\|Wanton Witch]] in [[campaign/locations/cities & islands/Caer Callidier\|Caer Callidier]] 
+bartender of the [[campaign/locations/6_sites/Wanton Witch\|Wanton Witch]] in [[campaign/locations/4_cities_islands/Caer Callidier\|Caer Callidier]] 

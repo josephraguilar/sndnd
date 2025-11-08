@@ -6,7 +6,7 @@
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Miezul</li>
 <li dir="auto"><strong>Faction:</strong> <a data-tooltip-position="top" aria-label="campaign/factions/Dark Daggers.md" data-href="campaign/factions/Dark Daggers.md" href="campaign/factions/Dark Daggers.md" class="internal-link" target="_blank" rel="noopener nofollow">Dark Daggers</a></li>
-<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/cities &amp; islands/Gorvathcha.md" data-href="campaign/locations/cities &amp; islands/Gorvathcha.md" href="campaign/locations/cities &amp; islands/Gorvathcha.md" class="internal-link" target="_blank" rel="noopener nofollow">Gorvathcha</a></li>
+<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/4_cities_islands/Gorvathcha.md" data-href="campaign/locations/4_cities_islands/Gorvathcha.md" href="campaign/locations/4_cities_islands/Gorvathcha.md" class="internal-link" target="_blank" rel="noopener nofollow">Gorvathcha</a></li>
 </ul></span></p>
 
 ---

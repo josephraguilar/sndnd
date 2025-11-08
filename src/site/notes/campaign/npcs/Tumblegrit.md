@@ -25,4 +25,4 @@ A tortle who helped us in the fey wild.
 ---
 
 ## Notes
-[[campaign/players/Kormak\|Kormak]] traded him for an amulet containing a piece of the map to [[campaign/locations/nations/Lebor Gabala\|Lebor Gabala]].
+[[campaign/players/Kormak\|Kormak]] traded him for an amulet containing a piece of the map to [[campaign/locations/3_nations/Lebor Gabala\|Lebor Gabala]].

@@ -29,7 +29,7 @@ Emissary sent from < idk > to convince the [[campaign/npcs/Ugmarn One Tusk\|Ugma
 from 
 
 king and queen have sent him here to persuade the chieftain
- [[campaign/npcs/Ugmarn One Tusk\|Ugmarn One Tusk]] to begin trade with them, they need raw materials from [[campaign/locations/regions & archipalegos/Velen\|Velen]] and have stuff to trade back
+ [[campaign/npcs/Ugmarn One Tusk\|Ugmarn One Tusk]] to begin trade with them, they need raw materials from [[campaign/locations/2_regions & archipelagos/Velen\|Velen]] and have stuff to trade back
 when he was speaking with [[campaign/npcs/Ugmarn One Tusk\|Ugmarn One Tusk]] one of the etiquette was to drink wine with scorpion poison
 
 he didnt drink it, then [[campaign/npcs/Ugmarn One Tusk\|Ugmarn One Tusk]] imprisoned him for it. He asked the party to get back into his good graces, which we did. 

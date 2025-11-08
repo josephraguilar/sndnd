@@ -27,4 +27,4 @@
 ---
 
 ## Notes
-was protecting [[campaign/npcs/Kragatha\|Kragatha]] in part of an envoy in [[campaign/locations/regions & archipalegos/Velen\|Velen]]. They were sent from [[campaign/locations/cities & islands/Caer Callidier\|Caer Callidier]] to meet 
+was protecting [[campaign/npcs/Kragatha\|Kragatha]] in part of an envoy in [[campaign/locations/2_regions & archipelagos/Velen\|Velen]]. They were sent from [[campaign/locations/4_cities_islands/Caer Callidier\|Caer Callidier]] to meet 
