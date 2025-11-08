@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/morning-afterglow/","noteIcon":"","created":"2025-10-26T12:26:23.240-07:00","updated":"2025-10-27T16:34:35.819-07:00"}
+{"dg-publish":true,"permalink":"/campaign/items/morning-afterglow/","noteIcon":"","created":"2025-10-26T12:26:23.240-07:00","updated":"2025-10-27T16:34:43.010-07:00"}
 ---
 
 

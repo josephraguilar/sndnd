@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/calimshan/","tags":["location"],"noteIcon":"","created":"2025-10-26T19:51:48.681-07:00","updated":"2025-10-28T07:51:07.759-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/calimshan/","tags":["location"],"noteIcon":"","created":"2025-10-26T19:51:48.681-07:00","updated":"2025-10-28T07:51:15.495-07:00"}
 ---
 
 # # [[campaign/locations/Calimshan\|Calimshan]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/betrayer-king/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T10:02:37.889-07:00","updated":"2025-10-27T16:36:44.974-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/betrayer-king/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T10:02:37.889-07:00","updated":"2025-10-27T16:36:50.995-07:00"}
 ---
 
 

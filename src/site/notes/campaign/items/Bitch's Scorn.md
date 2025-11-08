@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/bitch-s-scorn/","noteIcon":"","created":"2025-10-26T18:52:57.296-07:00","updated":"2025-10-28T08:02:39.816-07:00"}
+{"dg-publish":true,"permalink":"/campaign/items/bitch-s-scorn/","noteIcon":"","created":"2025-10-26T18:52:57.296-07:00","updated":"2025-10-28T08:02:46.127-07:00"}
 ---
 
 

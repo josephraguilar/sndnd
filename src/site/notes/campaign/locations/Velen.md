@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/velen/","tags":["location"],"noteIcon":"","created":"2025-10-26T10:06:25.121-07:00","updated":"2025-10-28T07:55:29.141-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/velen/","tags":["location"],"noteIcon":"","created":"2025-10-26T10:06:25.121-07:00","updated":"2025-10-28T07:55:36.415-07:00"}
 ---
 
 # # [[campaign/locations/Velen\|Velen]]

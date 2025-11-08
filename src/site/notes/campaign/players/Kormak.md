@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/kormak/","tags":["character","player"],"noteIcon":"","created":"2025-10-26T09:01:34.968-07:00","updated":"2025-10-27T16:05:40.279-07:00"}
+{"dg-publish":true,"permalink":"/campaign/players/kormak/","tags":["character","player"],"noteIcon":"","created":"2025-10-26T09:01:34.968-07:00","updated":"2025-10-27T16:05:49.864-07:00"}
 ---
 
 

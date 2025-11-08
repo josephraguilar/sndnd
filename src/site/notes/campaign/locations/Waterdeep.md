@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/waterdeep/","tags":["location"],"noteIcon":"","created":"2025-10-26T10:01:34.616-07:00","updated":"2025-10-28T07:55:58.832-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/waterdeep/","tags":["location"],"noteIcon":"","created":"2025-10-26T10:01:34.616-07:00","updated":"2025-10-28T07:56:06.365-07:00"}
 ---
 
 # # [[campaign/locations/Waterdeep\|Waterdeep]]

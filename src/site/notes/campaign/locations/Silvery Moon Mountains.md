@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/silvery-moon-mountains/","tags":["location"],"noteIcon":"","created":"2025-10-26T10:33:13.055-07:00","updated":"2025-10-28T07:54:32.068-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/silvery-moon-mountains/","tags":["location"],"noteIcon":"","created":"2025-10-26T10:33:13.055-07:00","updated":"2025-10-28T07:54:39.037-07:00"}
 ---
 
 # # [[campaign/locations/Silvery Moon Mountains\|Silvery Moon Mountains]]

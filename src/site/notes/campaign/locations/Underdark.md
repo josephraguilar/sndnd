@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/underdark/","tags":["location"],"noteIcon":"","created":"2025-10-26T19:39:02.051-07:00","updated":"2025-10-28T07:55:19.633-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/underdark/","tags":["location"],"noteIcon":"","created":"2025-10-26T19:39:02.051-07:00","updated":"2025-10-28T07:55:26.247-07:00"}
 ---
 
 # # [[campaign/locations/Underdark\|Underdark]]

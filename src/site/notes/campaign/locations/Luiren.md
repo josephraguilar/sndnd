@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/luiren/","tags":["location"],"noteIcon":"","created":"2025-10-26T19:03:34.973-07:00","updated":"2025-10-28T07:53:54.181-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/luiren/","tags":["location"],"noteIcon":"","created":"2025-10-26T19:03:34.973-07:00","updated":"2025-10-28T07:54:03.376-07:00"}
 ---
 
 # [[campaign/locations/Luiren\|Luiren]]

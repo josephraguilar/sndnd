@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/gloomshadow-hill/","tags":["location"],"noteIcon":"","created":"2025-10-26T09:31:11.190-07:00","updated":"2025-10-28T07:52:14.790-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/gloomshadow-hill/","tags":["location"],"noteIcon":"","created":"2025-10-26T09:31:11.190-07:00","updated":"2025-10-28T07:52:22.086-07:00"}
 ---
 
 # # [[campaign/locations/Gloomshadow Hill\|Gloomshadow Hill]]

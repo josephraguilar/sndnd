@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/broken-fang-tavern/","tags":["location"],"noteIcon":"","created":"2025-10-26T08:35:02.057-07:00","updated":"2025-10-28T07:50:37.381-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/broken-fang-tavern/","tags":["location"],"noteIcon":"","created":"2025-10-26T08:35:02.057-07:00","updated":"2025-10-28T07:50:42.643-07:00"}
 ---
 
 # # [[campaign/locations/Broken Fang Tavern\|Broken Fang Tavern]]

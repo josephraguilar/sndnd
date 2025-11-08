@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/wicked-ursula-worm-wiggle/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:28:11.238-07:00","updated":"2025-10-27T16:39:07.090-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/wicked-ursula-worm-wiggle/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:28:11.238-07:00","updated":"2025-10-27T16:39:15.585-07:00"}
 ---
 
 

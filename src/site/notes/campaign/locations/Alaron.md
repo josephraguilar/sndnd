@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/alaron/","noteIcon":"","created":"2025-10-26T09:04:51.758-07:00","updated":"2025-10-28T08:02:10.249-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/alaron/","noteIcon":"","created":"2025-10-26T09:04:51.758-07:00","updated":"2025-10-28T08:02:16.406-07:00"}
 ---
 
 # # [[campaign/locations/Alaron\|Alaron]]
