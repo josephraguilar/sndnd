@@ -10,7 +10,7 @@
 ---
 
 # [[campaign/npcs/Jai\|Jai]]
-A girl we took hostage in the [[campaign/factions/Gloomshadow\|Gloomshadow]] hideout in [[campaign/locations/Caer Callidier\|Caer Callidier]]
+A girl we took hostage in the [[campaign/factions/Gloomshadow\|Gloomshadow]] hideout in [[campaign/locations/cities & islands/Caer Callidier\|Caer Callidier]]
 ## Personality
 **Traits:**  
 **Ideals:**  

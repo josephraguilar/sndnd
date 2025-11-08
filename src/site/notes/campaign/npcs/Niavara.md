@@ -10,7 +10,7 @@
 ---
 
 # [[campaign/npcs/Niavara\|Niavara]]
-Queen of the [[campaign/locations/Silvery Moon Mountains\|Silvery Moon Mountains]] 
+Queen of the [[campaign/locations/nations/Silvery Moon Mountains\|Silvery Moon Mountains]] 
 ## Personality
 **Traits:**  
 **Ideals:**  

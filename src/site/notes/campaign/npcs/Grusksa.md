@@ -7,14 +7,14 @@
 <li dir="auto"><strong>Name:</strong> Grusksa</li>
 <li dir="auto"><strong>Gender:</strong> female</li>
 <li dir="auto"><strong>Race:</strong> Orc</li>
-<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Velen.md" data-href="campaign/locations/Velen.md" href="campaign/locations/Velen.md" class="internal-link" target="_blank" rel="noopener nofollow">Velen</a></li>
-<li dir="auto"><strong>Current Location:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Velen.md" data-href="campaign/locations/Velen.md" href="campaign/locations/Velen.md" class="internal-link" target="_blank" rel="noopener nofollow">Velen</a></li>
+<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/regions &amp; archipalegos/Velen.md" data-href="campaign/locations/regions &amp; archipalegos/Velen.md" href="campaign/locations/regions &amp; archipalegos/Velen.md" class="internal-link" target="_blank" rel="noopener nofollow">Velen</a></li>
+<li dir="auto"><strong>Current Location:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/regions &amp; archipalegos/Velen.md" data-href="campaign/locations/regions &amp; archipalegos/Velen.md" href="campaign/locations/regions &amp; archipalegos/Velen.md" class="internal-link" target="_blank" rel="noopener nofollow">Velen</a></li>
 </ul></span></p>
 
 ---
 
 # [[campaign/npcs/Grusksa\|Grusksa]]
-Overseer of the cemetary in [[campaign/locations/Velen\|Velen]]
+Overseer of the cemetary in [[campaign/locations/regions & archipalegos/Velen\|Velen]]
 
 ## Personality
 **Traits:**  

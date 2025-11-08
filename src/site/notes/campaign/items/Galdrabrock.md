@@ -13,7 +13,7 @@
 # [[campaign/items/Galdrabrock\|Galdrabrock]]
 A book used by the witches of Iuz to use incantations for the slave collars. 
 ## Log
-Located in one of the  Mausoleums in [[campaign/locations/Caer Callidier\|Caer Callidier]]
+Located in one of the  Mausoleums in [[campaign/locations/cities & islands/Caer Callidier\|Caer Callidier]]
 
 reveals tainted blood information and can be used to unlock/lock collars 
 

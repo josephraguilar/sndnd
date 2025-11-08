@@ -29,6 +29,6 @@
 ---
 
 ## Notes
-Task master of the [[campaign/factions/Gloomshadow\|GloomShadow]] thieves guild in [[campaign/locations/Caer Callidier\|Caer Callidier]]. 
+Task master of the [[campaign/factions/Gloomshadow\|GloomShadow]] thieves guild in [[campaign/locations/cities & islands/Caer Callidier\|Caer Callidier]]. 
 
 Was killed by the party.

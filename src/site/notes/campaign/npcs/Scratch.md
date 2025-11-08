@@ -8,14 +8,14 @@
 <li dir="auto"><strong>Gender:</strong> male</li>
 <li dir="auto"><strong>Race:</strong> Goblin</li>
 <li dir="auto"><strong>Role:</strong> Owner</li>
-<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Kragthars Respite.md" data-href="campaign/locations/Kragthars Respite.md" href="campaign/locations/Kragthars Respite.md" class="internal-link" target="_blank" rel="noopener nofollow">Kragthars Respite</a></li>
-<li dir="auto"><strong>Current Location:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Kragthars Respite.md" data-href="campaign/locations/Kragthars Respite.md" href="campaign/locations/Kragthars Respite.md" class="internal-link" target="_blank" rel="noopener nofollow">Kragthars Respite</a></li>
+<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/cities &amp; islands/Kragthars Respite.md" data-href="campaign/locations/cities &amp; islands/Kragthars Respite.md" href="campaign/locations/cities &amp; islands/Kragthars Respite.md" class="internal-link" target="_blank" rel="noopener nofollow">Kragthars Respite</a></li>
+<li dir="auto"><strong>Current Location:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/cities &amp; islands/Kragthars Respite.md" data-href="campaign/locations/cities &amp; islands/Kragthars Respite.md" href="campaign/locations/cities &amp; islands/Kragthars Respite.md" class="internal-link" target="_blank" rel="noopener nofollow">Kragthars Respite</a></li>
 </ul></span></p>
 
 ---
 
 # [[campaign/npcs/Scratch\|Scratch]]
-Shop owner of [[campaign/locations/Stormglass Oddities\|Stormglass Oddities]] in [[campaign/locations/Kragthars Respite\|Kragthars Respite]]
+Shop owner of [[campaign/locations/sites/Stormglass Oddities\|Stormglass Oddities]] in [[campaign/locations/cities & islands/Kragthars Respite\|Kragthars Respite]]
 ## Personality
 **Traits:**  
 **Ideals:**  

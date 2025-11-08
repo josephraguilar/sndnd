@@ -10,7 +10,7 @@
 ---
 
 # [[campaign/npcs/Velzin\|Velzin]]
-Drow emissary from the [[campaign/locations/Underdark\|Underdark]] < idk, need more information >
+Drow emissary from the [[campaign/locations/continents/Underdark\|Underdark]] < idk, need more information >
 ## Personality
 **Traits:**  
 **Ideals:**  

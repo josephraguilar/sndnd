@@ -6,7 +6,7 @@
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Melian</li>
 <li dir="auto"><strong>Current Location:</strong> <a data-tooltip-position="top" aria-label="Naivara" data-href="Naivara" href="Naivara" class="internal-link" target="_blank" rel="noopener nofollow">Naivara</a></li>
-<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Waterdeep.md" data-href="campaign/locations/Waterdeep.md" href="campaign/locations/Waterdeep.md" class="internal-link" target="_blank" rel="noopener nofollow">Waterdeep</a></li>
+<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/cities &amp; islands/Waterdeep.md" data-href="campaign/locations/cities &amp; islands/Waterdeep.md" href="campaign/locations/cities &amp; islands/Waterdeep.md" class="internal-link" target="_blank" rel="noopener nofollow">Waterdeep</a></li>
 </ul></span></p>
 
 ---

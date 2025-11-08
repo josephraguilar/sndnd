@@ -5,12 +5,12 @@
 
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Unseen</li>
-<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Waterdeep.md" data-href="campaign/locations/Waterdeep.md" href="campaign/locations/Waterdeep.md" class="internal-link" target="_blank" rel="noopener nofollow">Waterdeep</a></li>
-<li dir="auto"><strong>Current Location:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Waterdeep.md" data-href="campaign/locations/Waterdeep.md" href="campaign/locations/Waterdeep.md" class="internal-link" target="_blank" rel="noopener nofollow">Waterdeep</a></li>
+<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/cities &amp; islands/Waterdeep.md" data-href="campaign/locations/cities &amp; islands/Waterdeep.md" href="campaign/locations/cities &amp; islands/Waterdeep.md" class="internal-link" target="_blank" rel="noopener nofollow">Waterdeep</a></li>
+<li dir="auto"><strong>Current Location:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/cities &amp; islands/Waterdeep.md" data-href="campaign/locations/cities &amp; islands/Waterdeep.md" href="campaign/locations/cities &amp; islands/Waterdeep.md" class="internal-link" target="_blank" rel="noopener nofollow">Waterdeep</a></li>
 <li dir="auto"><strong>Description:</strong> Thieves guild of Waterdeep</li>
 </ul></span></p>
 
 ---
 
 # [[campaign/factions/Unseen\|Unseen]]
-Thieves guild of [[campaign/locations/Waterdeep\|Waterdeep]]
+Thieves guild of [[campaign/locations/cities & islands/Waterdeep\|Waterdeep]]

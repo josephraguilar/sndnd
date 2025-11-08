@@ -6,14 +6,14 @@
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Magnus</li>
 <li dir="auto"><strong>Status:</strong> dead</li>
-<li dir="auto"><strong>Hails From:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Caer Callidier.md" data-href="campaign/locations/Caer Callidier.md" href="campaign/locations/Caer Callidier.md" class="internal-link" target="_blank" rel="noopener nofollow">Caer Callidier</a></li>
-<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Velen.md" data-href="campaign/locations/Velen.md" href="campaign/locations/Velen.md" class="internal-link" target="_blank" rel="noopener nofollow">Velen</a></li>
+<li dir="auto"><strong>Hails From:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/cities &amp; islands/Caer Callidier.md" data-href="campaign/locations/cities &amp; islands/Caer Callidier.md" href="campaign/locations/cities &amp; islands/Caer Callidier.md" class="internal-link" target="_blank" rel="noopener nofollow">Caer Callidier</a></li>
+<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/regions &amp; archipalegos/Velen.md" data-href="campaign/locations/regions &amp; archipalegos/Velen.md" href="campaign/locations/regions &amp; archipalegos/Velen.md" class="internal-link" target="_blank" rel="noopener nofollow">Velen</a></li>
 </ul></span></p>
 
 ---
 
 # [[campaign/npcs/Magnus\|Magnus]]
-One of the [[campaign/factions/Veruz Rexna\|Veruz Rexna]] slain while we were in [[campaign/locations/Velen\|Velen]]
+One of the [[campaign/factions/Veruz Rexna\|Veruz Rexna]] slain while we were in [[campaign/locations/regions & archipalegos/Velen\|Velen]]
 
 ## Personality
 **Traits:**  

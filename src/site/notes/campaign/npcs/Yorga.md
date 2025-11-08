@@ -8,15 +8,15 @@
 <li dir="auto"><strong>Gender:</strong> female</li>
 <li dir="auto"><strong>Race:</strong> Half-Orc</li>
 <li dir="auto"><strong>Role:</strong> Bar Owner</li>
-<li dir="auto"><strong>Current Location:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Kragthars Respite.md" data-href="campaign/locations/Kragthars Respite.md" href="campaign/locations/Kragthars Respite.md" class="internal-link" target="_blank" rel="noopener nofollow">Kragthars Respite</a></li>
-<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Broken Fang Tavern.md" data-href="campaign/locations/Broken Fang Tavern.md" href="campaign/locations/Broken Fang Tavern.md" class="internal-link" target="_blank" rel="noopener nofollow">Broken Fang Tavern</a></li>
+<li dir="auto"><strong>Current Location:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/cities &amp; islands/Kragthars Respite.md" data-href="campaign/locations/cities &amp; islands/Kragthars Respite.md" href="campaign/locations/cities &amp; islands/Kragthars Respite.md" class="internal-link" target="_blank" rel="noopener nofollow">Kragthars Respite</a></li>
+<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/sites/Broken Fang Tavern.md" data-href="campaign/locations/sites/Broken Fang Tavern.md" href="campaign/locations/sites/Broken Fang Tavern.md" class="internal-link" target="_blank" rel="noopener nofollow">Broken Fang Tavern</a></li>
 <li dir="auto"><strong>Description:</strong> owner of broken fang tavern</li>
 </ul></span></p>
 
 ---
 
 # [[campaign/npcs/Yorga\|Yorga]]
-Barkeep at the [[campaign/locations/Broken Fang Tavern\|Broken Fang Tavern]] 
+Barkeep at the [[campaign/locations/sites/Broken Fang Tavern\|Broken Fang Tavern]] 
 
 ## Personality
 **Traits:**  

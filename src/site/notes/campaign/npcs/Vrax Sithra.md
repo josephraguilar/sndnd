@@ -6,8 +6,8 @@
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Vrax Sithra</li>
 <li dir="auto"><strong>Status:</strong> dead</li>
-<li dir="auto"><strong>Current Location:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Kund Vethrak.md" data-href="campaign/locations/Kund Vethrak.md" href="campaign/locations/Kund Vethrak.md" class="internal-link" target="_blank" rel="noopener nofollow">Kund Vethrak</a></li>
-<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Kund Vethrak.md" data-href="campaign/locations/Kund Vethrak.md" href="campaign/locations/Kund Vethrak.md" class="internal-link" target="_blank" rel="noopener nofollow">Kund Vethrak</a></li>
+<li dir="auto"><strong>Current Location:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/sites/Kund Vethrak.md" data-href="campaign/locations/sites/Kund Vethrak.md" href="campaign/locations/sites/Kund Vethrak.md" class="internal-link" target="_blank" rel="noopener nofollow">Kund Vethrak</a></li>
+<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/sites/Kund Vethrak.md" data-href="campaign/locations/sites/Kund Vethrak.md" href="campaign/locations/sites/Kund Vethrak.md" class="internal-link" target="_blank" rel="noopener nofollow">Kund Vethrak</a></li>
 </ul></span></p>
 
 ---
