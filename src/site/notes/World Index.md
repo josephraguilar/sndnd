@@ -28,10 +28,10 @@ Based in Faerun. The world is ran by a slaving organization who the crew origina
 | File                                                          | Description                                               |
 | ------------------------------------------------------------- | --------------------------------------------------------- |
 | [[campaign/factions/Shag Dominica\|Shag Dominica]]         | Sahaugan that guard "The Three"                           |
-| [[campaign/factions/Ironclad Enclave\|Ironclad Enclave]]   | Faerun slave masters                                      |
 | [[campaign/factions/The Three\|The Three]]                 | Three powerful hag sisters that lead The Ironcald Enclave |
-| [[campaign/factions/Gloomshadow\|Gloomshadow]]             | Thieves guild in Caer Callidier                           |
+| [[campaign/factions/Ironclad Enclave\|Ironclad Enclave]]   | Faerun slave masters                                      |
 | [[campaign/factions/Veruz Rexna\|Veruz Rexna]]             | The paladins of Iuz, a sect formed of half goliaths.      |
+| [[campaign/factions/Gloomshadow\|Gloomshadow]]             | Thieves guild in Caer Callidier                           |
 | [[campaign/factions/Dark Daggers\|Dark Daggers]]           | Thieves guild of Baldur's Gate                            |
 | [[campaign/factions/Unseen\|Unseen]]                       | Thieves guild of Waterdeep                                |
 | [[campaign/factions/Black Maw Tribe\|Black Maw Tribe]]     | A brutal orc clan in Valeen                               |
