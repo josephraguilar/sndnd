@@ -28,10 +28,10 @@ Based in Faerun. The world is ran by a slaving organization who the crew origina
 | File                                                          | Description                                               |
 | ------------------------------------------------------------- | --------------------------------------------------------- |
 | [[campaign/factions/Shag Dominica\|Shag Dominica]]         | Sahaugan that guard "The Three"                           |
-| [[campaign/factions/The Three\|The Three]]                 | Three powerful hag sisters that lead The Ironcald Enclave |
 | [[campaign/factions/Ironclad Enclave\|Ironclad Enclave]]   | Faerun slave masters                                      |
-| [[campaign/factions/Veruz Rexna\|Veruz Rexna]]             | The paladins of Iuz, a sect formed of half goliaths.      |
+| [[campaign/factions/The Three\|The Three]]                 | Three powerful hag sisters that lead The Ironcald Enclave |
 | [[campaign/factions/Gloomshadow\|Gloomshadow]]             | Thieves guild in Caer Callidier                           |
+| [[campaign/factions/Veruz Rexna\|Veruz Rexna]]             | The paladins of Iuz, a sect formed of half goliaths.      |
 | [[campaign/factions/Dark Daggers\|Dark Daggers]]           | Thieves guild of Baldur's Gate                            |
 | [[campaign/factions/Unseen\|Unseen]]                       | Thieves guild of Waterdeep                                |
 | [[campaign/factions/Black Maw Tribe\|Black Maw Tribe]]     | A brutal orc clan in Valeen                               |
@@ -45,28 +45,28 @@ Based in Faerun. The world is ran by a slaving organization who the crew origina
 
 ## Sessions
 
-| File                                                    | Episode                   |
-| ------------------------------------------------------- | ------------------------- |
-| [[campaign/sessions/001 10-27-2024\|001 10-27-2024]] | Blood Diamonds            |
-| [[campaign/sessions/002 11-10-2024\|002 11-10-2024]] | Hags Down Below           |
-| [[campaign/sessions/003 11-24-2024\|003 11-24-2024]] | Temple Run                |
-| [[campaign/sessions/004 01-05-2025\|004 01-05-2025]] | Eels & Undead             |
-| [[campaign/sessions/005 01-19-2025\|005 01-19-2025]] | Holda's Secret            |
-| [[campaign/sessions/006 02-01-2025\|006 02-01-2025]] | Soul Shopping             |
-| [[campaign/sessions/007 02-16-2025\|007 02-16-2025]] | Xanaphia y Zorath         |
-| [[campaign/sessions/008 03-02-2025\|008 03-02-2025]] | Zorath's Tree-House       |
-| [[campaign/sessions/009 03-16-2025\|009 03-16-2025]] | Pieces of Prophecy        |
-| [[campaign/sessions/010 03-30-2025\|010 03-30-2025]] | Blood Under the Bridge    |
-| [[campaign/sessions/011 04-13-2025\|011 04-13-2025]] | Echoes of Gunther         |
-| [[campaign/sessions/012 04-27-2025\|012 04-27-2025]] | The Eye of Gruumsh        |
-| [[campaign/sessions/013 05-25-2025\|013 05-25-2025]] | Shimmers in the Dark      |
-| [[campaign/sessions/014 06-14-2025\|014 06-14-2025]] | Sand Haven Cemetery       |
-| [[campaign/sessions/015 06-28-2025\|015 06-28-2025]] | Obold's Regards           |
-| [[campaign/sessions/016 07-12-2025\|016 07-12-2025]] | Orcish Traditions         |
-| [[campaign/sessions/017 08-10-2025\|017 08-10-2025]] | Road to Gorvathcha        |
-| [[campaign/sessions/018 08-24-2025\|018 08-24-2025]] | The Perfect Plan          |
-| [[campaign/sessions/019 09-07-2025\|019 09-07-2025]] | Festival of the Unchained |
-| [[campaign/sessions/025 11-10-2025\|025 11-10-2025]] | What's in the box?        |
+| File                                                    | Episode                |
+| ------------------------------------------------------- | ---------------------- |
+| [[campaign/sessions/001 10-27-2024\|001 10-27-2024]] | Blood Diamonds         |
+| [[campaign/sessions/002 11-10-2024\|002 11-10-2024]] | Hags Down Below        |
+| [[campaign/sessions/003 11-24-2024\|003 11-24-2024]] | Temple Run             |
+| [[campaign/sessions/004 01-05-2025\|004 01-05-2025]] | Eels & Undead          |
+| [[campaign/sessions/005 01-19-2025\|005 01-19-2025]] | Holda's Secret         |
+| [[campaign/sessions/006 02-01-2025\|006 02-01-2025]] | Soul Shopping          |
+| [[campaign/sessions/007 02-16-2025\|007 02-16-2025]] | Xanaphia y Zorath      |
+| [[campaign/sessions/008 03-02-2025\|008 03-02-2025]] | Zorath's Tree-House    |
+| [[campaign/sessions/009 03-16-2025\|009 03-16-2025]] | Pieces of Prophecy     |
+| [[campaign/sessions/010 03-30-2025\|010 03-30-2025]] | Blood Under the Bridge |
+| [[campaign/sessions/011 04-13-2025\|011 04-13-2025]] | Echoes of Gunther      |
+| [[campaign/sessions/012 04-27-2025\|012 04-27-2025]] | The Eye of Gruumsh     |
+| [[campaign/sessions/013 05-25-2025\|013 05-25-2025]] | Shimmers in the Dark   |
+| [[campaign/sessions/014 06-14-2025\|014 06-14-2025]] | Sand Haven Cemetery    |
+| [[campaign/sessions/015 06-28-2025\|015 06-28-2025]] | Obold's Regards        |
+| [[campaign/sessions/016 07-12-2025\|016 07-12-2025]] | Orcish Traditions      |
+| [[campaign/sessions/017 08-10-2025\|017 08-10-2025]] | Road to Gorvathcha     |
+| [[campaign/sessions/018 08-24-2025\|018 08-24-2025]] | The Perfect Plan       |
+| [[campaign/sessions/019 09-07-2025\|019 09-07-2025]] | The Song of Freedom    |
+| [[campaign/sessions/025 11-10-2025\|025 11-10-2025]] | What's in the box?     |
 
 { .block-language-dataview}
 
