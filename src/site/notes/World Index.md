@@ -9,7 +9,7 @@
 | Characters                               | Played By | Race         | Class                          | Alignment      |
 | ---------------------------------------- | --------- | ------------ | ------------------------------ | -------------- |
 | [[campaign/players/Kormak\|Kormak]]   | Caleb     | Dwarf        | Artificer - Armorer            | \-             |
-| [[campaign/players/Louis\|Louis]]     | Emily     | Halfling     | Warlock                        | \-             |
+| [[campaign/players/Lois\|Lois]]       | Emily     | Halfling     | Warlock                        | \-             |
 | [[campaign/players/Obold\|Obold]]     | Joe       | Half Goliath | Paladin - Oath of Vengeance    | Lawful Neutrel |
 | [[campaign/players/Kaneko\|Kaneko]]   | Kevin     | Wood Elf     | Ranger - Gloom Stalker         | \-             |
 | [[campaign/players/Ophie\|Ophie]]     | Megan     | Firbolg      | Druid - Circle of the Moon     | \-             |
@@ -31,15 +31,15 @@ Based in Faerun. The world is ran by a slaving organization who the crew origina
 | [[campaign/factions/Ironclad Enclave\|Ironclad Enclave]]   | Faerun slave masters                                      |
 | [[campaign/factions/The Three\|The Three]]                 | Three powerful hag sisters that lead The Ironcald Enclave |
 | [[campaign/factions/Gloomshadow\|Gloomshadow]]             | Thieves guild in Caer Callidier                           |
-| [[campaign/factions/Veruz Rexna\|Veruz Rexna]]             | The paladins of Iuz, a sect formed of half goliaths.      |
 | [[campaign/factions/Dark Daggers\|Dark Daggers]]           | Thieves guild of Baldur's Gate                            |
+| [[campaign/factions/Veruz Rexna\|Veruz Rexna]]             | The paladins of Iuz, a sect formed of half goliaths.      |
 | [[campaign/factions/Unseen\|Unseen]]                       | Thieves guild of Waterdeep                                |
 | [[campaign/factions/Black Maw Tribe\|Black Maw Tribe]]     | A brutal orc clan in Valeen                               |
-| [[campaign/factions/Velvet Blade\|Velvet Blade]]           | Thieves guild of Llejaigh                                 |
 | [[campaign/factions/Bonerend Tribe\|Bonerend Tribe]]       | Carry broken skulls, slave outcasts                       |
+| [[campaign/factions/Velvet Blade\|Velvet Blade]]           | Thieves guild of Llejaigh                                 |
 | [[campaign/factions/Ash Vulture Tribe\|Ash Vulture Tribe]] | Carry a vulture symbol. Mercenary opportunists.           |
-| [[campaign/factions/Bloodfang Tribe\|Bloodfang Tribe]]     | Carrry a red eye and are crazy                            |
 | [[campaign/factions/Green Court\|Green Court]]             | \-                                                        |
+| [[campaign/factions/Bloodfang Tribe\|Bloodfang Tribe]]     | Carrry a red eye and are crazy                            |
 
 { .block-language-dataview}
 
@@ -67,6 +67,7 @@ Based in Faerun. The world is ran by a slaving organization who the crew origina
 | [[campaign/sessions/018 08-24-2025\|018 08-24-2025]] | The Perfect Plan       |
 | [[campaign/sessions/019 09-07-2025\|019 09-07-2025]] | The Song of Freedom    |
 | [[campaign/sessions/025 11-10-2025\|025 11-10-2025]] | What's in the box?     |
+| [[campaign/sessions/026 11-09-2025\|026 11-09-2025]] | Orc Got Your Tongue?   |
 
 { .block-language-dataview}
 

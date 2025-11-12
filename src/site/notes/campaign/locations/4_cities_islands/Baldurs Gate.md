@@ -13,21 +13,23 @@ A large and infamous port town on the sword coast.
 ---
 
 ### Contains
-| Location                                                     | Type       |
-| ------------------------------------------------------------ | ---------- |
-| [[campaign/locations/5_districts/Knifebloom\|Knifebloom]] | 5_district |
-| [[campaign/locations/6_sites/Knives Eye\|Knives Eye]]     | 6_site     |
-| [[campaign/locations/6_sites/Velvet Veil\|Velvet Veil]]   | 6_site     |
+| Location                                                     | Type   |
+| ------------------------------------------------------------ | ------ |
+| [[campaign/locations/6_sites/Gilded Token\|Gilded Token]] | 6_site |
+| [[campaign/locations/6_sites/Knives Eye\|Knives Eye]]     | 6_site |
+| [[campaign/locations/6_sites/Velvet Veil\|Velvet Veil]]   | 6_site |
 
 { .block-language-dataview}
 
 ---
 
 ## Relevant People
-| File                                  | Gender | Race | Role         | Description                      |
-| ------------------------------------- | ------ | ---- | ------------ | -------------------------------- |
-| [[campaign/npcs/Laysora\|Laysora]] | \-     | \-   | \-           | \-                               |
-| [[campaign/npcs/Valana\|Valana]]   | female | \-   | Guild Master | Guild Master of the dark daggers |
+| File                                        | Gender | Race     | Role         | Description |
+| ------------------------------------------- | ------ | -------- | ------------ | ----------- |
+| [[campaign/npcs/Corvin\|Corvin]]         | male   | Human    | \-           | \-          |
+| [[campaign/npcs/Knifebloom\|Knifebloom]] | female | Half-Elf | \-           | \-          |
+| [[campaign/npcs/Laysora\|Laysora]]       | \-     | \-       | \-           | \-          |
+| [[campaign/npcs/Valan\|Valan]]           | female | \-       | Guild Master | head        |
 
 { .block-language-dataview}
 

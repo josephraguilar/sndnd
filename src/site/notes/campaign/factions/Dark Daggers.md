@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/factions/dark-daggers/","tags":["faction"],"noteIcon":"","created":"2025-10-26T10:35:55.022-07:00","updated":"2025-11-07T18:52:34.704-08:00"}
+{"dg-publish":true,"permalink":"/campaign/factions/dark-daggers/","tags":["faction"],"noteIcon":"","created":"2025-10-26T10:35:55.022-07:00","updated":"2025-11-11T16:16:03.828-08:00"}
 ---
 
 
@@ -17,3 +17,5 @@ Thieves guild of [[campaign/locations/4_cities_islands/Baldurs Gate\|Baldurs Gat
 The original organization the party was enslaved by. 
 
 Had sent assassins to kill us for taking their boat, but [[campaign/npcs/Xanaphia\|Xanaphia]] warned us before it happened. 
+
+Members of the **Dark Daggers** earn tattoos to mark their rank: one tattoo makes them part of _the Point_, multiple tattoos elevate them to _the Edge_, and a third tattoo signifies _the Fang_.

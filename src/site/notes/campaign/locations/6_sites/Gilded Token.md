@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/6-sites/knives-eye/","tags":["location"],"noteIcon":"","created":"2025-10-26T12:58:40.278-07:00","updated":"2025-11-11T16:17:42.967-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/6-sites/gilded-token/","tags":["location"],"noteIcon":"","created":"2025-11-11T16:20:24.936-08:00","updated":"2025-11-11T16:22:24.592-08:00"}
 ---
 
-# # [[campaign/locations/6_sites/Knives Eye\|Knives Eye]]
-Hideout for the [[campaign/factions/Dark Daggers\|Dark Daggers]] in [[campaign/locations/4_cities_islands/Baldurs Gate\|Baldurs Gate]]. The front is a bathhouse, and there is a button that reveals a downstairs secret meeting area
 <p><span><ul>
-<li dir="auto"><strong>Name:</strong> Knives Eye</li>
+<li dir="auto"><strong>Name:</strong> Gilded Token</li>
 <li dir="auto"><strong>Location Type:</strong> 6_site</li>
 <li dir="auto"><strong>Part Of:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/4_cities_islands/Baldurs Gate.md" data-href="campaign/locations/4_cities_islands/Baldurs Gate.md" href="campaign/locations/4_cities_islands/Baldurs Gate.md" class="internal-link" target="_blank" rel="noopener nofollow">Baldurs Gate</a></li>
 </ul></span></p>
@@ -20,6 +18,9 @@ Hideout for the [[campaign/factions/Dark Daggers\|Dark Daggers]] in [[campaign/l
 
 ---
 
+# # [[campaign/locations/6_sites/Gilded Token\|Gilded Token]]
+Shop in [[campaign/locations/4_cities_islands/Baldurs Gate\|Baldurs Gate]] owned by [[campaign/npcs/Edris Three Fingers Malorn\|Edris Three Fingers Malorn]].  a nice place and is full of all kinds of things. its a general store. 
+
 ## Relevant People
 | File | Gender | Race | Role | Description |
 | ---- | ------ | ---- | ---- | ----------- |
@@ -33,6 +34,5 @@ Hideout for the [[campaign/factions/Dark Daggers\|Dark Daggers]] in [[campaign/l
 { .block-language-dataview}
 
 ## Notes
-The party is led here by [[campaign/npcs/Corvin\|Corvin]]
-The party drinks wine and speaks with [[campaign/npcs/Knifebloom\|Knifebloom]]
-We open the cursed chest and find the 
+The party buys some potions, 
+[[campaign/players/Obold\|Obold]] gets a ring of featherfall and ring of water breathing. 

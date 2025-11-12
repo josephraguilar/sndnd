@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/queens-bitch/","noteIcon":"","created":"2025-10-26T10:26:31.999-07:00","updated":"2025-10-27T16:34:45.214-07:00"}
+{"dg-publish":true,"permalink":"/campaign/items/queens-bitch/","noteIcon":"","created":"2025-10-26T10:26:31.999-07:00","updated":"2025-11-09T14:55:13.785-08:00"}
 ---
 
 
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Queens Bitch</li>
-<li dir="auto"><strong>Owner:</strong> <a data-tooltip-position="top" aria-label="campaign/npcs/Argram.md" data-href="campaign/npcs/Argram.md" href="campaign/npcs/Argram.md" class="internal-link" target="_blank" rel="noopener nofollow">Argram</a></li>
+<li dir="auto"><strong>Owner:</strong> <a data-tooltip-position="top" aria-label="campaign/npcs/Argran.md" data-href="campaign/npcs/Argran.md" href="campaign/npcs/Argran.md" class="internal-link" target="_blank" rel="noopener nofollow">Argran</a></li>
 </ul></span></p>
 
 ---
