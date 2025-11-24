@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/ophie/","tags":["character","player"],"noteIcon":"","created":"2025-10-26T08:26:29.460-07:00","updated":"2025-10-27T16:06:01.907-07:00"}
+{"dg-publish":true,"permalink":"/campaign/players/ophie/","tags":["character","player"],"noteIcon":"","created":"2025-10-26T08:26:29.460-07:00","updated":"2025-11-23T19:36:47.553-08:00"}
 ---
 
 
@@ -13,7 +13,7 @@
 ---
 
 # [[campaign/players/Ophie\|Ophie]]
-*Physical appearance, demeanor, quirks, and mannerisms.*
+A Firbolg who is said to be the chosen one of prophecy, she stands out by her purple mohawk that is retained in some form on all the animals she transforms into. 
 
 ---
 

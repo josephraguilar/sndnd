@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/kalista/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:20:54.883-07:00","updated":"2025-10-27T22:27:00.875-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/kalista/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:20:54.883-07:00","updated":"2025-11-23T19:13:44.195-08:00"}
 ---
 
 
@@ -23,7 +23,7 @@ Young, beautiful, and powerful. She aided us in our quests in [[campaign/locatio
 ---
 
 ## Relationships
-- Fiancé is the [[campaign/npcs/Betrayer King\|Betrayer King]] 
+- Fiancé is the [[campaign/npcs/King Ardyn Maelwyn ap Rhodri\|King Ardyn Maelwyn ap Rhodri]] 
 
 ---
 
@@ -34,7 +34,7 @@ Part of a resistance movement against the Followers of Iuz
 
 human, normal height
 
-fiancé of the [[campaign/npcs/Betrayer King\|Betrayer King]]
+fiancé of the [[campaign/npcs/King Ardyn Maelwyn ap Rhodri\|King Ardyn Maelwyn ap Rhodri]]
 
 younger, more attractive woman
 

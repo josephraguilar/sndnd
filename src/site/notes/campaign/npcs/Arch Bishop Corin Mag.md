@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/arch-bishop-corin-mag/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:25:57.390-07:00","updated":"2025-10-27T16:36:45.459-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/arch-bishop-corin-mag/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:25:57.390-07:00","updated":"2025-11-23T19:56:27.629-08:00"}
 ---
 
 
@@ -23,6 +23,6 @@ has a guard of 4 paladins
 
 Is accompanied by [[campaign/npcs/Driftwood Ulga Worm Wiggle\|Driftwood Ulga Worm Wiggle]] and the [[campaign/factions/Shag Dominica\|Shag Dominica]] 
 
-DEAD
+DEAD?
 
 Ulga 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-index/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-26T08:08:34.355-07:00","updated":"2025-11-07T18:52:57.953-08:00"}
+{"dg-publish":true,"permalink":"/world-index/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-26T08:08:34.355-07:00","updated":"2025-11-23T20:11:50.428-08:00"}
 ---
 
 
@@ -25,21 +25,22 @@ Based in Faerun. The world is ran by a slaving organization who the crew origina
 
 ## Factions
 
-| File                                                          | Description                                               |
-| ------------------------------------------------------------- | --------------------------------------------------------- |
-| [[campaign/factions/Shag Dominica\|Shag Dominica]]         | Sahaugan that guard "The Three"                           |
-| [[campaign/factions/Ironclad Enclave\|Ironclad Enclave]]   | Faerun slave masters                                      |
-| [[campaign/factions/The Three\|The Three]]                 | Three powerful hag sisters that lead The Ironcald Enclave |
-| [[campaign/factions/Gloomshadow\|Gloomshadow]]             | Thieves guild in Caer Callidier                           |
-| [[campaign/factions/Dark Daggers\|Dark Daggers]]           | Thieves guild of Baldur's Gate                            |
-| [[campaign/factions/Veruz Rexna\|Veruz Rexna]]             | The paladins of Iuz, a sect formed of half goliaths.      |
-| [[campaign/factions/Unseen\|Unseen]]                       | Thieves guild of Waterdeep                                |
-| [[campaign/factions/Black Maw Tribe\|Black Maw Tribe]]     | A brutal orc clan in Valeen                               |
-| [[campaign/factions/Bonerend Tribe\|Bonerend Tribe]]       | Carry broken skulls, slave outcasts                       |
-| [[campaign/factions/Velvet Blade\|Velvet Blade]]           | Thieves guild of Llejaigh                                 |
-| [[campaign/factions/Ash Vulture Tribe\|Ash Vulture Tribe]] | Carry a vulture symbol. Mercenary opportunists.           |
-| [[campaign/factions/Green Court\|Green Court]]             | \-                                                        |
-| [[campaign/factions/Bloodfang Tribe\|Bloodfang Tribe]]     | Carrry a red eye and are crazy                            |
+| File                                                          | Description                                                             |
+| ------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [[campaign/factions/Shag Dominica\|Shag Dominica]]         | Sahaugan that guard "The Three"                                         |
+| [[campaign/factions/The Three\|The Three]]                 | Three powerful hag sisters that lead The Ironcald Enclave               |
+| [[campaign/factions/Ironclad Enclave\|Ironclad Enclave]]   | Faerun slave masters                                                    |
+| [[campaign/factions/Gloomshadow\|Gloomshadow]]             | Thieves guild in Caer Callidier                                         |
+| [[campaign/factions/Veruz Rexna\|Veruz Rexna]]             | The paladins of Iuz, a sect formed of half goliaths.                    |
+| [[campaign/factions/Dark Daggers\|Dark Daggers]]           | Thieves guild of Baldur's Gate                                          |
+| [[campaign/factions/Unseen\|Unseen]]                       | Thieves guild of Waterdeep                                              |
+| [[campaign/factions/Black Maw Tribe\|Black Maw Tribe]]     | A brutal orc clan in Valeen                                             |
+| [[campaign/factions/Velvet Blade\|Velvet Blade]]           | Thieves guild of Llejaigh                                               |
+| [[campaign/factions/Bonerend Tribe\|Bonerend Tribe]]       | Carry broken skulls, slave outcasts                                     |
+| [[campaign/factions/Ash Vulture Tribe\|Ash Vulture Tribe]] | Carry a vulture symbol. Mercenary opportunists.                         |
+| [[campaign/factions/Green Court\|Green Court]]             | A fae court passing judgement on Gunther                                |
+| [[campaign/factions/Bloodfang Tribe\|Bloodfang Tribe]]     | Carrry a red eye and are crazy                                          |
+| [[campaign/factions/Uganathi Clan\|Uganathi Clan]]         | Clan of 4 Goliath Brothers who's offspring are raised to be Veruz Rexna |
 
 { .block-language-dataview}
 
@@ -68,12 +69,13 @@ Based in Faerun. The world is ran by a slaving organization who the crew origina
 | [[campaign/sessions/019 09-07-2025\|019 09-07-2025]] | The Song of Freedom    |
 | [[campaign/sessions/025 11-10-2025\|025 11-10-2025]] | What's in the box?     |
 | [[campaign/sessions/026 11-09-2025\|026 11-09-2025]] | Orc Got Your Tongue?   |
+| [[campaign/sessions/027 11-23-2025\|027 11-23-2025]] | Bush Lizards           |
 
 { .block-language-dataview}
 
 ```leaflet
 id: faerun-home-page
-image: https://raw.githubusercontent.com/josephraguilar/sndnd/main/src/site/img/Faerun.jpg
+image: https://raw.githubusercontent.com/josephraguilar/sndnd/main/src/site/img/faerun_2.jpg
 minZoom: 0
 maxZoom: 5
 defaultZoom: 1.0

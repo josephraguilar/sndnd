@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/kragatha/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:29:53.848-07:00","updated":"2025-11-06T20:10:23.173-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/kragatha/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:29:53.848-07:00","updated":"2025-11-23T19:22:01.703-08:00"}
 ---
 
 
@@ -28,5 +28,5 @@ Was sent by [[campaign/npcs/Rotten Agnis Worm Wiggle\|Rotten Agnis Worm Wiggle]]
 ## Notes
 Working for the [[campaign/factions/Ironclad Enclave\|Ironclad Enclave]]
 
-envoy who was sent from [[campaign/locations/4_cities_islands/Caer Callidier\|Caer Callidier]] to meet with [[campaign/npcs/Maghla Blackfang\|Maghla Blackfang]] regarding [[campaign/locations/6_sites/Galdur Tower\|Galdur Tower]]
+envoy who was sent from [[campaign/locations/4_cities_islands/Caer Callidier\|Caer Callidier]] to meet with [[campaign/npcs/Maghla Blackfang\|Maghla Blackfang]] regarding [[campaign/locations/6_sites/Galdur Towers\|Galdur Towers]]
 [[campaign/npcs/Svayne\|Svayne]] was protecting her. 

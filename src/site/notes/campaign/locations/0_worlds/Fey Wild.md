@@ -28,9 +28,9 @@
 { .block-language-dataview}
 
 ## Factions
-| File                                              | Description |
-| ------------------------------------------------- | ----------- |
-| [[campaign/factions/Green Court\|Green Court]] | \-          |
+| File                                              | Description                              |
+| ------------------------------------------------- | ---------------------------------------- |
+| [[campaign/factions/Green Court\|Green Court]] | A fae court passing judgement on Gunther |
 
 { .block-language-dataview}
 
