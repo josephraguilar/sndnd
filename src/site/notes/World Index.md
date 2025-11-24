@@ -27,19 +27,19 @@ Based in Faerun. The world is ran by a slaving organization who the crew origina
 
 | File                                                          | Description                                                             |
 | ------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [[campaign/factions/Ironclad Enclave\|Ironclad Enclave]]   | Faerun slave masters                                                    |
 | [[campaign/factions/Shag Dominica\|Shag Dominica]]         | Sahaugan that guard "The Three"                                         |
 | [[campaign/factions/The Three\|The Three]]                 | Three powerful hag sisters that lead The Ironcald Enclave               |
-| [[campaign/factions/Ironclad Enclave\|Ironclad Enclave]]   | Faerun slave masters                                                    |
 | [[campaign/factions/Gloomshadow\|Gloomshadow]]             | Thieves guild in Caer Callidier                                         |
 | [[campaign/factions/Veruz Rexna\|Veruz Rexna]]             | The paladins of Iuz, a sect formed of half goliaths.                    |
 | [[campaign/factions/Dark Daggers\|Dark Daggers]]           | Thieves guild of Baldur's Gate                                          |
 | [[campaign/factions/Unseen\|Unseen]]                       | Thieves guild of Waterdeep                                              |
 | [[campaign/factions/Black Maw Tribe\|Black Maw Tribe]]     | A brutal orc clan in Valeen                                             |
-| [[campaign/factions/Velvet Blade\|Velvet Blade]]           | Thieves guild of Llejaigh                                               |
 | [[campaign/factions/Bonerend Tribe\|Bonerend Tribe]]       | Carry broken skulls, slave outcasts                                     |
+| [[campaign/factions/Velvet Blade\|Velvet Blade]]           | Thieves guild of Llejaigh                                               |
 | [[campaign/factions/Ash Vulture Tribe\|Ash Vulture Tribe]] | Carry a vulture symbol. Mercenary opportunists.                         |
-| [[campaign/factions/Green Court\|Green Court]]             | A fae court passing judgement on Gunther                                |
 | [[campaign/factions/Bloodfang Tribe\|Bloodfang Tribe]]     | Carrry a red eye and are crazy                                          |
+| [[campaign/factions/Green Court\|Green Court]]             | A fae court passing judgement on Gunther                                |
 | [[campaign/factions/Uganathi Clan\|Uganathi Clan]]         | Clan of 4 Goliath Brothers who's offspring are raised to be Veruz Rexna |
 
 { .block-language-dataview}
