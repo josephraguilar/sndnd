@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/6-sites/broken-fang-tavern/","tags":["location"],"noteIcon":"","created":"2025-10-26T08:35:02.057-07:00","updated":"2025-10-28T07:50:42.643-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/6-sites/broken-fang-tavern/","tags":["location"],"noteIcon":"","created":"2025-10-26T08:35:02.057-07:00","updated":"2025-10-28T07:50:37.381-07:00"}
 ---
 
 # # [[campaign/locations/6_sites/Broken Fang Tavern\|Broken Fang Tavern]]
@@ -22,12 +22,8 @@ A small inn in [[campaign/locations/2_regions & archipelagos/Velen\|Velen]] wher
 ---
 
 ## Relevant People
-| File                                                                    | Gender | Race     | Role           | Description                                      |
-| ----------------------------------------------------------------------- | ------ | -------- | -------------- | ------------------------------------------------ |
-| [[campaign/npcs/Bo Duvall\|Bo Duvall]]                               | male   | Elf      | Pirate Captain | eccentric elf pirate who "kinda" helps out.      |
-| [[campaign/npcs/Grashnak the Skullhunter\|Grashnak the Skullhunter]] | male   | Orc      | Gang Leader    | Killer of Thorin's wife and son (Dead)           |
-| [[campaign/npcs/Pip\|Pip]]                                           | male   | \-       | Barhand        | little dude who's too eager to introduce racists |
-| [[campaign/npcs/Yorga\|Yorga]]                                       | female | Half-Orc | Bar Owner      | owner of broken fang tavern                      |
+| File | Gender | Race | Role | Description |
+| ---- | ------ | ---- | ---- | ----------- |
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/gwynneth/","tags":["location"],"noteIcon":"","created":"2025-11-23T14:41:15.929-08:00","updated":"2025-11-23T19:11:18.543-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/gwynneth/","tags":["location"],"noteIcon":"","created":"2025-11-23T14:41:15.929-08:00","updated":"2025-11-23T19:11:29.271-08:00"}
 ---
 
 <p><span><ul>

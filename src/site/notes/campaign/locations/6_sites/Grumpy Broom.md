@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/6-sites/grumpy-broom/","tags":["location"],"noteIcon":"","created":"2025-10-26T19:33:27.869-07:00","updated":"2025-10-28T07:52:42.303-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/6-sites/grumpy-broom/","tags":["location"],"noteIcon":"","created":"2025-10-26T19:33:27.869-07:00","updated":"2025-10-28T07:52:36.053-07:00"}
 ---
 
 # # [[campaign/locations/6_sites/Grumpy Broom\|Grumpy Broom]]

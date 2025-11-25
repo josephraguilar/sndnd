@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/eternal-parchment/","noteIcon":"","created":"2025-10-26T13:08:51.074-07:00","updated":"2025-10-27T16:34:35.729-07:00"}
+{"dg-publish":true,"permalink":"/campaign/items/eternal-parchment/","noteIcon":"","created":"2025-10-26T13:08:51.074-07:00","updated":"2025-10-27T16:34:29.344-07:00"}
 ---
 
 

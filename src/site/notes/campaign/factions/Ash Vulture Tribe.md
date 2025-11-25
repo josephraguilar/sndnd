@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/factions/ash-vulture-tribe/","tags":["faction"],"noteIcon":"","created":"2025-11-07T17:31:22.918-08:00","updated":"2025-11-07T17:33:50.294-08:00"}
+{"dg-publish":true,"permalink":"/campaign/factions/ash-vulture-tribe/","tags":["faction"],"noteIcon":"","created":"2025-11-07T17:31:22.918-08:00","updated":"2025-11-07T17:33:56.797-08:00"}
 ---
 
 

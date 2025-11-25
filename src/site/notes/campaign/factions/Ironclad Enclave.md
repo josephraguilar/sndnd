@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/factions/ironclad-enclave/","tags":["faction"],"noteIcon":"","created":"2025-10-26T08:30:11.792-07:00","updated":"2025-10-27T16:33:57.556-07:00"}
+{"dg-publish":true,"permalink":"/campaign/factions/ironclad-enclave/","tags":["faction"],"noteIcon":"","created":"2025-10-26T08:30:11.792-07:00","updated":"2025-10-27T16:33:50.445-07:00"}
 ---
 
 

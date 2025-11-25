@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/edris-three-fingers-malorn/","tags":["character","npc"],"noteIcon":"","created":"2025-11-09T14:10:17.691-08:00","updated":"2025-11-11T16:27:05.096-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/edris-three-fingers-malorn/","tags":["character","npc"],"noteIcon":"","created":"2025-11-09T14:10:17.691-08:00","updated":"2025-11-11T16:27:13.439-08:00"}
 ---
 
 

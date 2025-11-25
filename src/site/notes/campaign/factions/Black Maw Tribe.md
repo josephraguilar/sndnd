@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/factions/black-maw-tribe/","tags":["faction"],"noteIcon":"","created":"2025-10-26T20:30:48.186-07:00","updated":"2025-11-07T17:32:11.469-08:00"}
+{"dg-publish":true,"permalink":"/campaign/factions/black-maw-tribe/","tags":["faction"],"noteIcon":"","created":"2025-10-26T20:30:48.186-07:00","updated":"2025-11-07T17:32:22.084-08:00"}
 ---
 
 

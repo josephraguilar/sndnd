@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/tizra/","tags":["character","npc"],"noteIcon":"","created":"2025-11-07T17:50:11.311-08:00","updated":"2025-11-07T17:51:03.129-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/tizra/","tags":["character","npc"],"noteIcon":"","created":"2025-11-07T17:50:11.311-08:00","updated":"2025-11-07T17:51:09.598-08:00"}
 ---
 
 

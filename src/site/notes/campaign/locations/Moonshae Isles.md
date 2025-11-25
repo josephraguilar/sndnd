@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/moonshae-isles/","tags":["location"],"noteIcon":"","created":"2025-11-23T19:11:50.352-08:00","updated":"2025-11-23T19:17:59.602-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/moonshae-isles/","tags":["location"],"noteIcon":"","created":"2025-11-23T19:11:50.352-08:00","updated":"2025-11-23T19:18:09.432-08:00"}
 ---
 
 <p><span><ul>

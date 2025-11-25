@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/factions/green-court/","tags":["faction"],"noteIcon":"","created":"2025-11-07T17:34:09.192-08:00","updated":"2025-11-23T19:58:48.391-08:00"}
+{"dg-publish":true,"permalink":"/campaign/factions/green-court/","tags":["faction"],"noteIcon":"","created":"2025-11-07T17:34:09.192-08:00","updated":"2025-11-23T19:58:59.419-08:00"}
 ---
 
 

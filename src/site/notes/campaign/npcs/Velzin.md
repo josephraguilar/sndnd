@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/velzin/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:38:34.989-07:00","updated":"2025-10-27T16:39:07.226-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/velzin/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:38:34.989-07:00","updated":"2025-10-27T16:39:01.525-07:00"}
 ---
 
 

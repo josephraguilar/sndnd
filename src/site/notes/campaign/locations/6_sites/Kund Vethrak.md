@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/6-sites/kund-vethrak/","tags":["location"],"noteIcon":"","created":"2025-11-07T17:35:32.955-08:00","updated":"2025-11-07T18:40:39.126-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/6-sites/kund-vethrak/","tags":["location"],"noteIcon":"","created":"2025-11-07T17:35:32.955-08:00","updated":"2025-11-07T18:40:46.862-08:00"}
 ---
 
 <p><span><ul>

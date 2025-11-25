@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/4-cities-islands/caer-callidier/","tags":["location"],"noteIcon":"","created":"2025-10-26T09:22:15.344-07:00","updated":"2025-10-28T07:51:04.514-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/4-cities-islands/caer-callidier/","tags":["location"],"noteIcon":"","created":"2025-10-26T09:22:15.344-07:00","updated":"2025-10-28T07:50:56.184-07:00"}
 ---
 
 # # [[campaign/locations/4_cities_islands/Caer Callidier\|Caer Callidier]]
@@ -24,17 +24,15 @@ Large port city in [[campaign/locations/2_regions & archipelagos/Alaron\|Alaron]
 ---
 
 ## Relevant People
-| File                                                                        | Gender | Race                  | Role       | Description |
-| --------------------------------------------------------------------------- | ------ | --------------------- | ---------- | ----------- |
-| [[campaign/npcs/Driftwood Ulga Worm Wiggle\|Driftwood Ulga Worm Wiggle]] | female | <ul><li>hag</li></ul> | \-         | \-          |
-| [[campaign/npcs/Fiyel Lok\|Fiyel Lok]]                                   | \-     | \-                    | Shop Owner | \-          |
+| File                                      | Gender | Race | Role       | Description |
+| ----------------------------------------- | ------ | ---- | ---------- | ----------- |
+| [[campaign/npcs/Fiyel Lok\|Fiyel Lok]] | \-     | \-   | Shop Owner | \-          |
 
 { .block-language-dataview}
 
 ## Factions
-| File                                              | Description                     |
-| ------------------------------------------------- | ------------------------------- |
-| [[campaign/factions/Gloomshadow\|Gloomshadow]] | Thieves guild in Caer Callidier |
+| File | Description |
+| ---- | ----------- |
 
 { .block-language-dataview}
 ## Notes

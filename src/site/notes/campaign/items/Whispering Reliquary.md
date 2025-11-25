@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/whispering-reliquary/","noteIcon":"","created":"2025-11-11T16:18:40.853-08:00","updated":"2025-11-11T16:27:26.303-08:00"}
+{"dg-publish":true,"permalink":"/campaign/items/whispering-reliquary/","noteIcon":"","created":"2025-11-11T16:18:40.853-08:00","updated":"2025-11-11T16:27:32.957-08:00"}
 ---
 
 

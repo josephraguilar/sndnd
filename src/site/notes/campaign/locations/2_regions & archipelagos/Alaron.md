@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/2-regions-and-archipelagos/alaron/","noteIcon":"","created":"2025-10-26T09:04:51.758-07:00","updated":"2025-11-07T18:53:21.652-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/2-regions-and-archipelagos/alaron/","noteIcon":"","created":"2025-10-26T09:04:51.758-07:00","updated":"2025-11-07T18:53:28.667-08:00"}
 ---
 
 # # [[campaign/locations/2_regions & archipelagos/Alaron\|Alaron]]

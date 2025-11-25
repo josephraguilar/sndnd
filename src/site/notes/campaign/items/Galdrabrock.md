@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/galdrabrock/","noteIcon":"","created":"2025-10-26T09:57:19.445-07:00","updated":"2025-10-27T16:34:40.928-07:00"}
+{"dg-publish":true,"permalink":"/campaign/items/galdrabrock/","noteIcon":"","created":"2025-10-26T09:57:19.445-07:00","updated":"2025-10-27T16:34:33.018-07:00"}
 ---
 
 

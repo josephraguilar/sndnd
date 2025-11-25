@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/kalista/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:20:54.883-07:00","updated":"2025-11-23T19:13:44.195-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/kalista/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:20:54.883-07:00","updated":"2025-11-23T19:13:50.787-08:00"}
 ---
 
 

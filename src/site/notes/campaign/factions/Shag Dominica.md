@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/factions/shag-dominica/","tags":["faction"],"noteIcon":"","created":"2025-10-26T08:30:00.442-07:00","updated":"2025-10-27T22:27:00.072-07:00"}
+{"dg-publish":true,"permalink":"/campaign/factions/shag-dominica/","tags":["faction"],"noteIcon":"","created":"2025-10-26T08:30:00.442-07:00","updated":"2025-10-27T22:27:07.996-07:00"}
 ---
 
 
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Shag Dominica</li>
-<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/2_regions &amp; archipelagos/Alaron.md" data-href="campaign/locations/2_regions &amp; archipelagos/Alaron.md" href="campaign/locations/2_regions &amp; archipelagos/Alaron.md" class="internal-link" target="_blank" rel="noopener nofollow">Alaron</a></li>
+<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Alaron.md" data-href="campaign/locations/Alaron.md" href="campaign/locations/Alaron.md" class="internal-link" target="_blank" rel="noopener nofollow">Alaron</a></li>
 <li dir="auto"><strong>Affiliation:</strong> <a data-tooltip-position="top" aria-label="campaign/factions/Ironclad Enclave.md" data-href="campaign/factions/Ironclad Enclave.md" href="campaign/factions/Ironclad Enclave.md" class="internal-link" target="_blank" rel="noopener nofollow">Ironclad Enclave</a></li>
 <li dir="auto"><strong>Description:</strong> Sahaugan that guard "The Three"</li>
 </ul></span></p>

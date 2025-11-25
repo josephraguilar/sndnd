@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/vrax-sithra/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:36:56.677-07:00","updated":"2025-11-07T17:39:42.520-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/vrax-sithra/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:36:56.677-07:00","updated":"2025-11-07T17:39:52.230-08:00"}
 ---
 
 

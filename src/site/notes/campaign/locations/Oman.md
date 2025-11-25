@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/oman/","tags":["location"],"noteIcon":"","created":"2025-11-23T19:20:41.203-08:00","updated":"2025-11-23T19:21:39.797-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/oman/","tags":["location"],"noteIcon":"","created":"2025-11-23T19:20:41.203-08:00","updated":"2025-11-23T19:21:48.418-08:00"}
 ---
 
 <p><span><ul>

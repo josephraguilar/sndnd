@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/kaela/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T18:48:55.474-07:00","updated":"2025-11-07T18:40:55.454-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/kaela/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T18:48:55.474-07:00","updated":"2025-11-07T18:41:05.487-08:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/svayne/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:30:39.098-07:00","updated":"2025-11-06T20:10:23.255-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/svayne/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:30:39.098-07:00","updated":"2025-11-06T20:10:23.052-08:00"}
 ---
 
 

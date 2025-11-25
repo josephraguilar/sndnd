@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/gruumsh/","tags":["character","npc"],"noteIcon":"","created":"2025-11-06T19:45:56.950-08:00","updated":"2025-11-07T17:35:17.987-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/gruumsh/","tags":["character","npc"],"noteIcon":"","created":"2025-11-06T19:45:56.950-08:00","updated":"2025-11-07T17:35:28.023-08:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/1-continents/faerun/","noteIcon":"","created":"2025-10-26T12:14:57.279-07:00","updated":"2025-11-07T18:53:21.873-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/1-continents/faerun/","noteIcon":"","created":"2025-10-26T12:14:57.279-07:00","updated":"2025-11-07T18:53:28.588-08:00"}
 ---
 
 # # [[campaign/locations/1_continents/Faerun\|campaign/locations/1_continents/Faerun]]

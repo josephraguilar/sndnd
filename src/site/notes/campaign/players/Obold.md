@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/obold/","tags":["character","player"],"noteIcon":"","created":"2025-10-26T08:58:31.407-07:00","updated":"2025-10-27T16:05:59.975-07:00"}
+{"dg-publish":true,"permalink":"/campaign/players/obold/","tags":["character","player"],"noteIcon":"","created":"2025-10-26T08:58:31.407-07:00","updated":"2025-10-27T16:05:52.060-07:00"}
 ---
 
 
@@ -9,7 +9,7 @@
 <li dir="auto"><strong>Class:</strong> Paladin - Oath of Vengeance</li>
 <li dir="auto"><strong>Level:</strong> 7</li>
 <li dir="auto"><strong>Alignment:</strong> Lawful Neutrel</li>
-<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/4_cities_islands/Caer Callidier.md" data-href="campaign/locations/4_cities_islands/Caer Callidier.md" href="campaign/locations/4_cities_islands/Caer Callidier.md" class="internal-link" target="_blank" rel="noopener nofollow">Caer Callidier</a></li>
+<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Caer Callidier.md" data-href="campaign/locations/Caer Callidier.md" href="campaign/locations/Caer Callidier.md" class="internal-link" target="_blank" rel="noopener nofollow">Caer Callidier</a></li>
 </ul></span></p>
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/corvin/","tags":["character","npc"],"noteIcon":"","created":"2025-11-09T13:21:02.725-08:00","updated":"2025-11-11T16:25:37.021-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/corvin/","tags":["character","npc"],"noteIcon":"","created":"2025-11-09T13:21:02.725-08:00","updated":"2025-11-11T16:25:42.805-08:00"}
 ---
 
 

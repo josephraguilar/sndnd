@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/4-cities-islands/llorgh/","tags":["location"],"noteIcon":"","created":"2025-10-26T10:04:22.021-07:00","updated":"2025-11-23T19:30:23.638-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/4-cities-islands/llorgh/","tags":["location"],"noteIcon":"","created":"2025-10-26T10:04:22.021-07:00","updated":"2025-11-23T19:30:33.580-08:00"}
 ---
 
 # # [[campaign/locations/4_cities_islands/Llorgh\|Llorgh]]

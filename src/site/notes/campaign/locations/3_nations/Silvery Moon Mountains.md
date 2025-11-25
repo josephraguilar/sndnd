@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/3-nations/silvery-moon-mountains/","tags":["location"],"noteIcon":"","created":"2025-10-26T10:33:13.055-07:00","updated":"2025-10-28T07:54:39.037-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/3-nations/silvery-moon-mountains/","tags":["location"],"noteIcon":"","created":"2025-10-26T10:33:13.055-07:00","updated":"2025-10-28T07:54:32.068-07:00"}
 ---
 
 # # [[campaign/locations/3_nations/Silvery Moon Mountains\|Silvery Moon Mountains]]
@@ -19,9 +19,8 @@
 ---
 
 ## Relevant People
-| File                                            | Gender | Race | Role    | Description |
-| ----------------------------------------------- | ------ | ---- | ------- | ----------- |
-| [[campaign/npcs/Irlan Liaric\|Irlan Liaric]] | male   | Elf  | Vicount | \-          |
+| File | Gender | Race | Role | Description |
+| ---- | ------ | ---- | ---- | ----------- |
 
 { .block-language-dataview}
 

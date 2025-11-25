@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/4-cities-islands/kragthars-respite/","tags":["location"],"noteIcon":"","created":"2025-10-26T08:35:20.039-07:00","updated":"2025-10-28T07:53:18.243-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/4-cities-islands/kragthars-respite/","tags":["location"],"noteIcon":"","created":"2025-10-26T08:35:20.039-07:00","updated":"2025-10-28T07:53:09.497-07:00"}
 ---
 
 # # [[campaign/locations/4_cities_islands/Kragthars Respite\|Kragthars Respite]]
@@ -23,11 +23,8 @@ port town in [[campaign/locations/2_regions & archipelagos/Velen\|Velen]]
 ---
 
 ## Relevant People
-| File                                  | Gender | Race                     | Role      | Description                                      |
-| ------------------------------------- | ------ | ------------------------ | --------- | ------------------------------------------------ |
-| [[campaign/npcs/Pip\|Pip]]         | male   | \-                       | Barhand   | little dude who's too eager to introduce racists |
-| [[campaign/npcs/Scratch\|Scratch]] | male   | <ul><li>Goblin</li></ul> | Owner     | \-                                               |
-| [[campaign/npcs/Yorga\|Yorga]]     | female | Half-Orc                 | Bar Owner | owner of broken fang tavern                      |
+| File | Gender | Race | Role | Description |
+| ---- | ------ | ---- | ---- | ----------- |
 
 { .block-language-dataview}
 

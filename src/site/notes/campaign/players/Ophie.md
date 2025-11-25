@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/ophie/","tags":["character","player"],"noteIcon":"","created":"2025-10-26T08:26:29.460-07:00","updated":"2025-11-23T19:36:47.553-08:00"}
+{"dg-publish":true,"permalink":"/campaign/players/ophie/","tags":["character","player"],"noteIcon":"","created":"2025-10-26T08:26:29.460-07:00","updated":"2025-11-23T19:36:54.839-08:00"}
 ---
 
 
