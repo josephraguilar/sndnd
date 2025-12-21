@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/4-cities-islands/waterdeep/","tags":["location"],"noteIcon":"","created":"2025-10-26T10:01:34.616-07:00","updated":"2025-10-28T07:55:58.832-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/4-cities-islands/waterdeep/","tags":["location"],"noteIcon":"","created":"2025-10-26T10:01:34.616-07:00","updated":"2025-10-28T07:56:06.365-07:00"}
 ---
 
 # # [[campaign/locations/4_cities_islands/Waterdeep\|Waterdeep]]
@@ -23,12 +23,14 @@
 ## Relevant People
 | File                                  | Gender | Race              | Role      | Description |
 | ------------------------------------- | ------ | ----------------- | --------- | ----------- |
+| [[campaign/npcs/Melian\|Melian]]   | \-     | \-                | \-        | \-          |
 | [[campaign/npcs/Scalius\|Scalius]] | male   | Asmodeus Tiefling | the heart | \-          |
 
 { .block-language-dataview}
 
 ## Factions
-| File | Description |
-| ---- | ----------- |
+| File                                    | Description                |
+| --------------------------------------- | -------------------------- |
+| [[campaign/factions/Unseen\|Unseen]] | Thieves guild of Waterdeep |
 
 { .block-language-dataview}

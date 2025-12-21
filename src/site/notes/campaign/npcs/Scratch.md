@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/scratch/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T20:27:12.534-07:00","updated":"2025-10-27T16:38:30.817-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/scratch/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T20:27:12.534-07:00","updated":"2025-10-27T16:38:37.668-07:00"}
 ---
 
 
@@ -8,8 +8,8 @@
 <li dir="auto"><strong>Gender:</strong> male</li>
 <li dir="auto"><strong>Race:</strong> Goblin</li>
 <li dir="auto"><strong>Role:</strong> Owner</li>
-<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Kragthars Respite.md" data-href="campaign/locations/Kragthars Respite.md" href="campaign/locations/Kragthars Respite.md" class="internal-link" target="_blank" rel="noopener nofollow">Kragthars Respite</a></li>
-<li dir="auto"><strong>Current Location:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Kragthars Respite.md" data-href="campaign/locations/Kragthars Respite.md" href="campaign/locations/Kragthars Respite.md" class="internal-link" target="_blank" rel="noopener nofollow">Kragthars Respite</a></li>
+<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/4_cities_islands/Kragthars Respite.md" data-href="campaign/locations/4_cities_islands/Kragthars Respite.md" href="campaign/locations/4_cities_islands/Kragthars Respite.md" class="internal-link" target="_blank" rel="noopener nofollow">Kragthars Respite</a></li>
+<li dir="auto"><strong>Current Location:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/4_cities_islands/Kragthars Respite.md" data-href="campaign/locations/4_cities_islands/Kragthars Respite.md" href="campaign/locations/4_cities_islands/Kragthars Respite.md" class="internal-link" target="_blank" rel="noopener nofollow">Kragthars Respite</a></li>
 </ul></span></p>
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/factions/uganathi-clan/","tags":["faction"],"noteIcon":"","created":"2025-11-23T19:18:45.723-08:00","updated":"2025-11-23T19:58:40.647-08:00"}
+{"dg-publish":true,"permalink":"/campaign/factions/uganathi-clan/","tags":["faction"],"noteIcon":"","created":"2025-11-23T19:18:45.723-08:00","updated":"2025-11-25T18:09:16.437-08:00"}
 ---
 
 

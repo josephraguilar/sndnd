@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/4-cities-islands/mintarin/","tags":["location"],"noteIcon":"","created":"2025-10-26T10:17:50.471-07:00","updated":"2025-10-28T07:54:13.885-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/4-cities-islands/mintarin/","tags":["location"],"noteIcon":"","created":"2025-10-26T10:17:50.471-07:00","updated":"2025-10-28T07:54:19.399-07:00"}
 ---
 
 # # [[campaign/locations/4_cities_islands/Mintarin\|Mintarin]]

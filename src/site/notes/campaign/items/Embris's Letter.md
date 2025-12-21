@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/embris-s-letter/","noteIcon":"","created":"2025-10-26T14:49:02.003-07:00","updated":"2025-10-27T16:34:22.179-07:00"}
+{"dg-publish":true,"permalink":"/campaign/items/embris-s-letter/","noteIcon":"","created":"2025-10-26T14:49:02.003-07:00","updated":"2025-10-27T16:34:29.243-07:00"}
 ---
 
 

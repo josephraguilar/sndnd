@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/sylphine-the-whispering-gale/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T14:49:49.598-07:00","updated":"2025-10-27T16:38:40.001-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/sylphine-the-whispering-gale/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T14:49:49.598-07:00","updated":"2025-10-27T16:38:50.572-07:00"}
 ---
 
 

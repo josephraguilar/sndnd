@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/z-daria-nix/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:18:59.202-07:00","updated":"2025-10-27T16:39:14.739-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/z-daria-nix/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:18:59.202-07:00","updated":"2025-10-27T16:39:21.076-07:00"}
 ---
 
 

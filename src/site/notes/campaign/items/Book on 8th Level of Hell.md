@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/book-on-8th-level-of-hell/","noteIcon":"","created":"2025-10-26T09:24:37.895-07:00","updated":"2025-10-27T16:34:19.178-07:00"}
+{"dg-publish":true,"permalink":"/campaign/items/book-on-8th-level-of-hell/","noteIcon":"","created":"2025-10-26T09:24:37.895-07:00","updated":"2025-10-27T16:34:25.824-07:00"}
 ---
 
 

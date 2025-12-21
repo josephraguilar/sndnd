@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/auntie-rhemmy/","tags":["character","npc"],"noteIcon":"","created":"2025-11-23T19:15:40.177-08:00","updated":"2025-11-23T19:16:23.057-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/auntie-rhemmy/","tags":["character","npc"],"noteIcon":"","created":"2025-11-23T19:15:40.177-08:00","updated":"2025-11-25T18:09:16.271-08:00"}
 ---
 
 

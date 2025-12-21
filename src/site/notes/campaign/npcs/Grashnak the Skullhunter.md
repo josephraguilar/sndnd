@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/grashnak-the-skullhunter/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:34:35.454-07:00","updated":"2025-10-27T16:37:12.172-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/grashnak-the-skullhunter/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:34:35.454-07:00","updated":"2025-10-27T16:37:21.396-07:00"}
 ---
 
 
@@ -9,7 +9,7 @@
 <li dir="auto"><strong>Race:</strong> Orc</li>
 <li dir="auto"><strong>Role:</strong> Gang Leader</li>
 <li dir="auto"><strong>Status:</strong> dead</li>
-<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Broken Fang Tavern.md" data-href="campaign/locations/Broken Fang Tavern.md" href="campaign/locations/Broken Fang Tavern.md" class="internal-link" target="_blank" rel="noopener nofollow">Broken Fang Tavern</a></li>
+<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/6_sites/Broken Fang Tavern.md" data-href="campaign/locations/6_sites/Broken Fang Tavern.md" href="campaign/locations/6_sites/Broken Fang Tavern.md" class="internal-link" target="_blank" rel="noopener nofollow">Broken Fang Tavern</a></li>
 <li dir="auto"><strong>Description:</strong> Killer of Thorin's wife and son (Dead)</li>
 </ul></span></p>
 

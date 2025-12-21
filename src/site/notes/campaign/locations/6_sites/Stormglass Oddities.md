@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/6-sites/stormglass-oddities/","tags":["location"],"noteIcon":"","created":"2025-10-26T20:26:37.759-07:00","updated":"2025-10-28T07:54:43.457-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/6-sites/stormglass-oddities/","tags":["location"],"noteIcon":"","created":"2025-10-26T20:26:37.759-07:00","updated":"2025-10-28T07:54:49.144-07:00"}
 ---
 
 # # [[campaign/locations/6_sites/Stormglass Oddities\|Stormglass Oddities]]

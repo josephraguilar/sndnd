@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/4-cities-islands/llejaigh/","tags":["location"],"noteIcon":"","created":"2025-10-26T20:20:16.820-07:00","updated":"2025-10-28T07:53:34.073-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/4-cities-islands/llejaigh/","tags":["location"],"noteIcon":"","created":"2025-10-26T20:20:16.820-07:00","updated":"2025-10-28T07:53:42.850-07:00"}
 ---
 
 # # [[campaign/locations/4_cities_islands/Llejaigh\|Llejaigh]]
@@ -27,8 +27,9 @@ Village south of [[campaign/locations/4_cities_islands/Caer Callidier\|Caer Call
 { .block-language-dataview}
 
 ## Factions
-| File | Description |
-| ---- | ----------- |
+| File                                                | Description               |
+| --------------------------------------------------- | ------------------------- |
+| [[campaign/factions/Velvet Blade\|Velvet Blade]] | Thieves guild of Llejaigh |
 
 { .block-language-dataview}
 

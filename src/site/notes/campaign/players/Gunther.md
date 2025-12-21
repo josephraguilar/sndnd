@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/gunther/","tags":["character","player"],"noteIcon":"","created":"2025-10-26T09:00:00.196-07:00","updated":"2025-10-27T16:05:10.103-07:00"}
+{"dg-publish":true,"permalink":"/campaign/players/gunther/","tags":["character","player"],"noteIcon":"","created":"2025-10-26T09:00:00.196-07:00","updated":"2025-10-27T16:05:17.435-07:00"}
 ---
 
 

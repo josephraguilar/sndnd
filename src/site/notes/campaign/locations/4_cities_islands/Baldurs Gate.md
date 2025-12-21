@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/4-cities-islands/baldurs-gate/","noteIcon":"","created":"2025-10-26T08:49:11.662-07:00","updated":"2025-10-28T07:50:14.443-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/4-cities-islands/baldurs-gate/","noteIcon":"","created":"2025-10-26T08:49:11.662-07:00","updated":"2025-10-28T07:50:24.265-07:00"}
 ---
 
 # # [[campaign/locations/4_cities_islands/Baldurs Gate\|Baldurs Gate]]
@@ -28,6 +28,7 @@ A large and infamous port town on the sword coast.
 | ------------------------------------------- | ------ | -------- | ------------ | ----------- |
 | [[campaign/npcs/Corvin\|Corvin]]         | male   | Human    | \-           | \-          |
 | [[campaign/npcs/Knifebloom\|Knifebloom]] | female | Half-Elf | \-           | \-          |
+| [[campaign/npcs/Laysora\|Laysora]]       | \-     | \-       | \-           | \-          |
 | [[campaign/npcs/Valan\|Valan]]           | female | \-       | Guild Master | head        |
 
 { .block-language-dataview}

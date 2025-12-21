@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/whispering-stones/","noteIcon":"","created":"2025-11-23T15:39:09.786-08:00","updated":"2025-11-23T15:40:33.173-08:00"}
+{"dg-publish":true,"permalink":"/campaign/items/whispering-stones/","noteIcon":"","created":"2025-11-23T15:39:09.786-08:00","updated":"2025-11-23T15:40:29.245-08:00"}
 ---
 
 
