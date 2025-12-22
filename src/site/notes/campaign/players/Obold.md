@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/obold/","tags":["character","player"],"noteIcon":"","created":"2025-10-26T08:58:31.407-07:00","updated":"2025-10-27T16:05:59.975-07:00"}
+{"dg-publish":true,"permalink":"/campaign/players/obold/","tags":["character","player"],"noteIcon":"","created":"2025-10-26T08:58:31.407-07:00","updated":"2025-12-21T14:05:28.445-08:00"}
 ---
 
 
@@ -37,3 +37,100 @@ A pale-skinned and completely hairless half goliath who's simple mind makes him 
 ## Notes
 Was forced to follow [[campaign/npcs/Baphomet\|Baphomet]] by [[campaign/npcs/Holda\|Holda]]
 Baphomet showed him a half-goliath paladin of [[campaign/npcs/Iuz\|Iuz]] on [[campaign/locations/4_cities_islands/Mintarin\|Mintarin]]
+
+---
+
+## Ramses 
+**AC** 12 per spell level
+
+**HP** 25 per spell level (the steed has a number of Hit Dice [d10s] equal to the spell’s level)
+16+17
+
+
+**Speed** 60 ft.
+
+|||Mod|Save|
+|---|---|---|---|
+|STR|18
+- Modifier +4
+- Save +4
+|DEX| 12
+- Modifier +1
+- Save +1
+
+|CON| 14
+- Modifier +2
+- Save +2
+
+|||Mod|Save|
+|---|---|---|---|
+|INT| 6
+- Modifier −2
+- Save −2|
+|WIS| 12
+- Modifier +1
+- Save +1
+|CHA| 8
+- Modifier −1
+- Save −1
+
+**Senses** Passive Perception 11
+
+**Languages** Telepathy 1 mile (works only with you)
+
+**CR** None (XP 0; PB equals your Proficiency Bonus)
+
+Traits
+
+**_Life Bond._** When you regain Hit Points from a level 1+ spell, the steed regains the same number of Hit Points if you’re within 5 feet of it.
+
+Actions
+
+**_Otherworldly Slam._** _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d8 plus the 2 of Necrotic (Fiend) damage.
+
+Bonus Actions
+
+**_Fell Glare (Fiend Only; Recharges after a Long Rest)._** _Wisdom Saving Throw:_ DC equals your spell save DC, one creature within 60 feet the steed can see. _Failure:_ The target has the Frightened condition until the end of your next turn.
+
+---
+
+## Find Steed Info
+**AC** 10 + 1 per spell level
+
+**HP** 5 + 10 per spell level (the steed has a number of Hit Dice [d10s] equal to the spell’s level)
+
+**Speed** 60 ft., Fly 60 ft. (requires level 4+ spell)
+
+|||Mod|Save|
+|---|---|---|---|
+|STR|18|+4|+4|
+|DEX|12|+1|+1|
+|CON|14|+2|+2|
+
+|||Mod|Save|
+|---|---|---|---|
+|INT|6|−2|−2|
+|WIS|12|+1|+1|
+|CHA|8|−1|−1|
+
+**Senses** Passive Perception 11
+
+**Languages** Telepathy 1 mile (works only with you)
+
+**CR** None (XP 0; PB equals your Proficiency Bonus)
+
+Traits
+
+**_Life Bond._** When you regain Hit Points from a level 1+ spell, the steed regains the same number of Hit Points if you’re within 5 feet of it.
+
+Actions
+
+**_Otherworldly Slam._** _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d8 plus the spell’s level of Radiant (Celestial), Psychic (Fey), or Necrotic (Fiend) damage.
+
+Bonus Actions
+
+**_Fell Glare (Fiend Only; Recharges after a Long Rest)._** _Wisdom Saving Throw:_ DC equals your spell save DC, one creature within 60 feet the steed can see. _Failure:_ The target has the Frightened condition until the end of your next turn.
+
+**_Fey Step (Fey Only; Recharges after a Long Rest)._** The steed teleports, along with its rider, to an unoccupied space of your choice up to 60 feet away from itself.
+
+**_Healing Touch (Celestial Only; Recharges after a Long Rest)._** One creature within 5 feet of the steed regains a number of Hit Points equal to 2d8 plus the spell’s level.

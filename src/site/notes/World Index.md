@@ -28,8 +28,8 @@ Based in Faerun. The world is ran by a slaving organization who the crew origina
 | File                                                          | Description                                                             |
 | ------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | [[campaign/factions/Dark Daggers\|Dark Daggers]]           | Thieves guild of Baldur's Gate                                          |
-| [[campaign/factions/Unseen\|Unseen]]                       | Thieves guild of Waterdeep                                              |
 | [[campaign/factions/Ironclad Enclave\|Ironclad Enclave]]   | Faerun slave masters                                                    |
+| [[campaign/factions/Unseen\|Unseen]]                       | Thieves guild of Waterdeep                                              |
 | [[campaign/factions/Veruz Rexna\|Veruz Rexna]]             | The paladins of Iuz, a sect formed of half goliaths.                    |
 | [[campaign/factions/Gloomshadow\|Gloomshadow]]             | Thieves guild in Caer Callidier                                         |
 | [[campaign/factions/Shag Dominica\|Shag Dominica]]         | Sahaugan that guard "The Three"                                         |
@@ -38,9 +38,9 @@ Based in Faerun. The world is ran by a slaving organization who the crew origina
 | [[campaign/factions/Velvet Blade\|Velvet Blade]]           | Thieves guild of Llejaigh                                               |
 | [[campaign/factions/Green Court\|Green Court]]             | A fae court passing judgement on Gunther                                |
 | [[campaign/factions/Ash Vulture Tribe\|Ash Vulture Tribe]] | Carry a vulture symbol. Mercenary opportunists.                         |
+| [[campaign/factions/Bloodfang Tribe\|Bloodfang Tribe]]     | Carrry a red eye and are crazy                                          |
 | [[campaign/factions/Bonerend Tribe\|Bonerend Tribe]]       | Carry broken skulls, slave outcasts                                     |
 | [[campaign/factions/Uganathi Clan\|Uganathi Clan]]         | Clan of 4 Goliath Brothers who's offspring are raised to be Veruz Rexna |
-| [[campaign/factions/Bloodfang Tribe\|Bloodfang Tribe]]     | Carrry a red eye and are crazy                                          |
 
 { .block-language-dataview}
 
@@ -71,7 +71,7 @@ Based in Faerun. The world is ran by a slaving organization who the crew origina
 | [[campaign/sessions/026 11-09-2025\|026 11-09-2025]] | Orc Got Your Tongue?   |
 | [[campaign/sessions/027 11-23-2025\|027 11-23-2025]] | Bush Lizards           |
 | [[campaign/sessions/028 12-07-2025\|028 12-07-2025]] | The Weakest            |
-| [[campaign/sessions/029 12-21-2025\|029 12-21-2025]] | \-                     |
+| [[campaign/sessions/029 12-21-2025\|029 12-21-2025]] | Animal Farm            |
 
 { .block-language-dataview}
 
