@@ -73,7 +73,8 @@ Based in Faerun. The world is ran by a slaving organization who the crew origina
 | [[campaign/sessions/027 11-23-2025\|027 11-23-2025]] | Bush Lizards           |
 | [[campaign/sessions/028 12-07-2025\|028 12-07-2025]] | The Weakest            |
 | [[campaign/sessions/029 12-21-2025\|029 12-21-2025]] | Animal Farm            |
-| [[campaign/sessions/030 01-04-2026\|030 01-04-2026]] | \-                     |
+| [[campaign/sessions/030 01-04-2026\|030 01-04-2026]] | When Rats Fly          |
+| [[campaign/sessions/031 01-18-2026\|031 01-18-2026]] | \-                     |
 
 { .block-language-dataview}
 
