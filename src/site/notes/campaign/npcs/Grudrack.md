@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/grudrack/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T18:47:54.838-07:00","updated":"2025-11-23T15:22:52.036-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/grudrack/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T18:47:54.838-07:00","updated":"2025-11-23T15:22:56.413-08:00"}
 ---
 
 

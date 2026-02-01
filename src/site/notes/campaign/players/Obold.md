@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/obold/","tags":["character","player"],"noteIcon":"","created":"2025-10-26T08:58:31.407-07:00","updated":"2026-01-04T15:35:45.836-08:00"}
+{"dg-publish":true,"permalink":"/campaign/players/obold/","tags":["character","player"],"noteIcon":"","created":"2025-10-26T08:58:31.407-07:00","updated":"2026-01-18T12:32:59.067-08:00"}
 ---
 
 
@@ -46,11 +46,11 @@ Baphomet showed him a half-goliath paladin of [[campaign/npcs/Iuz\|Iuz]] on [[ca
 **HP** 25 per spell level (the steed has a number of Hit Dice [d10s] equal to the spell’s level)
 
 AC = 12
-HP = 25
+HP = 255
 **Speed** 60 ft.
 
 ## HP 
-3
+18
 
 ## Saves
 

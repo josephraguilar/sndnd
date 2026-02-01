@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/lois/","tags":["character","player"],"noteIcon":"","created":"2025-10-26T08:26:41.862-07:00","updated":"2025-11-09T12:09:00.445-08:00"}
+{"dg-publish":true,"permalink":"/campaign/players/lois/","tags":["character","player"],"noteIcon":"","created":"2025-10-26T08:26:41.862-07:00","updated":"2025-11-09T12:09:06.956-08:00"}
 ---
 
 

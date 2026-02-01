@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/argran/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T10:25:29.137-07:00","updated":"2025-11-09T14:55:10.805-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/argran/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T10:25:29.137-07:00","updated":"2025-11-09T14:55:17.242-08:00"}
 ---
 
 
