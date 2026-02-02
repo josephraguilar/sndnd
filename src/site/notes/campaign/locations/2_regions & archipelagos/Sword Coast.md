@@ -14,13 +14,13 @@
 ### Contains
 | Location                                                                | Type                 |
 | ----------------------------------------------------------------------- | -------------------- |
-| [[campaign/locations/Moonshae Isles\|Moonshae Isles]]                | 2_region/archipelago |
 | [[campaign/locations/2_regions & archipelagos/Velen\|Velen]]         | 2_region/archipelago |
 | [[campaign/locations/2_regions & archipelagos/Calimshan\|Calimshan]] | 2_region/archipelago |
+| [[campaign/locations/Moonshae Isles\|Moonshae Isles]]                | 2_region/archipelago |
 | [[campaign/locations/Oman\|Oman]]                                    | 3_nation             |
-| [[campaign/locations/4_cities_islands/Baldurs Gate\|Baldurs Gate]]   | 4_city/island        |
 | [[campaign/locations/4_cities_islands/Mintarin\|Mintarin]]           | 4_city/island        |
 | [[campaign/locations/4_cities_islands/Waterdeep\|Waterdeep]]         | 4_city/island        |
+| [[campaign/locations/4_cities_islands/Baldurs Gate\|Baldurs Gate]]   | 4_city/island        |
 
 { .block-language-dataview}
 

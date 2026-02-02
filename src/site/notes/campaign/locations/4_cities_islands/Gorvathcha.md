@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/4-cities-islands/gorvathcha/","tags":["location"],"noteIcon":"","created":"2025-11-02T09:51:03.038-08:00","updated":"2025-11-09T13:07:36.494-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/4-cities-islands/gorvathcha/","tags":["location"],"noteIcon":"","created":"2025-11-02T09:51:03.038-08:00","updated":"2025-11-09T13:07:28.178-08:00"}
 ---
 
 <p><span><ul>

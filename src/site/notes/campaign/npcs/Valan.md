@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/valan/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T10:42:44.478-07:00","updated":"2025-11-09T13:18:18.813-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/valan/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T10:42:44.478-07:00","updated":"2025-11-09T13:18:08.643-08:00"}
 ---
 
 

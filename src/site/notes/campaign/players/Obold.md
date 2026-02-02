@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/obold/","tags":["character","player"],"noteIcon":"","created":"2025-10-26T08:58:31.407-07:00","updated":"2026-01-18T12:32:59.067-08:00"}
+{"dg-publish":true,"permalink":"/campaign/players/obold/","tags":["character","player"],"noteIcon":"","created":"2025-10-26T08:58:31.407-07:00","updated":"2026-02-01T15:32:21.391-08:00"}
 ---
 
 
@@ -105,6 +105,8 @@ Bonus Actions
 **HP** 5 + 10 per spell level (the steed has a number of Hit Dice [d10s] equal to the spell’s level)
 
 **Speed** 60 ft., Fly 60 ft. (requires level 4+ spell)
+
+HP - 14
 
 |||Mod|Save|
 |---|---|---|---|
