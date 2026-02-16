@@ -76,7 +76,7 @@ Based in Faerun. The world is ran by a slaving organization who the crew origina
 | [[campaign/sessions/030 01-04-2026\|030 01-04-2026]] | When Rats Fly          |
 | [[campaign/sessions/031 01-18-2026\|031 01-18-2026]] | Cradle to the Grave    |
 | [[campaign/sessions/032 02-01-2026\|032 02-01-2026]] | Grudrack's Goose-Chase |
-| [[campaign/sessions/033 02-13-2026\|033 02-13-2026]] | \-                     |
+| [[campaign/sessions/033 02-13-2026\|033 02-13-2026]] | The Uganathi Kumite    |
 
 { .block-language-dataview}
 
