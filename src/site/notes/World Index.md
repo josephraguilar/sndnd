@@ -28,12 +28,12 @@ Based in Faerun. The world is ran by a slaving organization who the crew origina
 
 | File                                                          | Description                                                             |
 | ------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| [[campaign/factions/Dark Daggers\|Dark Daggers]]           | Thieves guild of Baldur's Gate                                          |
 | [[campaign/factions/Unseen\|Unseen]]                       | Thieves guild of Waterdeep                                              |
+| [[campaign/factions/Dark Daggers\|Dark Daggers]]           | Thieves guild of Baldur's Gate                                          |
 | [[campaign/factions/Ironclad Enclave\|Ironclad Enclave]]   | Faerun slave masters                                                    |
 | [[campaign/factions/Veruz Rexna\|Veruz Rexna]]             | The paladins of Iuz, a sect formed of half goliaths.                    |
-| [[campaign/factions/Gloomshadow\|Gloomshadow]]             | Thieves guild in Caer Callidier                                         |
 | [[campaign/factions/Shag Dominica\|Shag Dominica]]         | Sahaugan that guard "The Three"                                         |
+| [[campaign/factions/Gloomshadow\|Gloomshadow]]             | Thieves guild in Caer Callidier                                         |
 | [[campaign/factions/The Three\|The Three]]                 | Three powerful hag sisters that lead The Ironcald Enclave               |
 | [[campaign/factions/Black Maw Tribe\|Black Maw Tribe]]     | A brutal orc clan in Valeen                                             |
 | [[campaign/factions/Velvet Blade\|Velvet Blade]]           | Thieves guild of Llejaigh                                               |
@@ -76,6 +76,7 @@ Based in Faerun. The world is ran by a slaving organization who the crew origina
 | [[campaign/sessions/030 01-04-2026\|030 01-04-2026]] | When Rats Fly          |
 | [[campaign/sessions/031 01-18-2026\|031 01-18-2026]] | Cradle to the Grave    |
 | [[campaign/sessions/032 02-01-2026\|032 02-01-2026]] | Grudrack's Goose-Chase |
+| [[campaign/sessions/033 02-13-2026\|033 02-13-2026]] | \-                     |
 
 { .block-language-dataview}
 
