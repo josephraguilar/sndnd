@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-index/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-26T08:08:34.355-07:00","updated":"2025-11-23T20:11:58.418-08:00"}
+{"dg-publish":true,"permalink":"/world-index/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-26T08:08:34.355-07:00","updated":"2026-03-01T17:31:38.493-08:00"}
 ---
 
 
@@ -90,5 +90,3 @@ defaultZoom: 1.0
 lat: 50
 lng: 50
 ```
-
-## [[Safety Tools\|Safety Tools]]
