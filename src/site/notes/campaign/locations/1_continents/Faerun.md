@@ -14,6 +14,7 @@
 | Location                                                                    | Type                 |
 | --------------------------------------------------------------------------- | -------------------- |
 | [[campaign/locations/2_regions & archipelagos/Alaron\|Alaron]]           | 2_region/archipelago |
+| [[campaign/locations/2_regions & archipelagos/Icewind\|Icewind]]         | 2_region/archipelago |
 | [[campaign/locations/2_regions & archipelagos/Sword Coast\|Sword Coast]] | 2_region/archipelago |
 
 { .block-language-dataview}

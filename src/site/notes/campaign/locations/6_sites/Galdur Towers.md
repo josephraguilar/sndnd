@@ -3,7 +3,7 @@
 ---
 
 # # [[campaign/locations/6_sites/Galdur Towers\|Galdur Towers]]
-one is located in [[campaign/locations/2_regions & archipelagos/Calimshan\|Calimshan]] (underwater?), one is located in [[campaign/locations/Oman\|Oman]], one is located in the [[campaign/locations/1_continents/Underdark\|Underdark]]
+one is located in [[campaign/locations/2_regions & archipelagos/Calimshan\|Calimshan]] (underwater?), one is located in [[campaign/locations/3_nations/Oman\|Oman]], one is located in the [[campaign/locations/1_continents/Underdark\|Underdark]]
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Galdur Tower</li>
 <li dir="auto"><strong>Location Type:</strong> 6_site</li>

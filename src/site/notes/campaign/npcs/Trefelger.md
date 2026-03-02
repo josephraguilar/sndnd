@@ -5,14 +5,14 @@
 
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Trefelger</li>
-<li dir="auto"><strong>Hails From:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Moonshae Isles.md" data-href="campaign/locations/Moonshae Isles.md" href="campaign/locations/Moonshae Isles.md" class="internal-link" target="_blank" rel="noopener nofollow">Moonshae Isles</a></li>
+<li dir="auto"><strong>Hails From:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/2_regions &amp; archipelagos/Moonshae Isles.md" data-href="campaign/locations/2_regions &amp; archipelagos/Moonshae Isles.md" href="campaign/locations/2_regions &amp; archipelagos/Moonshae Isles.md" class="internal-link" target="_blank" rel="noopener nofollow">Moonshae Isles</a></li>
 </ul></span></p>
 
 ---
 
 # [[campaign/npcs/Trefelger\|Trefelger]]
 Captain of a ship we ran into on the way to llorgh
-is from the [[campaign/locations/Moonshae Isles\|Moonshae Isles]]. 
+is from the [[campaign/locations/2_regions & archipelagos/Moonshae Isles\|Moonshae Isles]]. 
 ## Personality
 **Traits:**  
 **Ideals:**  

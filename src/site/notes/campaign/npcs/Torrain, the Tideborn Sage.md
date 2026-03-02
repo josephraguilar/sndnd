@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/torrain-the-tideborn-sage/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T14:50:04.198-07:00","updated":"2025-10-27T16:38:56.167-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/torrain-the-tideborn-sage/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T14:50:04.198-07:00","updated":"2026-03-01T12:37:02.638-08:00"}
 ---
 
 
@@ -11,6 +11,8 @@
 ---
 
 # [[campaign/npcs/Torrain, the Tideborn Sage\|Torrain, the Tideborn Sage]]
+Tide-born druid
+
 
 ## Personality
 **Traits:**  

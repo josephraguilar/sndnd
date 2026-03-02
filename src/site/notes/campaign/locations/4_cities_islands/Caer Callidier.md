@@ -15,9 +15,10 @@ Large port city in [[campaign/locations/2_regions & archipelagos/Alaron\|Alaron]
 ### Contains
 | Location                                                                               | Type   |
 | -------------------------------------------------------------------------------------- | ------ |
+| [[campaign/locations/Flaggen and Crow\|Flaggen and Crow]]                           | 6_site |
 | [[campaign/locations/6_sites/Gloomshadow Hill\|Gloomshadow Hill]]                   | 6_site |
 | [[campaign/locations/6_sites/Temple of the high Cleric\|Temple of the high Cleric]] | 6_site |
-| [[campaign/locations/6_sites/Wanton Witch\|Wanton Witch]]                           | 6_site |
+| [[campaign/locations/6_sites/Wanton Wench\|Wanton Wench]]                           | 6_site |
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/sylphine-the-whispering-gale/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T14:49:49.598-07:00","updated":"2025-10-27T16:38:50.572-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/sylphine-the-whispering-gale/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T14:49:49.598-07:00","updated":"2026-03-01T12:32:57.161-08:00"}
 ---
 
 
@@ -11,6 +11,7 @@
 ---
 
 # [[campaign/npcs/Sylphine, the Whispering Gale\|Sylphine, the Whispering Gale]]
+Air druid (castle moves, flies on the wind; northern Icewind region)
 
 ## Personality
 **Traits:**  
@@ -21,7 +22,7 @@
 ---
 
 ## Relationships
-- 
+- [[campaign/players/Ophie\|Ophie]]
 
 ---
 
