@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/6-sites/silk-steam-bathhouse/","tags":["location"],"noteIcon":"","created":"2025-11-09T13:38:55.516-08:00","updated":"2025-11-09T13:39:07.837-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/6-sites/silk-steam-bathhouse/","tags":["location"],"noteIcon":"","created":"2026-03-15T12:31:38.656-07:00","updated":"2025-11-09T13:39:07.837-08:00"}
 ---
 
 <p><span><ul>

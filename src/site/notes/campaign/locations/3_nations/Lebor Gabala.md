@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/3-nations/lebor-gabala/","tags":["location"],"noteIcon":"","created":"2025-10-26T19:24:39.935-07:00","updated":"2025-10-28T08:01:38.755-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/3-nations/lebor-gabala/","tags":["location"],"noteIcon":"","created":"2026-03-15T12:31:36.735-07:00","updated":"2025-10-28T08:01:38.755-07:00"}
 ---
 
 # # [[campaign/locations/3_nations/Lebor Gabala\|Lebor Gabala]]
@@ -32,4 +32,4 @@ The promise land for Firbolg, which they were driven from by untold calamity. Is
 { .block-language-dataview}
 
 ## Notes
-[[campaign/players/Ophie\|Ophie]] is supposed to be the chosen one of prophecy who is to bring them back to it. 
+[[Ophie\|Ophie]] is supposed to be the chosen one of prophecy who is to bring them back to it. 

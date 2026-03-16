@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/ramses-1/","tags":["character","npc"],"noteIcon":"","created":"2025-11-09T15:28:44.175-08:00","updated":"2025-11-09T15:28:45.051-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/ramses-1/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:44.492-07:00","updated":"2025-11-09T15:28:45.051-08:00"}
 ---
 
 

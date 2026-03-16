@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/monsters/sahaugan/","noteIcon":"","created":"2025-10-26T09:15:00.170-07:00","updated":"2025-11-02T12:44:53.796-08:00"}
+{"dg-publish":true,"permalink":"/campaign/monsters/sahaugan/","noteIcon":"","created":"2026-03-15T12:31:35.385-07:00","updated":"2025-11-02T12:44:53.796-08:00"}
 ---
 
 

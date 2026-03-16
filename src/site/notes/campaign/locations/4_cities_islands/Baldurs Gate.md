@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/4-cities-islands/baldurs-gate/","noteIcon":"","created":"2025-10-26T08:49:11.662-07:00","updated":"2025-10-28T07:50:24.265-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/4-cities-islands/baldurs-gate/","noteIcon":"","created":"2026-03-15T12:31:39.079-07:00","updated":"2025-10-28T07:50:24.265-07:00"}
 ---
 
 # # [[campaign/locations/4_cities_islands/Baldurs Gate\|Baldurs Gate]]

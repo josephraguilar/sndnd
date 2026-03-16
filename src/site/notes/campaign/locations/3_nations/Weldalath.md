@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/3-nations/weldalath/","tags":["location"],"noteIcon":"","created":"2025-11-07T17:47:18.431-08:00","updated":"2025-11-07T18:41:48.145-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/3-nations/weldalath/","tags":["location"],"noteIcon":"","created":"2026-03-15T12:31:36.824-07:00","updated":"2025-11-07T18:41:48.145-08:00"}
 ---
 
 <p><span><ul>

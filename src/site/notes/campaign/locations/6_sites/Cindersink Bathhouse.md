@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/6-sites/cindersink-bathhouse/","tags":["location"],"noteIcon":"","created":"2025-11-07T17:49:45.942-08:00","updated":"2025-11-07T17:49:51.129-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/6-sites/cindersink-bathhouse/","tags":["location"],"noteIcon":"","created":"2026-03-15T12:31:38.579-07:00","updated":"2025-11-07T17:49:51.129-08:00"}
 ---
 
 <p><span><ul>

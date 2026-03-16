@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/factions/bonerend-tribe/","tags":["faction"],"noteIcon":"","created":"2025-11-07T17:31:10.770-08:00","updated":"2025-11-07T17:33:32.744-08:00"}
+{"dg-publish":true,"permalink":"/campaign/factions/bonerend-tribe/","tags":["faction"],"noteIcon":"","created":"2026-03-15T12:31:36.199-07:00","updated":"2025-11-07T17:33:32.744-08:00"}
 ---
 
 

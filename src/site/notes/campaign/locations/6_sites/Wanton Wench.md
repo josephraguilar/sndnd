@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/6-sites/wanton-wench/","tags":["location"],"noteIcon":"","created":"2025-10-26T08:18:07.705-07:00","updated":"2026-03-01T14:18:27.247-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/6-sites/wanton-wench/","tags":["location"],"noteIcon":"","created":"2026-03-15T12:31:37.902-07:00","updated":"2026-03-01T14:18:27.247-08:00"}
 ---
 
 # # [[campaign/locations/6_sites/Wanton Wench\|Wanton Wench]]

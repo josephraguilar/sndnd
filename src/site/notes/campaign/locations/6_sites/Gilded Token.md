@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/6-sites/gilded-token/","tags":["location"],"noteIcon":"","created":"2025-11-11T16:20:24.936-08:00","updated":"2025-11-11T16:22:34.405-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/6-sites/gilded-token/","tags":["location"],"noteIcon":"","created":"2026-03-15T12:31:38.755-07:00","updated":"2025-11-11T16:22:34.405-08:00"}
 ---
 
 <p><span><ul>

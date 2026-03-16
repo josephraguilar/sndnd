@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/merillian-cinderglass/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T12:28:00.177-07:00","updated":"2025-11-06T20:26:58.115-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/merillian-cinderglass/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:41.698-07:00","updated":"2025-11-06T20:26:58.115-08:00"}
 ---
 
 

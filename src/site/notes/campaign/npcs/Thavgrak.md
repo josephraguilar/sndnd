@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/thavgrak/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T18:27:46.227-07:00","updated":"2025-10-27T16:38:50.526-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/thavgrak/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:42.468-07:00","updated":"2025-10-27T16:38:50.526-07:00"}
 ---
 
 
@@ -12,7 +12,7 @@
 ---
 
 # [[campaign/npcs/Thavgrak\|Thavgrak]]
-[[campaign/players/Obold\|Obold]]'s Uncle. Brother of [[Grudrak\|Grudrak]], [[campaign/npcs/Eargrak\|Eargrak]], and [[campaign/npcs/Lazrack\|Lazrack]]
+[[campaign/players/Obold\|Obold]]'s Uncle. Brother of [[campaign/npcs/Grudrak\|Grudrak]], [[campaign/npcs/Eargrak\|Eargrak]], and [[campaign/npcs/Lazrack\|Lazrack]]
 
 ## Personality
 **Traits:**  

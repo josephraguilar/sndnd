@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/6-sites/knives-eye/","tags":["location"],"noteIcon":"","created":"2025-10-26T12:58:40.278-07:00","updated":"2025-11-11T16:17:50.529-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/6-sites/knives-eye/","tags":["location"],"noteIcon":"","created":"2026-03-15T12:31:38.008-07:00","updated":"2025-11-11T16:17:50.529-08:00"}
 ---
 
 # # [[campaign/locations/6_sites/Knives Eye\|Knives Eye]]

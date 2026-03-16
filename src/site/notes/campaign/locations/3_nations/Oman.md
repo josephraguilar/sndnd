@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/3-nations/oman/","tags":["location"],"noteIcon":"","created":"2025-11-23T19:20:41.203-08:00","updated":"2025-11-25T18:09:16.363-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/3-nations/oman/","tags":["location"],"noteIcon":"","created":"2026-03-15T18:05:16.867-07:00","updated":"2026-03-15T18:11:10.318-07:00"}
 ---
 
 <p><span><ul>

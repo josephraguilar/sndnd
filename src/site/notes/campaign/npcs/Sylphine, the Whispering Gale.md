@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/sylphine-the-whispering-gale/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T14:49:49.598-07:00","updated":"2026-03-01T12:32:57.161-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/sylphine-the-whispering-gale/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:41.941-07:00","updated":"2026-03-01T12:32:57.161-08:00"}
 ---
 
 
@@ -22,7 +22,7 @@ Air druid (castle moves, flies on the wind; northern Icewind region)
 ---
 
 ## Relationships
-- [[campaign/players/Ophie\|Ophie]]
+- [[Ophie\|Ophie]]
 
 ---
 

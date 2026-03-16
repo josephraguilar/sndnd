@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/6-sites/kund-vethrak/","tags":["location"],"noteIcon":"","created":"2025-11-07T17:35:32.955-08:00","updated":"2025-11-07T18:40:46.862-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/6-sites/kund-vethrak/","tags":["location"],"noteIcon":"","created":"2026-03-15T12:31:38.406-07:00","updated":"2026-03-15T18:12:39.388-07:00"}
 ---
 
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Kund Vethrak</li>
 <li dir="auto"><strong>Location Type:</strong> 6_site</li>
+<li dir="auto"><strong>Part Of:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/2_regions &amp; archipelagos/Velen.md" data-href="campaign/locations/2_regions &amp; archipelagos/Velen.md" href="campaign/locations/2_regions &amp; archipelagos/Velen.md" class="internal-link" target="_blank" rel="noopener nofollow">Velen</a></li>
 </ul></span></p>
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/6-sites/hollow-ember/","tags":["location"],"noteIcon":"","created":"2025-11-07T17:48:58.898-08:00","updated":"2025-11-07T17:49:05.446-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/6-sites/hollow-ember/","tags":["location"],"noteIcon":"","created":"2026-03-15T12:31:38.464-07:00","updated":"2025-11-07T17:49:05.446-08:00"}
 ---
 
 <p><span><ul>

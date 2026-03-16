@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/black-fang/","noteIcon":"","created":"2025-10-26T10:35:21.005-07:00","updated":"2025-11-04T11:11:51.273-08:00"}
+{"dg-publish":true,"permalink":"/campaign/items/black-fang/","noteIcon":"","created":"2026-03-15T12:31:46.459-07:00","updated":"2025-11-04T11:11:51.273-08:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/tibit/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:35:35.787-07:00","updated":"2025-10-27T16:38:54.167-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/tibit/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:42.408-07:00","updated":"2025-10-27T16:38:54.167-07:00"}
 ---
 
 

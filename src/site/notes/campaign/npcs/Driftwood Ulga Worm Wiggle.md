@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/driftwood-ulga-worm-wiggle/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:29:00.558-07:00","updated":"2025-10-27T16:37:02.323-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/driftwood-ulga-worm-wiggle/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:40.869-07:00","updated":"2025-10-27T16:37:02.323-07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/garkul/","tags":["character","npc"],"noteIcon":"","created":"2025-11-06T19:48:01.713-08:00","updated":"2025-11-06T19:48:30.766-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/garkul/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:44.151-07:00","updated":"2025-11-06T19:48:30.766-08:00"}
 ---
 
 

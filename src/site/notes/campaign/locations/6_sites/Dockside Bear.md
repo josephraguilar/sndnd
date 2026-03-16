@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/6-sites/dockside-bear/","tags":["location"],"noteIcon":"","created":"2025-11-11T16:21:10.247-08:00","updated":"2025-11-11T16:21:46.882-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/6-sites/dockside-bear/","tags":["location"],"noteIcon":"","created":"2026-03-15T12:31:38.705-07:00","updated":"2025-11-11T16:21:46.882-08:00"}
 ---
 
 <p><span><ul>

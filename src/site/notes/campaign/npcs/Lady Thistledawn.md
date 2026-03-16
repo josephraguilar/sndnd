@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/lady-thistledawn/","tags":["character","npc"],"noteIcon":"","created":"2025-11-07T17:36:05.374-08:00","updated":"2025-11-07T17:36:15.740-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/lady-thistledawn/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:44.038-07:00","updated":"2025-11-07T17:36:15.740-08:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/irlan-liaric/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T09:08:13.987-07:00","updated":"2025-10-27T16:37:32.574-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/irlan-liaric/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:40.293-07:00","updated":"2025-10-27T16:37:32.574-07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/2-regions-and-archipelagos/sword-coast/","tags":["location"],"noteIcon":"","created":"2025-10-26T14:56:51.090-07:00","updated":"2025-11-07T18:53:28.720-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/2-regions-and-archipelagos/sword-coast/","tags":["location"],"noteIcon":"","created":"2026-03-15T12:31:37.274-07:00","updated":"2025-11-07T18:53:28.720-08:00"}
 ---
 
 # # [[campaign/locations/2_regions & archipelagos/Sword Coast\|Sword Coast]]
@@ -19,7 +19,6 @@
 | [[campaign/locations/2_regions & archipelagos/Moonshae Isles\|Moonshae Isles]] | 2_region/archipelago |
 | [[campaign/locations/3_nations/Oman\|Oman]]                                    | 3_nation             |
 | [[campaign/locations/2_regions & archipelagos/Gwynneth\|Gwynneth]]             | 3_nation             |
-| [[campaign/locations/4_cities_islands/Mintarin\|Mintarin]]                     | 4_city/island        |
 | [[campaign/locations/4_cities_islands/Waterdeep\|Waterdeep]]                   | 4_city/island        |
 | [[campaign/locations/4_cities_islands/Baldurs Gate\|Baldurs Gate]]             | 4_city/island        |
 

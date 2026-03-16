@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/factions/shag-dominica/","tags":["faction"],"noteIcon":"","created":"2025-10-26T08:30:00.442-07:00","updated":"2025-10-27T22:27:07.996-07:00"}
+{"dg-publish":true,"permalink":"/campaign/factions/shag-dominica/","tags":["faction"],"noteIcon":"","created":"2026-03-15T12:31:35.874-07:00","updated":"2025-10-27T22:27:07.996-07:00"}
 ---
 
 

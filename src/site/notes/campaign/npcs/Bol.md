@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/bol/","tags":["character","npc"],"noteIcon":"","created":"2025-11-07T17:54:06.985-08:00","updated":"2025-11-07T17:54:38.082-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/bol/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:43.632-07:00","updated":"2025-11-07T17:54:38.082-08:00"}
 ---
 
 

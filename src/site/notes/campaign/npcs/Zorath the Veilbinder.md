@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/zorath-the-veilbinder/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T08:48:44.042-07:00","updated":"2025-10-27T16:39:27.561-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/zorath-the-veilbinder/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:41.129-07:00","updated":"2025-10-27T16:39:27.561-07:00"}
 ---
 
 

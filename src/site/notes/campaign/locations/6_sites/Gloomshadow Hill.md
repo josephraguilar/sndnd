@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/6-sites/gloomshadow-hill/","tags":["location"],"noteIcon":"","created":"2025-10-26T09:31:11.190-07:00","updated":"2025-10-28T07:52:22.086-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/6-sites/gloomshadow-hill/","tags":["location"],"noteIcon":"","created":"2026-03-15T12:31:37.703-07:00","updated":"2025-10-28T07:52:22.086-07:00"}
 ---
 
 # # [[campaign/locations/6_sites/Gloomshadow Hill\|Gloomshadow Hill]]
-Stronghold of the [[campaign/factions/Gloomshadow\|Gloomshadow]] thieves guild
+Stronghold of the [[campaign/npcs/Gloomshadow\|Gloomshadow]] thieves guild
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Gloomshadow Hill</li>
 <li dir="auto"><strong>Location Type:</strong> 6_site</li>

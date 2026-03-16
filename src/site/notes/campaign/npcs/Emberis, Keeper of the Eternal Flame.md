@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/emberis-keeper-of-the-eternal-flame/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T19:06:22.769-07:00","updated":"2025-10-27T16:37:10.572-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/emberis-keeper-of-the-eternal-flame/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:43.266-07:00","updated":"2025-10-27T16:37:10.572-07:00"}
 ---
 
 

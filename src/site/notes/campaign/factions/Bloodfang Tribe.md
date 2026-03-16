@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/factions/bloodfang-tribe/","tags":["faction"],"noteIcon":"","created":"2025-11-07T17:31:57.611-08:00","updated":"2025-11-07T17:33:14.628-08:00"}
+{"dg-publish":true,"permalink":"/campaign/factions/bloodfang-tribe/","tags":["faction"],"noteIcon":"","created":"2026-03-15T12:31:36.287-07:00","updated":"2025-11-07T17:33:14.628-08:00"}
 ---
 
 

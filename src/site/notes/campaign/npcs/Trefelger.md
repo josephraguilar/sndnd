@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/trefelger/","tags":["character","npc"],"noteIcon":"","created":"2025-11-23T19:10:09.310-08:00","updated":"2025-11-25T18:09:16.398-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/trefelger/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:44.535-07:00","updated":"2025-11-25T18:09:16.398-08:00"}
 ---
 
 

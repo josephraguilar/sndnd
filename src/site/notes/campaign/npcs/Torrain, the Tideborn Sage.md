@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/torrain-the-tideborn-sage/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T14:50:04.198-07:00","updated":"2026-03-01T12:37:02.638-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/torrain-the-tideborn-sage/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:42.001-07:00","updated":"2026-03-01T12:37:02.638-08:00"}
 ---
 
 

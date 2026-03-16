@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/4-cities-islands/kragthars-respite/","tags":["location"],"noteIcon":"","created":"2025-10-26T08:35:20.039-07:00","updated":"2025-10-28T07:53:18.243-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/4-cities-islands/kragthars-respite/","tags":["location"],"noteIcon":"","created":"2026-03-15T12:31:39.133-07:00","updated":"2025-10-28T07:53:18.243-07:00"}
 ---
 
 # # [[campaign/locations/4_cities_islands/Kragthars Respite\|Kragthars Respite]]

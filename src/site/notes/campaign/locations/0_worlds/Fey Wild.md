@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/0-worlds/fey-wild/","tags":["location"],"noteIcon":"","created":"2025-11-07T17:34:40.534-08:00","updated":"2025-11-07T18:40:10.557-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/0-worlds/fey-wild/","tags":["location"],"noteIcon":"","created":"2026-03-15T12:31:37.060-07:00","updated":"2025-11-07T18:40:10.557-08:00"}
 ---
 
 <p><span><ul>

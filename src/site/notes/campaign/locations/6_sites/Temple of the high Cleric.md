@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/6-sites/temple-of-the-high-cleric/","tags":["location"],"noteIcon":"","created":"2025-10-26T09:04:38.022-07:00","updated":"2025-10-28T08:01:23.436-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/6-sites/temple-of-the-high-cleric/","tags":["location"],"noteIcon":"","created":"2026-03-15T12:31:37.789-07:00","updated":"2025-10-28T08:01:23.436-07:00"}
 ---
 
 # [[campaign/locations/6_sites/Temple of the high Cleric\|Temple of the high Cleric]]

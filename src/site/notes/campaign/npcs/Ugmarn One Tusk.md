@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/ugmarn-one-tusk/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T12:29:07.445-07:00","updated":"2025-11-06T20:27:00.237-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/ugmarn-one-tusk/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:41.749-07:00","updated":"2025-11-06T20:27:00.237-08:00"}
 ---
 
 

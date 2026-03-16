@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/factions/velvet-blade/","tags":["faction"],"noteIcon":"","created":"2025-10-26T20:35:37.155-07:00","updated":"2025-10-27T16:34:07.718-07:00"}
+{"dg-publish":true,"permalink":"/campaign/factions/velvet-blade/","tags":["faction"],"noteIcon":"","created":"2026-03-15T12:31:36.039-07:00","updated":"2025-10-27T16:34:07.718-07:00"}
 ---
 
 
@@ -13,6 +13,6 @@
 ---
 
 # [[campaign/factions/Velvet Blade\|Velvet Blade]]
-Thieves guild of [[campaign/locations/4_cities_islands/Llejaigh\|Llejaigh]], who are at war with the [[campaign/factions/Gloomshadow\|Gloomshadow]]
+Thieves guild of [[campaign/locations/4_cities_islands/Llejaigh\|Llejaigh]], who are at war with the [[campaign/npcs/Gloomshadow\|Gloomshadow]]
 ## Notes
 *Backstory, secrets, motivations, or how they connect to the world.*

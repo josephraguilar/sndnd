@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/embris/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T14:50:45.500-07:00","updated":"2025-10-27T16:37:12.412-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/embris/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:42.056-07:00","updated":"2025-10-27T16:37:12.412-07:00"}
 ---
 
 

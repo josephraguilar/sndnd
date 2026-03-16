@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/veilbinders-staff/","noteIcon":"","created":"2025-10-26T14:47:39.249-07:00","updated":"2025-10-27T16:34:49.241-07:00"}
+{"dg-publish":true,"permalink":"/campaign/items/veilbinders-staff/","noteIcon":"","created":"2026-03-15T12:31:47.023-07:00","updated":"2025-10-27T16:34:49.241-07:00"}
 ---
 
 

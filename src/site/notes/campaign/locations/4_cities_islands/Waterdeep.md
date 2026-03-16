@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/4-cities-islands/waterdeep/","tags":["location"],"noteIcon":"","created":"2025-10-26T10:01:34.616-07:00","updated":"2025-10-28T07:56:06.365-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/4-cities-islands/waterdeep/","tags":["location"],"noteIcon":"","created":"2026-03-15T12:31:38.951-07:00","updated":"2025-10-28T07:56:06.365-07:00"}
 ---
 
 # # [[campaign/locations/4_cities_islands/Waterdeep\|Waterdeep]]

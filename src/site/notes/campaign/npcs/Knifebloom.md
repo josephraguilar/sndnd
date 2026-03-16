@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/knifebloom/","tags":["character","npc"],"noteIcon":"","created":"2025-11-09T13:20:14.000-08:00","updated":"2025-11-11T16:25:25.885-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/knifebloom/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:44.208-07:00","updated":"2025-11-11T16:25:25.885-08:00"}
 ---
 
 

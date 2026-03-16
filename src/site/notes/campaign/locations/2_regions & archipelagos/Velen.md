@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/2-regions-and-archipelagos/velen/","tags":["location"],"noteIcon":"","created":"2025-10-26T10:06:25.121-07:00","updated":"2025-10-28T07:55:36.415-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/2-regions-and-archipelagos/velen/","tags":["location"],"noteIcon":"","created":"2026-03-15T12:31:37.153-07:00","updated":"2025-10-28T07:55:36.415-07:00"}
 ---
 
 # # [[campaign/locations/2_regions & archipelagos/Velen\|Velen]]
@@ -19,6 +19,7 @@ a continent where there is a booming orc slave trade occurring. Where [[campaign
 | [[campaign/locations/4_cities_islands/Gorvathcha\|Gorvathcha]]               | 4_city/island |
 | [[campaign/locations/6_sites/Grud-Thacks Cradle\|Grud-Thacks Cradle]]        | 6_site        |
 | [[campaign/locations/4_cities_islands/Kragthars Respite\|Kragthars Respite]] | 4_city/island |
+| [[campaign/locations/6_sites/Kund Vethrak\|Kund Vethrak]]                    | 6_site        |
 
 { .block-language-dataview}
 

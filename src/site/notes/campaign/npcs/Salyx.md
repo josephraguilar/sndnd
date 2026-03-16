@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/salyx/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T09:48:28.084-07:00","updated":"2025-10-27T16:38:31.015-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/salyx/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:40.704-07:00","updated":"2025-10-27T16:38:31.015-07:00"}
 ---
 
 

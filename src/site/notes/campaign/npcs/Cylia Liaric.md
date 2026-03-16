@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/cylia-liaric/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T09:06:57.387-07:00","updated":"2025-10-27T16:37:00.385-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/cylia-liaric/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:41.072-07:00","updated":"2025-10-27T16:37:00.385-07:00"}
 ---
 
 

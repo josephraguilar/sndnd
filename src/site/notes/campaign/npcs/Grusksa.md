@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/grusksa/","tags":["character","npc"],"noteIcon":"","created":"2025-11-07T17:44:43.748-08:00","updated":"2025-11-07T17:45:14.577-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/grusksa/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:43.791-07:00","updated":"2025-11-07T17:45:14.577-08:00"}
 ---
 
 

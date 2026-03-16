@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/king-ardyn-maelwyn-ap-rhodri/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T10:02:37.889-07:00","updated":"2025-11-25T18:09:16.505-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/king-ardyn-maelwyn-ap-rhodri/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:40.566-07:00","updated":"2025-11-25T18:09:16.505-08:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/4-cities-islands/caer-callidier/","tags":["location"],"noteIcon":"","created":"2025-10-26T09:22:15.344-07:00","updated":"2025-10-28T07:51:04.514-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/4-cities-islands/caer-callidier/","tags":["location"],"noteIcon":"","created":"2026-03-15T12:31:39.006-07:00","updated":"2025-10-28T07:51:04.514-07:00"}
 ---
 
 # # [[campaign/locations/4_cities_islands/Caer Callidier\|Caer Callidier]]
@@ -13,29 +13,31 @@ Large port city in [[campaign/locations/2_regions & archipelagos/Alaron\|Alaron]
 ---
 
 ### Contains
-| Location                                                                               | Type   |
-| -------------------------------------------------------------------------------------- | ------ |
-| [[campaign/locations/Flaggen and Crow\|Flaggen and Crow]]                           | 6_site |
-| [[campaign/locations/6_sites/Gloomshadow Hill\|Gloomshadow Hill]]                   | 6_site |
-| [[campaign/locations/6_sites/Temple of the high Cleric\|Temple of the high Cleric]] | 6_site |
-| [[campaign/locations/6_sites/Wanton Wench\|Wanton Wench]]                           | 6_site |
+| Location                                                                               | Type    |
+| -------------------------------------------------------------------------------------- | ------- |
+| [[campaign/locations/6_sites/Flaggen and Crow\|Flaggen and Crow]]                   | 6_site  |
+| [[campaign/locations/6_sites/Gloomshadow Hill\|Gloomshadow Hill]]                   | 6_site  |
+| [[campaign/locations/6_sites/Temple of the high Cleric\|Temple of the high Cleric]] | 6_site  |
+| [[campaign/locations/6_sites/Tidewatch Bastion\|Tidewatch Bastion]]                 | 6_sites |
+| [[campaign/locations/6_sites/Wanton Wench\|Wanton Wench]]                           | 6_site  |
 
 { .block-language-dataview}
 
 ---
 
 ## Relevant People
-| File                                                                        | Gender | Race                  | Role       | Description |
-| --------------------------------------------------------------------------- | ------ | --------------------- | ---------- | ----------- |
-| [[campaign/npcs/Driftwood Ulga Worm Wiggle\|Driftwood Ulga Worm Wiggle]] | female | <ul><li>hag</li></ul> | \-         | \-          |
-| [[campaign/npcs/Fiyel Lok\|Fiyel Lok]]                                   | \-     | \-                    | Shop Owner | \-          |
+| File                                                                        | Gender | Race                  | Role       | Description                     |
+| --------------------------------------------------------------------------- | ------ | --------------------- | ---------- | ------------------------------- |
+| [[campaign/npcs/Driftwood Ulga Worm Wiggle\|Driftwood Ulga Worm Wiggle]] | female | <ul><li>hag</li></ul> | \-         | \-                              |
+| [[campaign/npcs/Fiyel Lok\|Fiyel Lok]]                                   | \-     | \-                    | Shop Owner | \-                              |
+| [[campaign/npcs/Fiyel Lok (1)\|Fiyel Lok (1)]]                           | \-     | \-                    | Shop Owner | \-                              |
+| [[campaign/npcs/Gloomshadow\|Gloomshadow]]                               | \-     | \-                    | \-         | Thieves guild in Caer Callidier |
 
 { .block-language-dataview}
 
 ## Factions
-| File                                              | Description                     |
-| ------------------------------------------------- | ------------------------------- |
-| [[campaign/factions/Gloomshadow\|Gloomshadow]] | Thieves guild in Caer Callidier |
+| File | Description |
+| ---- | ----------- |
 
 { .block-language-dataview}
 ## Notes

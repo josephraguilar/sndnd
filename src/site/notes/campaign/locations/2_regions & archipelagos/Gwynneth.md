@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/2-regions-and-archipelagos/gwynneth/","tags":["location"],"noteIcon":"","created":"2025-11-23T14:41:15.929-08:00","updated":"2026-03-01T12:34:49.913-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/2-regions-and-archipelagos/gwynneth/","tags":["location"],"noteIcon":"","created":"2026-03-15T12:31:37.466-07:00","updated":"2026-03-01T12:34:49.913-08:00"}
 ---
 
 <p><span><ul>

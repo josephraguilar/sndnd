@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/thexus/","tags":["character","npc"],"noteIcon":"","created":"2025-10-26T09:48:32.876-07:00","updated":"2025-10-27T16:38:52.432-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/thexus/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:40.814-07:00","updated":"2025-10-27T16:38:52.432-07:00"}
 ---
 
 

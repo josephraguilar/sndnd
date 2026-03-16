@@ -1,0 +1,30 @@
+---
+{"dg-publish":true,"permalink":"/campaign/npcs/sylphine-the-whispering-gale-1/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T18:32:10.950-07:00","updated":"2026-03-15T20:06:22.240-07:00"}
+---
+
+
+<p><span><ul>
+<li dir="auto"><strong>Name:</strong> Sylphine, the Whispering Gale</li>
+<li dir="auto"><strong>Affiliation:</strong> <a data-tooltip-position="top" aria-label="campaign/npcs/Zorath the Veilbinder.md" data-href="campaign/npcs/Zorath the Veilbinder.md" href="campaign/npcs/Zorath the Veilbinder.md" class="internal-link" target="_blank" rel="noopener nofollow">Zorath the Veilbinder</a>, <a data-tooltip-position="top" aria-label="campaign/npcs/Torrain, the Tideborn Sage.md" data-href="campaign/npcs/Torrain, the Tideborn Sage.md" href="campaign/npcs/Torrain, the Tideborn Sage.md" class="internal-link" target="_blank" rel="noopener nofollow">Torrain, the Tideborn Sage</a>, <a data-tooltip-position="top" aria-label="campaign/npcs/Sylphine, the Whispering Gale.md" data-href="campaign/npcs/Sylphine, the Whispering Gale.md" href="campaign/npcs/Sylphine, the Whispering Gale.md" class="internal-link" target="_blank" rel="noopener nofollow">Sylphine, the Whispering Gale</a></li>
+</ul></span></p>
+
+---
+
+# [[campaign/npcs/Sylphine, the Whispering Gale\|Sylphine, the Whispering Gale]]
+Air druid (castle moves, flies on the wind; northern Icewind region)
+
+## Personality
+**Traits:**  
+**Ideals:**  
+**Bonds:**  
+**Flaws:**  
+
+---
+
+## Relationships
+- [[campaign/players/Ofie\|Ofie]]
+
+---
+
+## Notes
+*Backstory, secrets, motivations, or how they connect to the world.*

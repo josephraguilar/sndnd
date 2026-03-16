@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/factions/uganathi-clan/","tags":["faction"],"noteIcon":"","created":"2025-11-23T19:18:45.723-08:00","updated":"2025-11-25T18:09:16.437-08:00"}
+{"dg-publish":true,"permalink":"/campaign/factions/uganathi-clan/","tags":["faction"],"noteIcon":"","created":"2026-03-15T12:31:36.340-07:00","updated":"2025-11-25T18:09:16.437-08:00"}
 ---
 
 
@@ -13,6 +13,6 @@
 ---
 
 # [[campaign/factions/Uganathi Clan\|Uganathi Clan]]
-Clan of goliaths on [[campaign/locations/4_cities_islands/Llorgh\|Llorgh]] ran by [[Grudrak\|Grudrak]] and his three brother Goliaths. Partnered with Iuz out of opportunity. 
+Clan of goliaths on [[campaign/locations/4_cities_islands/Llorgh\|Llorgh]] ran by [[campaign/npcs/Grudrak\|Grudrak]] and his three brother Goliaths. Partnered with Iuz out of opportunity. 
 ## Notes
 *Backstory, secrets, motivations, or how they connect to the world.*

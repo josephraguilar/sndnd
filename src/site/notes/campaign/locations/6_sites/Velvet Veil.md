@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/6-sites/velvet-veil/","tags":["location"],"noteIcon":"","created":"2025-10-26T10:39:03.600-07:00","updated":"2025-11-09T13:07:00.651-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/6-sites/velvet-veil/","tags":["location"],"noteIcon":"","created":"2026-03-15T12:31:37.647-07:00","updated":"2025-11-09T13:07:00.651-08:00"}
 ---
 
 # # [[campaign/locations/6_sites/Velvet Veil\|Velvet Veil]]

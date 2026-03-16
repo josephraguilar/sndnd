@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/3-nations/neverwinter/","tags":["location"],"noteIcon":"","created":"2025-11-11T16:28:15.459-08:00","updated":"2025-11-11T16:28:21.629-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/3-nations/neverwinter/","tags":["location"],"noteIcon":"","created":"2026-03-15T12:31:36.879-07:00","updated":"2025-11-11T16:28:21.629-08:00"}
 ---
 
 <p><span><ul>

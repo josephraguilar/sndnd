@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps/faerun/","noteIcon":"","created":"2025-10-26T20:59:20.449-07:00","updated":"2025-11-23T20:12:37.680-08:00"}
+{"dg-publish":true,"permalink":"/maps/faerun/","noteIcon":"","created":"2026-03-15T12:31:53.215-07:00","updated":"2025-11-23T20:12:37.680-08:00"}
 ---
 
 ```leaflet

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/2-regions-and-archipelagos/moonshae-isles/","tags":["location"],"noteIcon":"","created":"2025-11-23T19:11:50.352-08:00","updated":"2025-11-25T18:09:16.322-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/2-regions-and-archipelagos/moonshae-isles/","tags":["location"],"noteIcon":"","created":"2026-03-15T12:31:37.519-07:00","updated":"2025-11-25T18:09:16.322-08:00"}
 ---
 
 <p><span><ul>

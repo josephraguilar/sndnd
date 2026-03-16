@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/2-regions-and-archipelagos/icewind/","tags":["location"],"noteIcon":"","created":"2026-03-01T12:33:31.752-08:00","updated":"2026-03-01T12:34:26.349-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/2-regions-and-archipelagos/icewind/","tags":["location"],"noteIcon":"","created":"2026-03-15T12:31:37.569-07:00","updated":"2026-03-01T12:34:26.349-08:00"}
 ---
 
 <p><span><ul>
