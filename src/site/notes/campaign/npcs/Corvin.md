@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/corvin/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:44.273-07:00","updated":"2025-11-11T16:25:42.805-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/corvin/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:44.273-07:00","updated":"2026-06-27T21:15:43.522-07:00"}
 ---
 
 
@@ -33,3 +33,10 @@ right hand of [[campaign/npcs/Valan\|Valan]]. very swashbuckler and likeable.
 
 ## Notes
 *Backstory, secrets, motivations, or how they connect to the world.*
+
+---
+
+## Log Mentions
+
+- **[[campaign/sessions/009 03-16-2025\|009 03-16-2025]]** — Spotted at the [[campaign/locations/6_sites/Velvet Veil\|Velvet Veil]] when the party was escorted there by [[campaign/factions/Dark Daggers\|Dark Daggers]] agents. He and [[campaign/players/Alias\|Alias]] exchanged silent nods of acknowledgment, though Alias did not yet know who he was.
+- **[[campaign/sessions/026 11-09-2025\|026 11-09-2025]]** — Emerged from the [[campaign/locations/6_sites/Velvet Veil\|Velvet Veil]] to escort the party to [[campaign/npcs/Valan\|Valan]], then personally guided them and the cursed crate through the [[campaign/locations/6_sites/Silk Steam Bathhouse\|Silk Steam Bathhouse]] to the [[campaign/locations/6_sites/Knives Eye\|Knives Eye]]. On the way, he explained the Dark Daggers' tattoo-based hierarchy to [[campaign/players/Alias\|Alias]]; afterward he directed the party to the [[campaign/locations/6_sites/Gilded Token\|Gilded Token]] to speak with [[campaign/npcs/Edris Three Fingers Malorn\|Edris Three Fingers Malorn]].

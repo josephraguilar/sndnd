@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/6-sites/underchasm/","tags":["location"],"noteIcon":"","created":"2026-03-15T18:32:40.855-07:00","updated":"2026-03-15T20:06:21.988-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/6-sites/underchasm/","tags":["location"],"noteIcon":"","created":"2026-03-15T18:32:40.855-07:00","updated":"2026-03-15T20:06:29.543-07:00"}
 ---
 
 

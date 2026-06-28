@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/knifebloom/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:44.208-07:00","updated":"2025-11-11T16:25:25.885-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/knifebloom/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:44.208-07:00","updated":"2026-06-27T21:19:22.736-07:00"}
 ---
 
 
@@ -35,3 +35,10 @@ white haired half elf female with one eye scarred from an old dagger wound. she 
 
 ## Notes
 The party delivered the [[campaign/items/Whispering Reliquary\|Whispering Reliquary]] to her at the [[campaign/locations/6_sites/Silk Steam Bathhouse\|Silk Steam Bathhouse]] / [[campaign/locations/6_sites/Knives Eye\|Knives Eye]]
+
+---
+
+## Log Mentions
+
+- **[[campaign/sessions/025 11-10-2025\|025 11-10-2025]]** — The party received a delivery assignment from [[campaign/npcs/Scalius\|Scalius]] via mysterious cloaked couriers: transport a sealed, warded crate to Knifebloom at the Knives Eye in [[campaign/locations/4_cities_islands/Baldurs Gate\|Baldurs Gate]]. The crate radiated powerful undead energy and whispered to the party throughout the voyage.
+- **[[campaign/sessions/026 11-09-2025\|026 11-09-2025]]** — Knifebloom met the party in a secret chamber beneath the [[campaign/locations/6_sites/Silk Steam Bathhouse\|Silk Steam Bathhouse]], accepted the crate, and revealed its contents to be the [[campaign/items/Whispering Reliquary\|Whispering Reliquary]] — the severed tongue of an ancient orcish seer who had spoken prophecies for [[campaign/npcs/Gruumsh\|Gruumsh]]. She warned the party not to meddle with it and told them the prophecy concerned orcs one day ruling all of Faerun. She also told [[campaign/players/Obold\|Obold]] that releasing souls from halberds was beyond her knowledge, but suggested asking [[campaign/npcs/Lolth\|Lolth]] in the [[campaign/locations/1_continents/Underdark\|Underdark]].

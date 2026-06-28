@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/magnus/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:43.896-07:00","updated":"2025-11-07T17:46:27.452-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/magnus/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:43.896-07:00","updated":"2026-06-27T19:17:58.980-07:00"}
 ---
 
 

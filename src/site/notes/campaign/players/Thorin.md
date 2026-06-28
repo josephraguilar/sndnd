@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/thorin/","tags":["character","player"],"noteIcon":"","created":"2026-03-15T12:31:39.432-07:00","updated":"2026-03-15T15:01:06.733-07:00"}
+{"dg-publish":true,"permalink":"/campaign/players/thorin/","tags":["character","player"],"noteIcon":"","created":"2026-03-15T12:31:39.432-07:00","updated":"2026-06-27T20:15:00.514-07:00"}
 ---
 
 
@@ -40,7 +40,7 @@ A dwarven War Cleric whose faith is expressed most fluently through violence, Th
 
 ## Relationships
 - Brothers with [[campaign/players/Kormak\|Kormak]]
-- Daughter is [[campaign/npcs/Vista\|Vista]]
+- Daughter is [[Vista\|Vista]]
 - 
 
 ---
@@ -64,4 +64,9 @@ killed [[campaign/npcs/Grashnak the Skullhunter\|Grashnak the Skullhunter]], rec
 - **[[campaign/sessions/031 01-18-2026\|031 01-18-2026]]** — Thorin brought down Lazrack with a devastating kidney shot and then cast Hold Person on the final hag to allow Obold to restrain her.
 - **[[campaign/sessions/032 02-01-2026\|032 02-01-2026]]** — Thorin offered the captured seidr witch freedom in exchange for useful information, then cast Hold Person on the remaining witches to end the ritual chamber battle swiftly.
 - **[[campaign/sessions/034 03-01-2026\|034 03-01-2026]]** — Thorin used Calm Waters to steady the sea during a fierce storm on the voyage from Llorgh to Caer Callidier.
+- **[[campaign/sessions/035 03-15-2026\|035 03-15-2026]]** — Built out Tidewatch Bastion's training grounds — timber posts, sparring circle, training dummies — and set up a smithy in the barn; with Kormak purchased brewing supplies and directed Tobin on planting barley; visited the Temple of Tempus multiple mornings to pray for worthy battles; commissioned a bolt of paralysis for 500 gold; used Control Water to navigate through a whirlpool on the voyage to Oman.
+- **[[campaign/sessions/036 03-29-2026\|036 03-29-2026]]** — Cast Water Walk to carry the party through the first surge from the Witch's Maw; used Control Water to split the second surge after Obold and Kormak were swept away.
+- **[[campaign/sessions/037 05-02-2026\|037 05-02-2026]]** — Commanded lizardfolk handlers to grovel, removing several from the fight; mid-combat banished one troll and coordinated the party to surround and destroy it on its return; cast Silence across the harpies at the tower entrance, cutting off their charm song.
+- **[[campaign/sessions/038 05-24-2026\|038 05-24-2026]]** — *(Incomplete session record.)*
+- **[[campaign/sessions/039 06-14-2026\|039 06-14-2026]]** — Lent Obold his binding rope to use on the hag's raven; banished the giant ent at the start of the hag fight and held concentration throughout the entire battle, removing it from play while still supporting the party from range.
 

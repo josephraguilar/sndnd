@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/yorga/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:41.803-07:00","updated":"2025-10-27T16:39:20.712-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/yorga/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:41.803-07:00","updated":"2026-06-27T21:17:08.253-07:00"}
 ---
 
 
@@ -33,3 +33,9 @@ Barkeep at the [[campaign/locations/6_sites/Broken Fang Tavern\|Broken Fang Tave
 
 ## Notes
 *Backstory, secrets, motivations, or how they connect to the world.*
+
+---
+
+## Log Mentions
+
+- **[[campaign/sessions/025 11-10-2025\|025 11-10-2025]]** — Made friends with the party in [[campaign/locations/4_cities_islands/Kragthars Respite\|Kragthars Respite]] after they cleaned up the aftermath of a battle, before the crew returned to their ship to set sail for [[campaign/locations/4_cities_islands/Baldurs Gate\|Baldurs Gate]].

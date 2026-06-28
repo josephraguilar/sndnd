@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/hilda/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T18:32:35.340-07:00","updated":"2026-03-15T20:06:21.881-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/hilda/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T18:32:35.340-07:00","updated":"2026-06-27T21:18:17.336-07:00"}
 ---
 
 
@@ -36,3 +36,9 @@ Ran a bed and breakfast in Ogden with her sister before traveling to be with Kor
 
 ## Notes
 
+---
+
+## Log Mentions
+
+- **[[campaign/sessions/010 03-30-2025\|010 03-30-2025]]** — The party arrived at [[campaign/locations/2_regions & archipelagos/Velen\|Velen]]'s port and [[campaign/npcs/Hilda\|Hilda]]'s past was invoked: this was the very port where she had first been brought as a slave before being transported to the mines farther inland, a grim personal connection to the slave trade the party was fighting.
+- **[[campaign/sessions/035 03-15-2026\|035 03-15-2026]]** — After receiving a letter from [[campaign/players/Kormak\|Kormak]] via carrier pigeon, Hilda traveled to [[campaign/locations/6_sites/Tidewatch Bastion\|Tidewatch Bastion]] and announced she was moving in permanently. She brought Kormak his 350-gold share of earnings from their bed and breakfast in Ogden and immediately began proposing to buy and flip cottages in [[campaign/locations/4_cities_islands/Caer Callidier\|Caer Callidier]].

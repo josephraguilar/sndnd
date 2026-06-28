@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/elyra-fenbrook/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T18:32:29.982-07:00","updated":"2026-03-15T20:06:21.808-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/elyra-fenbrook/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T18:32:29.982-07:00","updated":"2026-06-27T21:16:20.436-07:00"}
 ---
 
 
@@ -35,3 +35,9 @@ Grew up in [[campaign/locations/4_cities_islands/Caer Callidier\|Caer Callidier]
 
 ## Notes
 Worth being careful around if the party has sensitive guests.
+
+---
+
+## Log Mentions
+
+- **[[campaign/sessions/035 03-15-2026\|035 03-15-2026]]** — Introduced as one of eight staff members hired by [[campaign/npcs/Kalista\|Kalista]] for [[campaign/locations/6_sites/Tidewatch Bastion\|Tidewatch Bastion]] during the party's downtime week in [[campaign/locations/4_cities_islands/Caer Callidier\|Caer Callidier]]. Hired as housemaid; described as quiet and thoughtful but extremely observant — noted as someone who will overhear things.

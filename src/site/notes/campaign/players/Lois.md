@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/lois/","tags":["character","player"],"noteIcon":"","created":"2026-03-15T12:31:39.689-07:00","updated":"2026-03-15T15:01:02.338-07:00"}
+{"dg-publish":true,"permalink":"/campaign/players/lois/","tags":["character","player"],"noteIcon":"","created":"2026-03-15T12:31:39.689-07:00","updated":"2026-06-27T20:15:30.732-07:00"}
 ---
 
 
@@ -58,3 +58,8 @@ Follower of [[campaign/npcs/Baphomet\|Baphomet]]
 - **[[campaign/sessions/032 02-01-2026\|032 02-01-2026]]** — Lois fired Eldritch Blasts during the seidr witch ritual chamber fight, contributing to the swift defeat of the witches.
 - **[[campaign/sessions/033 02-13-2026\|033 02-13-2026]]** — As Baphomet restored Obold during his unconscious vision, an obsidian idol of Baphomet simultaneously manifested in Lois's hands; her prayers to Baphomet were answered in that moment.
 - **[[campaign/sessions/034 03-01-2026\|034 03-01-2026]]** — Lois was thrown overboard when the Aboleth released its grip on the ship's hull, and was rescued by Ophie after she transformed into a giant eagle.
+- **[[campaign/sessions/035 03-15-2026\|035 03-15-2026]]** — Spent downtime restoring a neglected temple of Baphomet in Caer Callidier — scrubbed the floors, repaired woodwork, retraced labyrinthine engravings — and gathered a following by speaking at the doors; with Ofie visited a haberdashery to improve her sewing of Baphomet charms; placed a cloth charm on the altar and received a divine sign — candle flames bending and shadows forming horns; in the lizardfolk patrol battle her chariot was destroyed by three swarming lizardfolk, dropping her into the bog, then she continued blasting with Eldritch Blast from the muck.
+- **[[campaign/sessions/036 03-29-2026\|036 03-29-2026]]** — Blasted from range throughout the shrine fight.
+- **[[campaign/sessions/037 05-02-2026\|037 05-02-2026]]** — Opened the troll patrol with a Fireball; was seized by a drake rider and lifted into the air; Obold misty-stepped onto her drake, kicked the rider off, and crashed it to free her; Fireball'd the remaining harpies once back on the ground, ending the encounter.
+- **[[campaign/sessions/038 05-24-2026\|038 05-24-2026]]** — *(Incomplete session record.)*
+- **[[campaign/sessions/039 06-14-2026\|039 06-14-2026]]** — Contributed ranged damage throughout the hag fight as the party wore down Agnus the Maw.

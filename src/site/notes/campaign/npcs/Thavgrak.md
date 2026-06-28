@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/thavgrak/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:42.468-07:00","updated":"2025-10-27T16:38:50.526-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/thavgrak/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:42.468-07:00","updated":"2026-06-27T21:15:11.224-07:00"}
 ---
 
 
@@ -29,3 +29,11 @@
 
 ## Notes
 *Backstory, secrets, motivations, or how they connect to the world.*
+
+---
+
+## Log Mentions
+
+- **[[campaign/sessions/028 12-07-2025\|028 12-07-2025]]** — Identified in downtime intelligence as the "farmer" among [[campaign/players/Obold\|Obold]]'s goliath uncles, responsible for sustaining the warrior group on [[campaign/locations/4_cities_islands/Llorgh\|Llorgh]].
+- **[[campaign/sessions/029 12-21-2025\|029 12-21-2025]]** — Recognized by [[campaign/players/Obold\|Obold]] mid-battle as his uncle while fighting in the farming settlement. [[campaign/players/Kormak\|Kormak]] used Suggestion to force him to throw away his weapons, and after several desperate escape attempts, [[campaign/players/Obold\|Obold]] cornered him and demanded to know [[campaign/npcs/Kaela\|Kaela]]'s fate. Thavgrak claimed she still lived before [[campaign/players/Obold\|Obold]] impaled him with the axe embedded in his back, killing him.
+- **[[campaign/sessions/030 01-04-2026\|030 01-04-2026]]** — [[campaign/players/Obold\|Obold]] gifted Thavgrak's glaive — notched forty times, once for each meaningful kill — to [[campaign/players/Gunther\|Gunther]] as the party rested before descending into the volcano tunnels.

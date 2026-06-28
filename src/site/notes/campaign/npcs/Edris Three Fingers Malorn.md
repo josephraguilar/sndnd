@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/edris-three-fingers-malorn/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:44.348-07:00","updated":"2025-11-11T16:27:13.439-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/edris-three-fingers-malorn/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:44.348-07:00","updated":"2026-06-27T21:15:59.799-07:00"}
 ---
 
 
@@ -30,3 +30,9 @@ owner of the [[campaign/locations/6_sites/Gilded Token\|Gilded Token]] in [[camp
 
 ## Notes
 *Backstory, secrets, motivations, or how they connect to the world.*
+
+---
+
+## Log Mentions
+
+- **[[campaign/sessions/026 11-09-2025\|026 11-09-2025]]** — [[campaign/npcs/Corvin\|Corvin]] directed the party to the [[campaign/locations/6_sites/Gilded Token\|Gilded Token]] and recommended they speak with him. The party visited and purchased potions and magical rings — [[campaign/players/Obold\|Obold]] acquired a ring of featherfall and a ring of water breathing.

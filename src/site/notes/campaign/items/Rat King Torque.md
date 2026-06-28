@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/rat-king-torque/","tags":["item"],"noteIcon":"","created":"2026-03-15T15:47:45.734-07:00","updated":"2026-03-15T15:47:47.668-07:00"}
+{"dg-publish":true,"permalink":"/campaign/items/rat-king-torque/","tags":["item"],"noteIcon":"","created":"2026-03-15T15:47:45.734-07:00","updated":"2026-06-27T21:17:34.742-07:00"}
 ---
 
 
@@ -19,3 +19,7 @@ A warped, gnawed gold neck ring. Found in the rat dragon's hoard in session [[ca
 - Imposes disadvantage on Persuasion checks with civilized humanoids
 
 ## Log
+
+## Log Mentions
+
+- **[[campaign/sessions/031 01-18-2026\|031 01-18-2026]]** — The party recovered the Rat King Torque from the rat dragon's hoard inside a volcanic cavern beneath [[campaign/locations/3_nations/Oman\|Oman]], where the creature had accumulated the belongings of its victims rather than gold.

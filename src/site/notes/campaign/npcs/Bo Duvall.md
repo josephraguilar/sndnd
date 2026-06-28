@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/bo-duvall/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:41.594-07:00","updated":"2025-10-27T16:36:55.369-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/bo-duvall/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:41.594-07:00","updated":"2026-06-27T21:15:27.193-07:00"}
 ---
 
 
@@ -26,9 +26,15 @@
 ---
 
 ## Relationships
-- [[campaign/items/Magnolia Duvall\|Magnolia Duvall]] - sister 
+- [[campaign/npcs/Magnolia Duvall\|Magnolia Duvall]] - sister 
 
 ---
 
 ## Notes
 *Backstory, secrets, motivations, or how they connect to the world.*
+
+---
+
+## Log Mentions
+
+- **[[campaign/sessions/025 11-10-2025\|025 11-10-2025]]** — Met after a battle at the harbor, befriended alongside [[campaign/npcs/Yorga\|Yorga]] and [[campaign/npcs/Pip\|Pip]] during the cleanup. The party then headed back to their ship to begin the voyage toward [[campaign/locations/4_cities_islands/Baldurs Gate\|Baldurs Gate]].

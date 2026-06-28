@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/bol/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:43.632-07:00","updated":"2025-11-07T17:54:38.082-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/bol/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:43.632-07:00","updated":"2026-06-27T21:15:30.298-07:00"}
 ---
 
 
@@ -29,3 +29,9 @@ Leader of a Lycanthrope pack in [[campaign/locations/2_regions & archipelagos/Ve
 
 ## Notes
 *Backstory, secrets, motivations, or how they connect to the world.*
+
+---
+
+## Log Mentions
+
+- **[[campaign/sessions/017 08-10-2025\|017 08-10-2025]]** — Led a band of lycanthropic wolf-men encountered on the road to [[campaign/locations/4_cities_islands/Gorvathcha\|Gorvathcha]]. Proposed a deal: recover a stolen talisman that gave him control over a cursed gnome packmate named Ibliz, and his pack would owe the party a debt. The party agreed and continued toward the city.

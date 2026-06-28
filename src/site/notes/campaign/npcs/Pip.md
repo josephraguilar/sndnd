@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/pip/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:41.886-07:00","updated":"2025-10-27T16:38:25.605-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/pip/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:41.886-07:00","updated":"2026-06-27T21:16:07.221-07:00"}
 ---
 
 
@@ -32,3 +32,7 @@ The guy who introduced [[campaign/players/Obold\|Obold]] to the orcs and [[campa
 
 ## Notes
 *Backstory, secrets, motivations, or how they connect to the world.*
+
+## Log Mentions
+
+- **[[campaign/sessions/025 11-10-2025\|025 11-10-2025]]** — Named as one of several people the party befriended in the aftermath of a confrontation near [[campaign/locations/4_cities_islands/Kragthars Respite\|Kragthars Respite]]. He, [[campaign/npcs/Yorga\|Yorga]], and [[campaign/npcs/Bo Duvall\|Bo Duvall]] accompanied the party back to their ship before the crew departed for [[campaign/locations/4_cities_islands/Baldurs Gate\|Baldurs Gate]].

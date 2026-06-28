@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/kaneko/","tags":["character","player"],"noteIcon":"","created":"2026-03-15T12:31:39.594-07:00","updated":"2026-03-15T15:01:25.042-07:00"}
+{"dg-publish":true,"permalink":"/campaign/players/kaneko/","tags":["character","player"],"noteIcon":"","created":"2026-03-15T12:31:39.594-07:00","updated":"2026-06-27T20:15:09.492-07:00"}
 ---
 
 
@@ -56,3 +56,8 @@ Kaneko is the party's quiet edge — a wood elf Gloom Stalker ranger who operate
 - **[[campaign/sessions/031 01-18-2026\|031 01-18-2026]]** — Vutha used Pass Without Trace on Kaneko before entering the sealed passage; Kaneko and Vutha dispatched a hag so swiftly during the Cradle of Smoke battle that the rest of the party could barely believe it.
 - **[[campaign/sessions/032 02-01-2026\|032 02-01-2026]]** — Kaneko repeatedly served as one of the two advance scouts alongside Vutha, including discovering stone spawn in the barracks room; in the seidr witch chamber he unleashed a devastating volley that killed one of the witches outright.
 - **[[campaign/sessions/034 03-01-2026\|034 03-01-2026]]** — Kaneko dealt a massive 98 damage to the Aboleth that attacked the ship, driving it off; he was thrown overboard when the creature released the hull but was rescued by Ophie, and later purchased a gold chain at the Gilded Trident.
+- **[[campaign/sessions/035 03-15-2026\|035 03-15-2026]]** — During downtime investigated the Valentine family — confirmed stolen wine from a dockside tavern and overheard sailors connecting the Valentines to the Three hags; met a druid shopkeeper who confronted his hatred of druids and directed him toward a druidic circle on Gwynneth to confront what lies within himself before pursuing the Valentines; opened the lizardfolk patrol battle by dropping two enemies immediately.
+- **[[campaign/sessions/036 03-29-2026\|036 03-29-2026]]** — Opened fire on Alias's thumbs-down signal at the shrine lizardfolk, sparking the fight despite their offer of an escort; sniped from the flanks throughout.
+- **[[campaign/sessions/037 05-02-2026\|037 05-02-2026]]** — Rained arrows on troll handlers and lizardfolk throughout the patrol fight from range.
+- **[[campaign/sessions/038 05-24-2026\|038 05-24-2026]]** — *(Incomplete session record.)*
+- **[[campaign/sessions/039 06-14-2026\|039 06-14-2026]]** — Shot the hag's giant raven out of the air with Obold clinging to its back, sending both of them plummeting — Ofie caught Obold mid-fall.

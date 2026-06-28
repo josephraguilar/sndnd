@@ -11,10 +11,10 @@
 ---
 
 # [[campaign/items/Eternal Parchment\|Eternal Parchment]]
-A magical journal given to [[campaign/players/Alias\|Alias]] by [[campaign/items/Magnolia Duvall\|Magnolia Duvall]]. It can be used with the [[campaign/items/Whisper Quill\|Whisper Quill]]to transmit messages across any distance to the other matching parchment.
+A magical journal given to [[campaign/players/Alias\|Alias]] by [[campaign/npcs/Magnolia Duvall\|Magnolia Duvall]]. It can be used with the [[campaign/items/Whisper Quill\|Whisper Quill]]to transmit messages across any distance to the other matching parchment.
 
 ## Log
-Given to [[campaign/players/Alias\|Alias]] by [[campaign/items/Magnolia Duvall\|Magnolia Duvall]]
+Given to [[campaign/players/Alias\|Alias]] by [[campaign/npcs/Magnolia Duvall\|Magnolia Duvall]]
 
 requires the [[campaign/items/Whisper Quill\|whisper quill]] to use 
 

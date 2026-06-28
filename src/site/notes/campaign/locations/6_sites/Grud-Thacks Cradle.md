@@ -24,9 +24,10 @@ A merchant town in [[campaign/locations/2_regions & archipelagos/Velen\|Velen]] 
 ---
 
 ## Relevant People
-| File                              | Gender | Race     | Role | Description |
-| --------------------------------- | ------ | -------- | ---- | ----------- |
-| [[campaign/npcs/Tizra\|Tizra]] | female | Half-Orc | \-   | \-          |
+| File                                                  | Gender | Race     | Role                                 | Description                                                                                                                                                                                                                                   |
+| ----------------------------------------------------- | ------ | -------- | ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[campaign/npcs/Magnolia Duvall\|Magnolia Duvall]] | female | Elf      | Captain of the [[campaign/items/Morning Afterglow\|Morning Afterglow]] | An elven ship captain with a southern accent and a talent for appearing exactly when she's needed. Charming, confident, and pointedly her own woman — she runs her own ship, keeps her own schedule, and parts ways without much explanation. |
+| [[campaign/npcs/Tizra\|Tizra]]                     | female | Half-Orc | \-                                   | \-                                                                                                                                                                                                                                            |
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/briar-trask/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:43.365-07:00","updated":"2025-10-27T16:36:57.198-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/briar-trask/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:43.365-07:00","updated":"2026-06-27T21:24:27.305-07:00"}
 ---
 
 
@@ -29,6 +29,6 @@
 ---
 
 ## Notes
-Task master of the [[campaign/npcs/Gloomshadow\|GloomShadow]] thieves guild in [[campaign/locations/4_cities_islands/Caer Callidier\|Caer Callidier]]. 
+Task master of the [[campaign/npcs/Gloomshadow\|Gloomshadow]] thieves guild in [[campaign/locations/4_cities_islands/Caer Callidier\|Caer Callidier]]. 
 
 Was killed by the party.

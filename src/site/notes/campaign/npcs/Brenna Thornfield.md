@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/brenna-thornfield/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T18:32:27.289-07:00","updated":"2026-03-15T20:06:21.754-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/brenna-thornfield/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T18:32:27.289-07:00","updated":"2026-06-27T21:15:32.166-07:00"}
 ---
 
 
@@ -37,3 +37,8 @@ Fought bandits, smugglers, and the occasional monster along lonely roads before 
 
 ## Notes
 
+---
+
+## Log Mentions
+
+- **[[campaign/sessions/035 03-15-2026\|035 03-15-2026]]** — Introduced as one of eight staff members hired by [[campaign/npcs/Kalista\|Kalista]] for [[campaign/locations/6_sites/Tidewatch Bastion\|Tidewatch Bastion]] during the party's downtime week in [[campaign/locations/4_cities_islands/Caer Callidier\|Caer Callidier]]. Hired as a guardsman; quickly established as [[campaign/npcs/Garrick Stonehand\|Garrick Stonehand]]'s most reliable guard.

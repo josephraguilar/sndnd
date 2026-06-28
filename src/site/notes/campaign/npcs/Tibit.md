@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/tibit/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:42.408-07:00","updated":"2025-10-27T16:38:54.167-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/tibit/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:42.408-07:00","updated":"2026-06-27T21:15:35.409-07:00"}
 ---
 
 
@@ -29,4 +29,11 @@ A gnome tinkerer associated with the [[campaign/factions/Dark Daggers\|Dark Dagg
 ---
 
 ## Notes
-We met him at a cemetery in a dust storm where he tried to grave-rob and summoned a giant skeletal guardian. 
+We met him at a cemetery in a dust storm where he tried to grave-rob and summoned a giant skeletal guardian.
+
+---
+
+## Log Mentions
+
+- **[[campaign/sessions/014 06-14-2025\|014 06-14-2025]]** — Met at a farmhouse during an ash storm near [[campaign/locations/6_sites/Kund Vethrak\|Kund Vethrak]], introduced as a gnome tinkerer and gem-crafter headed to [[campaign/locations/2_regions & archipelagos/Calimshan\|Calimshan]]. That night he slipped out to the nearby graveyard searching for valuables and accidentally awakened a massive undead guardian that plunged the group into chaos.
+- **[[campaign/sessions/015 06-28-2025\|015 06-28-2025]]** — The undead guardian was pacified at dawn by [[campaign/npcs/Grusksa\|Grusksa]]'s amulet. Tibit then joined the party's journey south, traveling alongside them toward [[campaign/locations/6_sites/Grud-Thacks Cradle\|Grud-Thacks Cradle]].

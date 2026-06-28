@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/gunther/","tags":["character","player"],"noteIcon":"","created":"2026-03-15T12:31:39.380-07:00","updated":"2026-03-15T15:00:54.766-07:00"}
+{"dg-publish":true,"permalink":"/campaign/players/gunther/","tags":["character","player"],"noteIcon":"","created":"2026-03-15T12:31:39.380-07:00","updated":"2026-06-27T20:15:18.521-07:00"}
 ---
 
 
@@ -38,7 +38,7 @@ Gunther is the kind of man who solves problems with his body first — breaking 
 ---
 
 ## Relationships
-- 
+- [[campaign/factions/Mhurren\|Mhurren]] -Guinthers ex clan, from the north
 
 ---
 
@@ -58,3 +58,8 @@ Gunther is the kind of man who solves problems with his body first — breaking 
 - **[[campaign/sessions/032 02-01-2026\|032 02-01-2026]]** — Gunther entered the gorilla room first and was struck hard by the creature; he was the only party member to take significant damage in the goliath ambush; he and Obold kicked open the iron gate to the lizardfolk throne room and later the outer doors onto the obsidian platform.
 - **[[campaign/sessions/033 02-13-2026\|033 02-13-2026]]** — During Obold's divine vision, Gunther felt a circle of flowers representing his deity's presence while the party stood locked out of the duel barrier.
 - **[[campaign/sessions/034 03-01-2026\|034 03-01-2026]]** — Gunther visited the library to ask about hags and the Green Court, then purchased eight javelins at Stormbrand Steel and generously paid for Obold's new winged helmet.
+- **[[campaign/sessions/035 03-15-2026\|035 03-15-2026]]** — Spent downtime in Caer Callidier's library researching the Fae and the Green Court alongside Alias — learned about Feywild entrances, hag covens, Galder Towers, and that one hag sister has a tower near Wrathgaunt Mote in the Underchasm; trained each morning with Thorin and Obold; in the lizardfolk patrol battle used wild magic to throw and recall his longsword, then split the pack leader in half down to the collarbone with his greatsword.
+- **[[campaign/sessions/036 03-29-2026\|036 03-29-2026]]** — Raged and charged at the shrine lizardfolk, triggering a wild magic surge that transformed him into a frog; Obold kissed him back to humanoid form; immediately raged again on restoring, and the resulting wild magic surge knocked Obold prone twice in rapid succession.
+- **[[campaign/sessions/037 05-02-2026\|037 05-02-2026]]** — Wild magic poisoned him at the start of the troll fight but channeled the poison back into his attacks as bonus damage; continued charging into melee throughout.
+- **[[campaign/sessions/038 05-24-2026\|038 05-24-2026]]** — *(Incomplete session record.)*
+- **[[campaign/sessions/039 06-14-2026\|039 06-14-2026]]** — Fought in melee throughout the hag fight, doing what Gunther does.

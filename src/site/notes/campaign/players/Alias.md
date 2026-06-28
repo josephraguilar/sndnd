@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/alias/","tags":["character","player"],"noteIcon":"","created":"2026-03-15T12:31:39.640-07:00","updated":"2026-03-15T15:00:31.292-07:00"}
+{"dg-publish":true,"permalink":"/campaign/players/alias/","tags":["character","player"],"noteIcon":"","created":"2026-03-15T12:31:39.640-07:00","updated":"2026-06-27T20:14:50.693-07:00"}
 ---
 
 
@@ -62,3 +62,8 @@ Follower of [[campaign/npcs/Tymora\|Tymora]]
 - **[[campaign/sessions/032 02-01-2026\|032 02-01-2026]]** — Alias approached the Blue Dragon carving in the binding chamber and reached out to touch the glowing copper rod embedded in it; he also fought fluidly through the seidr witch battle.
 - **[[campaign/sessions/033 02-13-2026\|033 02-13-2026]]** — During Obold's divine vision, Alias felt the presence of his deity Tymora as a spinning coin, marking a moment of spiritual connection while the party waited helplessly outside the duel barrier.
 - **[[campaign/sessions/034 03-01-2026\|034 03-01-2026]]** — Alias navigated the ship through a powerful storm and later convinced the dockmaster to grant half-off docking fees by invoking Kalista's name; he also raised the question of establishing a party homebase during the meeting with Kalista.
+- **[[campaign/sessions/035 03-15-2026\|035 03-15-2026]]** — Spent downtime at the docks of Caer Callidier repairing the Bitch's Scorn alongside Gamora; spent several evenings with Xanaphia at the Wanton Wench in playful but unresolved flirtation; asked sailors about Oman and Captain Argran; sent a whisper-quill message to Magnolia Duvall before departure; navigated the ship through multiple storms, fog banks, and a whirlpool on the crossing to Oman.
+- **[[campaign/sessions/036 03-29-2026\|036 03-29-2026]]** — Interrogated the captured lizardfolk scout, learning the hag's name and the nature of the Witch's Maw; deceived the prisoner into believing the party would help his people reclaim Llorgh — a promise already made to Vutha; gave Kaneko the thumbs-down signal to open fire at the shrine lizardfolk despite their offer of an escort; searched the desecrated shrine for hidden tunnels and found none.
+- **[[campaign/sessions/037 05-02-2026\|037 05-02-2026]]** — Was nearly swept away by the Witch's Maw surge and saved when Obold thrust Z'Daria Nix out for him to grab; baited troll enemies toward the back line to redirect attacks onto Kaneko; stood at the tower entrance as the session ended.
+- **[[campaign/sessions/038 05-24-2026\|038 05-24-2026]]** — *(Incomplete session record.)*
+- **[[campaign/sessions/039 06-14-2026\|039 06-14-2026]]** — Used the whisper quill to contact Magnolia Duvall during the flood escape, securing the party's rescue while the crew of the Bitch's Scorn was unreachable; navigated through a storm on the voyage south toward Gwynneth.

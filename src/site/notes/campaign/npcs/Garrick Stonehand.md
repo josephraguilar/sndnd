@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/garrick-stonehand/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T18:32:31.246-07:00","updated":"2026-03-15T20:06:21.831-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/garrick-stonehand/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T18:32:31.246-07:00","updated":"2026-06-27T21:16:57.748-07:00"}
 ---
 
 
@@ -38,3 +38,9 @@ Once commanded a company of mercenaries along the Northern Trade Roads before re
 
 ## Notes
 Longsword specialty.
+
+---
+
+## Log Mentions
+
+- **[[campaign/sessions/035 03-15-2026\|035 03-15-2026]]** — Garrick Stonehand was hired by [[campaign/npcs/Kalista\|Kalista]] as master-at-arms for [[campaign/locations/6_sites/Tidewatch Bastion\|Tidewatch Bastion]], a 52-year-old former mercenary captain who nearly died from a spear wound before retirement. He immediately set about running daily drills, organizing weapon racks and armor stands, and keeping a detailed logbook of watches and training sessions.

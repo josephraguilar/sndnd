@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/2-regions-and-archipelagos/calimshan/","tags":["location"],"noteIcon":"","created":"2026-03-15T12:31:37.411-07:00","updated":"2025-11-23T19:22:09.587-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/2-regions-and-archipelagos/calimshan/","tags":["location"],"noteIcon":"","created":"2026-03-15T12:31:37.411-07:00","updated":"2026-06-27T21:24:20.046-07:00"}
 ---
 
 # # [[campaign/locations/2_regions & archipelagos/Calimshan\|Calimshan]]

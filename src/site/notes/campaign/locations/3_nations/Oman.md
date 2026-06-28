@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/3-nations/oman/","tags":["location"],"noteIcon":"","created":"2026-03-15T18:05:16.867-07:00","updated":"2026-03-15T18:11:10.318-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/3-nations/oman/","tags":["location"],"noteIcon":"","created":"2026-03-15T18:05:16.867-07:00","updated":"2026-03-15T18:11:18.279-07:00"}
 ---
 
 <p><span><ul>
@@ -22,8 +22,9 @@
 Large island/region currently ran by lizard-folk. The queen has power over her, but [[campaign/factions/The Three\|The Three]] have power over the queen to the Galdur tower that was erected there. 
 
 ## Relevant People
-| File | Gender | Race | Role | Description |
-| ---- | ------ | ---- | ---- | ----------- |
+| File                                | Gender | Race                              | Role                        | Description                                                                                                                                                                                    |
+| ----------------------------------- | ------ | --------------------------------- | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[campaign/npcs/Tarian\|Tarian]] | male   | Wood Elf (transformed — half-ent) | Prisoner of the hag / guide | Once a wood elf, transformed by Agnus the Maw into a half-ent form and bound inside the pocket dimension of her Galder Tower. Warned the Scorned Eight they were in danger upon their arrival. |
 
 { .block-language-dataview}
 

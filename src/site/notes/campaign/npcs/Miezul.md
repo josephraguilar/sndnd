@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/miezul/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:43.686-07:00","updated":"2025-11-07T17:53:50.393-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/miezul/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:43.686-07:00","updated":"2026-06-27T19:17:59.027-07:00"}
 ---
 
 

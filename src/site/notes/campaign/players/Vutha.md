@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/vutha/","tags":["character","player"],"noteIcon":"","created":"2026-03-15T12:31:39.776-07:00","updated":"2026-03-15T15:01:31.625-07:00"}
+{"dg-publish":true,"permalink":"/campaign/players/vutha/","tags":["character","player"],"noteIcon":"","created":"2026-03-15T12:31:39.776-07:00","updated":"2026-03-15T15:01:38.290-07:00"}
 ---
 
 

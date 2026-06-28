@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/aldric-valmont/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T18:32:24.611-07:00","updated":"2026-03-15T20:06:21.728-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/aldric-valmont/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T18:32:24.611-07:00","updated":"2026-06-27T21:14:51.090-07:00"}
 ---
 
 
@@ -36,3 +36,9 @@ Carries himself with the quiet authority of someone used to managing noble house
 
 ## Notes
 Upkeep: part of the ~750 gold/month Bastion staff cost.
+
+---
+
+## Log Mentions
+
+- **[[campaign/sessions/035 03-15-2026\|035 03-15-2026]]** — Introduced as one of eight staff members hired by [[campaign/npcs/Kalista\|Kalista]] for [[campaign/locations/6_sites/Tidewatch Bastion\|Tidewatch Bastion]] during the party's downtime week in [[campaign/locations/4_cities_islands/Caer Callidier\|Caer Callidier]]. Hired as butler and steward, responsible for managing inventory, finances, and schedules while the [[campaign/factions/Scorned Eight\|Scorned Eight]] are away.

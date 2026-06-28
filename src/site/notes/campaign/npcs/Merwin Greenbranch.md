@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/merwin-greenbranch/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T18:32:36.738-07:00","updated":"2026-03-15T20:06:22.011-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/merwin-greenbranch/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T18:32:36.738-07:00","updated":"2026-06-27T21:16:03.894-07:00"}
 ---
 
 
@@ -35,3 +35,6 @@ Travels the Moonshade Isles with her band, performing in towns and villages and 
 
 ## Notes
 
+## Log Mentions
+
+- **[[campaign/sessions/035 03-15-2026\|035 03-15-2026]]** — Encountered by [[campaign/players/Ofie\|Ofie]] near the docks of [[campaign/locations/4_cities_islands/Caer Callidier\|Caer Callidier]] while performing Firbolg music with her traveling band. The moment their eyes met, Merwin recognized Ofie as "Princess Ofie," stopped mid-song, and bowed. After a brief, laughing exchange of stories, she and her bandmates — Talon, Perrick, and Lyra — promised to spread word that Princess Ofie walked the world with great heroes.

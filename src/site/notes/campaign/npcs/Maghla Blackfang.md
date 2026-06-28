@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/maghla-blackfang/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:42.781-07:00","updated":"2025-10-27T16:38:07.911-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/maghla-blackfang/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:42.781-07:00","updated":"2026-06-27T21:15:37.923-07:00"}
 ---
 
 
@@ -28,3 +28,7 @@ Who [[campaign/npcs/Kragatha\|Kragatha]] was sent to meet in < i forget >
 
 ## Notes
 *Backstory, secrets, motivations, or how they connect to the world.*
+
+## Log Mentions
+
+- **[[campaign/sessions/015 06-28-2025\|015 06-28-2025]]** — The party used Speak with Dead on the slain witch [[campaign/npcs/Kragatha\|Kragatha]]'s corpse and learned she had been traveling to meet Maghla Blackfang under direct orders from [[campaign/npcs/Rotten Agnis Worm Wiggle\|Rotten Agnis Worm Wiggle]] to discuss the defense of the [[campaign/locations/6_sites/Galdur Towers\|Galdur Towers]] in [[campaign/locations/2_regions & archipelagos/Calimshan\|Calimshan]].

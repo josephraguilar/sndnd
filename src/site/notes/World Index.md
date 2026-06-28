@@ -28,20 +28,21 @@ Based in Faerun. The world is ran by a slaving organization who the crew origina
 
 | File                                                          | Description                                                                                                                                                             |
 | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[campaign/factions/Dark Daggers\|Dark Daggers]]           | Thieves guild of Baldur's Gate                                                                                                                                          |
-| [[campaign/factions/Unseen\|Unseen]]                       | Thieves guild of Waterdeep                                                                                                                                              |
-| [[campaign/factions/Ironclad Enclave\|Ironclad Enclave]]   | Faerun slave masters                                                                                                                                                    |
-| [[campaign/factions/Veruz Rexna\|Veruz Rexna]]             | The paladins of Iuz, a sect formed of half goliaths.                                                                                                                    |
+| [[campaign/factions/Bonerend Tribe\|Bonerend Tribe]]       | Carry broken skulls, slave outcasts                                                                                                                                     |
+| [[campaign/factions/Scorned Eight\|Scorned Eight]]         | The player party — a group of eight adventurers united by their shared history as victims of the slave trade. Now operating out of Tidewatch Bastion in Caer Callidier. |
+| [[campaign/factions/Green Court\|Green Court]]             | A fae court passing judgement on Gunther                                                                                                                                |
 | [[campaign/factions/The Three\|The Three]]                 | Three powerful hag sisters that lead The Ironcald Enclave                                                                                                               |
-| [[campaign/factions/Shag Dominica\|Shag Dominica]]         | Sahaugan that guard "The Three"                                                                                                                                         |
 | [[campaign/factions/Black Maw Tribe\|Black Maw Tribe]]     | A brutal orc clan in Valeen                                                                                                                                             |
 | [[campaign/factions/Velvet Blade\|Velvet Blade]]           | Thieves guild of Llejaigh                                                                                                                                               |
-| [[campaign/factions/Green Court\|Green Court]]             | A fae court passing judgement on Gunther                                                                                                                                |
 | [[campaign/factions/Ash Vulture Tribe\|Ash Vulture Tribe]] | Carry a vulture symbol. Mercenary opportunists.                                                                                                                         |
-| [[campaign/factions/Bonerend Tribe\|Bonerend Tribe]]       | Carry broken skulls, slave outcasts                                                                                                                                     |
-| [[campaign/factions/Uganathi Clan\|Uganathi Clan]]         | Clan of 4 Goliath Brothers who's offspring are raised to be Veruz Rexna                                                                                                 |
+| [[campaign/factions/Ironclad Enclave\|Ironclad Enclave]]   | Faerun slave masters                                                                                                                                                    |
+| [[campaign/factions/Shag Dominica\|Shag Dominica]]         | Sahaugan that guard "The Three"                                                                                                                                         |
 | [[campaign/factions/Bloodfang Tribe\|Bloodfang Tribe]]     | Carrry a red eye and are crazy                                                                                                                                          |
-| [[campaign/factions/Scorned Eight\|Scorned Eight]]         | The player party — a group of eight adventurers united by their shared history as victims of the slave trade. Now operating out of Tidewatch Bastion in Caer Callidier. |
+| [[campaign/factions/Unseen\|Unseen]]                       | Thieves guild of Waterdeep                                                                                                                                              |
+| [[campaign/factions/Dark Daggers\|Dark Daggers]]           | Thieves guild of Baldur's Gate                                                                                                                                          |
+| [[campaign/factions/Uganathi Clan\|Uganathi Clan]]         | Clan of 4 Goliath Brothers who's offspring are raised to be Veruz Rexna                                                                                                 |
+| [[campaign/factions/Mhurren\|Mhurren]]                     | \-                                                                                                                                                                      |
+| [[campaign/factions/Veruz Rexna\|Veruz Rexna]]             | The paladins of Iuz, a sect formed of half goliaths.                                                                                                                    |
 
 { .block-language-dataview}
 
@@ -79,6 +80,10 @@ Based in Faerun. The world is ran by a slaving organization who the crew origina
 | [[campaign/sessions/033 02-13-2026\|033 02-13-2026]] | The Uganathi Kumite    |
 | [[campaign/sessions/034 03-01-2026\|034 03-01-2026]] | Big Ramses' BaAad BBQ  |
 | [[campaign/sessions/035 03-15-2026\|035 03-15-2026]] | The Bastion of Hope    |
+| [[campaign/sessions/036 03-29-2026\|036 03-29-2026]] | Kiss the Frog          |
+| [[campaign/sessions/037 05-02-2026\|037 05-02-2026]] | The Tower Sings        |
+| [[campaign/sessions/038 05-24-2026\|038 05-24-2026]] | Tarian's Warning       |
+| [[campaign/sessions/039 06-14-2026\|039 06-14-2026]] | The Island Sinks       |
 
 { .block-language-dataview}
 

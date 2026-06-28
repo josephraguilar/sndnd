@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/tizra/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:43.740-07:00","updated":"2025-11-07T17:51:09.598-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/tizra/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:43.740-07:00","updated":"2026-06-27T21:15:40.352-07:00"}
 ---
 
 
@@ -32,3 +32,9 @@ Bathhouse keeper of [[campaign/locations/6_sites/Cindersink Bathhouse\|Cindersin
 
 ## Notes
 - Alias hit that
+
+---
+
+## Log Mentions
+
+- **[[campaign/sessions/016 07-12-2025\|016 07-12-2025]]** — Met [[campaign/players/Alias\|Alias]] at the [[campaign/locations/6_sites/Cindersink Bathhouse\|Cindersink Bathhouse]] in [[campaign/locations/6_sites/Grud-Thacks Cradle\|Grud-Thacks Cradle]] where she worked as the keeper. After [[campaign/players/Alias\|Alias]] spent the day there and made an impressive showing, he persuaded her to perform as a bard for a night at the [[campaign/locations/6_sites/Hollow Ember\|Hollow Ember]] Tavern, promising she would sing again if he ever returned.

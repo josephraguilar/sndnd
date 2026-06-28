@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/laysora/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:39.906-07:00","updated":"2025-10-27T22:21:35.774-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/laysora/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:39.906-07:00","updated":"2026-06-27T21:19:40.758-07:00"}
 ---
 
 
@@ -29,3 +29,9 @@ owner of the [[campaign/locations/6_sites/Velvet Veil\|Velvet Veil]]
 
 ## Notes
 *Backstory, secrets, motivations, or how they connect to the world.*
+
+---
+
+## Log Mentions
+
+- **[[campaign/sessions/007 02-16-2025\|007 02-16-2025]]** — The party was escorted by [[campaign/factions/Dark Daggers\|Dark Daggers]] agents to the [[campaign/locations/6_sites/Velvet Veil\|Velvet Veil]] in [[campaign/locations/4_cities_islands/Baldurs Gate\|Baldurs Gate]], a lavish brothel secretly serving as the guild's base, where Laysora was introduced as the proprietor before the party was brought before [[campaign/npcs/Valan\|Valana]] to negotiate their debt over the [[campaign/items/Bitch's Scorn\|Bitch's Scorn]].

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/argran/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:40.343-07:00","updated":"2025-11-09T14:55:10.805-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/argran/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:40.343-07:00","updated":"2026-06-27T21:14:56.350-07:00"}
 ---
 
 
@@ -28,3 +28,9 @@ an acquaintance of [[campaign/players/Alias\|Alias]]? need to ask about this
 
 ## Notes
 *Backstory, secrets, motivations, or how they connect to the world.*
+
+---
+
+## Log Mentions
+
+- **[[campaign/sessions/035 03-15-2026\|035 03-15-2026]]** — [[campaign/players/Alias\|Alias]] asked around the docks of [[campaign/locations/4_cities_islands/Caer Callidier\|Caer Callidier]] about Captain Argran and his former ship, the [[campaign/items/Queens Bitch\|Queens Bitch]]. A sailor reported that a matching vessel had been spotted sailing near [[campaign/locations/4_cities_islands/Baldurs Gate\|Baldurs Gate]].

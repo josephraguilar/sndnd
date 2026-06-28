@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/spear-of-the-drowned-fang/","tags":["item"],"noteIcon":"","created":"2026-03-15T15:47:42.579-07:00","updated":"2026-03-15T15:47:44.644-07:00"}
+{"dg-publish":true,"permalink":"/campaign/items/spear-of-the-drowned-fang/","tags":["item"],"noteIcon":"","created":"2026-03-15T15:47:42.579-07:00","updated":"2026-06-27T21:17:33.566-07:00"}
 ---
 
 
@@ -20,3 +20,7 @@ A barbed spear made of blackened bone and obsidian. Found in the rat dragon's ho
 - If thrown into water or swamp terrain, returns to the wielder's hand
 
 ## Log
+
+## Log Mentions
+
+- **[[campaign/sessions/031 01-18-2026\|031 01-18-2026]]** — The party found the Spear of the Drowned Fang in the rat dragon's hoard inside a volcanic cavern beneath [[campaign/locations/3_nations/Oman\|Oman]], one of four magical items pulled from the creature's collection of bones and melted remains.

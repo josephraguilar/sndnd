@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/tomas-reed/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T18:32:32.588-07:00","updated":"2026-03-15T20:06:21.857-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/tomas-reed/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T18:32:32.588-07:00","updated":"2026-06-27T21:15:44.779-07:00"}
 ---
 
 
@@ -37,3 +37,9 @@ Grew up in the docks of [[campaign/locations/4_cities_islands/Caer Callidier\|Ca
 
 ## Notes
 Longsword specialty.
+
+---
+
+## Log Mentions
+
+- **[[campaign/sessions/035 03-15-2026\|035 03-15-2026]]** — Introduced as one of the new staff hired by [[campaign/npcs/Kalista\|Kalista]] for [[campaign/locations/6_sites/Tidewatch Bastion\|Tidewatch Bastion]] — a young human guardsman and former dock watchman who already views the Scorned Eight as legendary heroes and takes his duties almost too seriously.

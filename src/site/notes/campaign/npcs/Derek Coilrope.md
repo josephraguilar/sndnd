@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/derek-coilrope/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T18:32:28.616-07:00","updated":"2026-03-15T20:06:21.781-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/derek-coilrope/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T18:32:28.616-07:00","updated":"2026-06-27T21:15:51.047-07:00"}
 ---
 
 
@@ -36,3 +36,8 @@ Spent most of his life ferrying cargo between the Moonshade Isles and the mainla
 
 ## Notes
 
+---
+
+## Log Mentions
+
+- **[[campaign/sessions/035 03-15-2026\|035 03-15-2026]]** — Introduced as one of eight staff members hired by [[campaign/npcs/Kalista\|Kalista]] for [[campaign/locations/6_sites/Tidewatch Bastion\|Tidewatch Bastion]] during the party's downtime week in [[campaign/locations/4_cities_islands/Caer Callidier\|Caer Callidier]]. Hired as ferryman and bay manager; oversees the small landing dock below the Bastion and ferries supplies and people to and from [[campaign/locations/4_cities_islands/Caer Callidier\|Caer Callidier]].

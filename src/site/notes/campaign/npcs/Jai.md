@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/jai/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:43.092-07:00","updated":"2025-10-27T16:37:40.714-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/jai/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:43.092-07:00","updated":"2026-06-27T19:17:59.148-07:00"}
 ---
 
 

@@ -30,7 +30,6 @@ Large port city in [[campaign/locations/2_regions & archipelagos/Alaron\|Alaron]
 | --------------------------------------------------------------------------- | ------ | --------------------- | ---------- | ------------------------------- |
 | [[campaign/npcs/Driftwood Ulga Worm Wiggle\|Driftwood Ulga Worm Wiggle]] | female | <ul><li>hag</li></ul> | \-         | \-                              |
 | [[campaign/npcs/Fiyel Lok\|Fiyel Lok]]                                   | \-     | \-                    | Shop Owner | \-                              |
-| [[campaign/npcs/Fiyel Lok (1)\|Fiyel Lok (1)]]                           | \-     | \-                    | Shop Owner | \-                              |
 | [[campaign/npcs/Gloomshadow\|Gloomshadow]]                               | \-     | \-                    | \-         | Thieves guild in Caer Callidier |
 
 { .block-language-dataview}

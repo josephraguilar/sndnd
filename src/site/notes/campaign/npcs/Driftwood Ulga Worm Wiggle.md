@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/driftwood-ulga-worm-wiggle/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:40.869-07:00","updated":"2025-10-27T16:37:02.323-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/driftwood-ulga-worm-wiggle/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:40.869-07:00","updated":"2026-06-27T21:15:56.861-07:00"}
 ---
 
 
@@ -17,3 +17,9 @@
 One of [[campaign/factions/The Three\|The Three]]. A hunchback hag who looks to be in her 80's.
 ## Log
 appeared at the parade of slaves in [[campaign/locations/4_cities_islands/Caer Callidier\|Caer Callidier]] in front of the [[campaign/locations/6_sites/Temple of the high Cleric\|Temple of the high Cleric]]
+
+---
+
+## Log Mentions
+
+- **[[campaign/sessions/001 10-27-2024\|001 10-27-2024]]** — [[campaign/npcs/Fiyel Lok\|Fiyel Lok]] revealed her name as one of [[campaign/factions/The Three\|The Three]] hags to [[campaign/players/Lois\|Lois]] and [[campaign/players/Ofie\|Ofie]], warning them never to speak the names aloud. Later that same day, she was spotted seated beside [[campaign/npcs/Arch Bishop Corin Mag\|Arch Bishop Corin Mag]] at the Parade of Slaves, with the [[campaign/factions/Shag Dominica\|Shag Dominica]] positioned behind her.

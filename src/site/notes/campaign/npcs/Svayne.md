@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/svayne/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:42.163-07:00","updated":"2025-11-06T20:10:23.052-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/svayne/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:42.163-07:00","updated":"2026-06-27T21:17:03.521-07:00"}
 ---
 
 
@@ -28,3 +28,7 @@
 
 ## Notes
 was protecting [[campaign/npcs/Kragatha\|Kragatha]] in part of an envoy in [[campaign/locations/2_regions & archipelagos/Velen\|Velen]]. They were sent from [[campaign/locations/4_cities_islands/Caer Callidier\|Caer Callidier]] to meet 
+
+## Log Mentions
+
+- **[[campaign/sessions/015 06-28-2025\|015 06-28-2025]]** — Captured as the surviving paladin of [[campaign/npcs/Iuz\|Iuz]] from the slave caravan ambush on the road to [[campaign/locations/6_sites/Grud-Thacks Cradle\|Grud-Thacks Cradle]]. During interrogation he confirmed the caravan's origins and where the slaves were destined. [[campaign/players/Obold\|Obold]] then forced him to pledge his soul to [[campaign/npcs/Baphomet\|Baphomet]] before executing him in cold blood, an act that left the rest of the party uneasy.

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/6-sites/wanton-wench/","tags":["location"],"noteIcon":"","created":"2026-03-15T12:31:37.902-07:00","updated":"2026-03-01T14:18:27.247-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/6-sites/wanton-wench/","tags":["location"],"noteIcon":"","created":"2026-03-15T12:31:37.902-07:00","updated":"2026-06-27T21:24:25.741-07:00"}
 ---
 
 # # [[campaign/locations/6_sites/Wanton Wench\|Wanton Wench]]
 A single story half timber Inn [[campaign/npcs/Kalista\|Kalista]] owns in the slums of [[campaign/locations/4_cities_islands/Caer Callidier\|Caer Callidier]]. It has low ceilings and many wards pasted on the walls and ceilings to ward off the evil of [[campaign/npcs/Iuz\|Iuz]].
 <p><span><ul>
-<li dir="auto"><strong>Name:</strong> Wanton Witch</li>
+<li dir="auto"><strong>Name:</strong> Wanton Wench</li>
 <li dir="auto"><strong>Location Type:</strong> 6_site</li>
 <li dir="auto"><strong>Part Of:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/4_cities_islands/Caer Callidier.md" data-href="campaign/locations/4_cities_islands/Caer Callidier.md" href="campaign/locations/4_cities_islands/Caer Callidier.md" class="internal-link" target="_blank" rel="noopener nofollow">Caer Callidier</a></li>
 </ul></span></p>

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/shield-of-gnawed-stone/","tags":["item"],"noteIcon":"","created":"2026-03-15T15:47:45.593-07:00","updated":"2026-03-15T15:47:47.624-07:00"}
+{"dg-publish":true,"permalink":"/campaign/items/shield-of-gnawed-stone/","tags":["item"],"noteIcon":"","created":"2026-03-15T15:47:45.593-07:00","updated":"2026-06-27T21:17:29.167-07:00"}
 ---
 
 
@@ -19,3 +19,7 @@ A heavy shield made of stone and bone. Found in the rat dragon's hoard in sessio
 - Once per day, reduce incoming damage by 1d8 + Constitution modifier
 
 ## Log
+
+## Log Mentions
+
+- **[[campaign/sessions/031 01-18-2026\|031 01-18-2026]]** — The party recovered the Shield of Gnawed Stone from the rat dragon's hoard inside a volcanic cavern beneath [[campaign/locations/3_nations/Oman\|Oman]], one of four magical items found among the bones and remains of the creature's victims.

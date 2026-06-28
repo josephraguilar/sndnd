@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/ofie/","tags":["character","player"],"noteIcon":"","created":"2026-03-15T17:49:32.994-07:00","updated":"2026-03-15T17:49:57.098-07:00"}
+{"dg-publish":true,"permalink":"/campaign/players/ofie/","tags":["character","player"],"noteIcon":"","created":"2026-03-15T17:49:32.994-07:00","updated":"2026-06-27T21:24:52.820-07:00"}
 ---
 
 
@@ -43,7 +43,7 @@ A Firbolg who is said to be the chosen one of prophecy, she stands out by her pu
 ---
 
 ## Notes
-[[campaign/npcs/Baphomet\|Baphomet]] showed her with a flowery crown on [[campaign/npcs/Mintarin\|Mintarin]]
+[[campaign/npcs/Baphomet\|Baphomet]] showed her with a flowery crown on [[campaign/npcs/Mintarin\|campaign/npcs/Mintarin]]
 
 Is bound by the old way, protector of nature and keeper of forgotten myths
 among the tales of the firbolg is the tale of the promised land [[campaign/npcs/Lebor Gabala\|Lebor Gabala]], and [[campaign/players/Ofie\|Ofie]] is said to be the one of prophecy to bring them back to it. Ofie
@@ -66,4 +66,9 @@ among the tales of the firbolg is the tale of the promised land [[campaign/npcs/
 - **[[campaign/sessions/031 01-18-2026\|031 01-18-2026]]** — Ofie calmed a chained owlbear with goodberries, sneaked past enemies to block their escape route, dealt heavy damage in bear form during the Cradle of Smoke battle, and accidentally fell off a cliff before going invisible.
 - **[[campaign/sessions/032 02-01-2026\|032 02-01-2026]]** — Ofie disguised herself as a monkey to calm a chained gorilla and feed it goodberries, then later charged into the seidr witch battle as a bear and helped track Kaela's scent with Obold.
 - **[[campaign/sessions/034 03-01-2026\|034 03-01-2026]]** — Ofie transformed into a giant eagle for the first time to rescue Kaneko, Lois, and herself after all three were thrown overboard by the Aboleth; she later quickly read through a book on Underdark creatures at the library.
+- **[[campaign/sessions/035 03-15-2026\|035 03-15-2026]]** — Communed with nature near Tidewatch Bastion and tended to a rabbit family, arranging a friendly coexistence; practiced giant eagle wild shape in repeated flights around the Bastion; with Lois visited a haberdashery and made small stuffed woodland creatures; encountered Merwin Greenbranch, a Firbolg singer who recognized her as "Princess Ofie" and pledged with three companions to spread her legend; in the lizardfolk patrol battle flew as giant eagle while carrying Kormak, swooped to attack the pack leader but was struck critically and reverted to Firbolg form mid-flight.
+- **[[campaign/sessions/036 03-29-2026\|036 03-29-2026]]** — Scouted as giant eagle to locate high ground, confirming the island slopes toward the center; fought in eagle form at the shrine.
+- **[[campaign/sessions/037 05-02-2026\|037 05-02-2026]]** — Dropped Spike Growth on the troll patrol approach, devastating the group before they could close; called down lightning on a harpy to break the charm song at the tower entrance.
+- **[[campaign/sessions/038 05-24-2026\|038 05-24-2026]]** — *(Incomplete session record — fought tree spirits in the pocket dimension.)*
+- **[[campaign/sessions/039 06-14-2026\|039 06-14-2026]]** — Shifted to giant hawk form and caught Obold mid-fall after Kaneko shot the raven out of the sky; co-delivered the killing blow on Agnus the Maw alongside Obold; shifted again after the hag's death to tow the entire party through the floodwaters like a chain of people behind her, pulling them to safety as Oman sank.
 

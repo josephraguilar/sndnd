@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/kormak/","tags":["character","player"],"noteIcon":"","created":"2026-03-15T12:31:39.563-07:00","updated":"2026-03-15T15:00:40.395-07:00"}
+{"dg-publish":true,"permalink":"/campaign/players/kormak/","tags":["character","player"],"noteIcon":"","created":"2026-03-15T12:31:39.563-07:00","updated":"2026-06-27T20:16:05.242-07:00"}
 ---
 
 
@@ -57,3 +57,8 @@ A dwarven artificer who carries himself with quiet competence, Kormak rarely lea
 - **[[campaign/sessions/029 12-21-2025\|029 12-21-2025]]** — In a decisive tactical move, Kormak used Suggestion combined with a portent to force Thavrak to hurl his weapons away, turning the tide of the battle and leaving Obold's uncle isolated and vulnerable.
 - **[[campaign/sessions/032 02-01-2026\|032 02-01-2026]]** — Kormak used Misty Step to block the goliaths' escape route during an ambush, then sent his bird familiar down a long corridor to scout; he also held three female goliaths occupied while the rest of the party dealt with the main threat.
 - **[[campaign/sessions/033 02-13-2026\|033 02-13-2026]]** — As Obold lay unconscious during the ritual duel, Kormak felt the presence of his deity manifest as a hammer, signaling divine attention on the party at that moment.
+- **[[campaign/sessions/035 03-15-2026\|035 03-15-2026]]** — Spent downtime repairing Tidewatch Bastion's doors, hinges, and furniture; worked evenings in his basement laboratory on a broken planar compass, trying powdered ethereal crystal as a component without success but feeling close; with Thorin befriended local brewers and purchased brewing supplies; sent a carrier pigeon letter to Hilda — who arrived on the final morning with his share of earnings and announced she'd be moving into the Bastion; in the lizardfolk patrol battle cast Faerie Fire on the pack leader after foreseeing the save would fail.
+- **[[campaign/sessions/036 03-29-2026\|036 03-29-2026]]** — Cast Faerie Fire on the shrine lizardfolk; was swept away by the second surge from the Witch's Maw alongside Obold.
+- **[[campaign/sessions/037 05-02-2026\|037 05-02-2026]]** — His bird familiars spotted the green glow in the fog ahead, directing the party toward Agnus the Maw's tower; cast Faerie Fire on the troll patrol.
+- **[[campaign/sessions/038 05-24-2026\|038 05-24-2026]]** — *(Incomplete session record.)*
+- **[[campaign/sessions/039 06-14-2026\|039 06-14-2026]]** — *(Limited record — supported the party during the hag fight and escape.)*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/tobin-bramblefoot/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T18:32:33.963-07:00","updated":"2026-03-15T20:06:21.932-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/tobin-bramblefoot/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T18:32:33.963-07:00","updated":"2026-06-27T21:15:49.210-07:00"}
 ---
 
 
@@ -35,3 +35,8 @@ Grew up tending orchards and gardens throughout the Moonshades. Now maintains th
 
 ## Notes
 
+---
+
+## Log Mentions
+
+- **[[campaign/sessions/035 03-15-2026\|035 03-15-2026]]** — Introduced as the groundskeeper hired by [[campaign/npcs/Kalista\|Kalista]] for [[campaign/locations/6_sites/Tidewatch Bastion\|Tidewatch Bastion]]. [[campaign/players/Thorin\|Thorin]] and [[campaign/players/Kormak\|Kormak]] immediately began loudly instructing him to plant barley and wheat for their planned brewery, and the party also asked [[campaign/npcs/Hilda\|Hilda]] to source exotic pipe-weed seeds for him to cultivate.

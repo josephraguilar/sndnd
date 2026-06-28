@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/factions/scorned-eight/","tags":["faction"],"noteIcon":"","created":"2026-03-15T18:32:43.508-07:00","updated":"2026-03-15T20:06:22.082-07:00"}
+{"dg-publish":true,"permalink":"/campaign/factions/scorned-eight/","tags":["faction"],"noteIcon":"","created":"2026-03-15T18:32:43.508-07:00","updated":"2026-03-15T20:06:29.450-07:00"}
 ---
 
 

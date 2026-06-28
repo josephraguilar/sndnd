@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/baron-copperpot/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T18:32:25.954-07:00","updated":"2026-03-15T20:06:21.699-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/baron-copperpot/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T18:32:25.954-07:00","updated":"2026-06-27T21:15:24.542-07:00"}
 ---
 
 
@@ -35,3 +35,8 @@ Produces hearty meals for the household and crew, often experimenting with new i
 
 ## Notes
 
+---
+
+## Log Mentions
+
+- **[[campaign/sessions/035 03-15-2026\|035 03-15-2026]]** — Introduced as one of eight staff members hired by [[campaign/npcs/Kalista\|Kalista]] for [[campaign/locations/6_sites/Tidewatch Bastion\|Tidewatch Bastion]] during the party's downtime week in [[campaign/locations/4_cities_islands/Caer Callidier\|Caer Callidier]]. Hired as cook; the Bastion's kitchen quickly became his domain.

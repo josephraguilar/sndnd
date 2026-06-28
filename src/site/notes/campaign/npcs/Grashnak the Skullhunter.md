@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/grashnak-the-skullhunter/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:41.240-07:00","updated":"2025-10-27T16:37:21.396-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/grashnak-the-skullhunter/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:41.240-07:00","updated":"2026-06-27T21:17:12.692-07:00"}
 ---
 
 
@@ -28,3 +28,9 @@ likes to party at the [[campaign/locations/6_sites/Broken Fang Tavern\|Broken Fa
 he's big. has giant shoulders. tusks are filed to fine points. wears a necklace that has broken pieces of dwarven bones.
 
 Killed by the part in the [[campaign/locations/6_sites/Broken Fang Tavern\|Broken Fang Tavern]]
+
+---
+
+## Log Mentions
+
+- **[[campaign/sessions/019 09-07-2025\|019 09-07-2025]]** — After rescuing [[Vista\|Vista]] from Chainspire Tower in [[campaign/locations/4_cities_islands/Gorvathcha\|Gorvakutha]], the party learned that Grashnak the Skullhunter — the orc responsible for killing [[campaign/players/Thorin\|Thorin]]'s wife and son — had last been seen near [[campaign/locations/4_cities_islands/Kragthars Respite\|Kragthars Respite]], marking their next target for vengeance.

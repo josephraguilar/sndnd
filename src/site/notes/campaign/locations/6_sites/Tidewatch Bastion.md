@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/6-sites/tidewatch-bastion/","tags":["location"],"noteIcon":"","created":"2026-03-15T18:05:14.429-07:00","updated":"2026-03-15T18:05:23.530-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/6-sites/tidewatch-bastion/","tags":["location"],"noteIcon":"","created":"2026-03-15T18:05:14.429-07:00","updated":"2026-03-15T18:05:33.715-07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/grunkthor/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T14:46:41.598-07:00","updated":"2026-03-15T14:46:42.305-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/grunkthor/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T14:46:41.598-07:00","updated":"2026-06-27T21:17:51.983-07:00"}
 ---
 
 
@@ -28,3 +28,9 @@
 
 ## Notes
 *Traveled with or alongside the party during the [[campaign/locations/4_cities_islands/Gorvathcha\|Gorvathcha]] mission. After the liberation of Chainspire Tower, [[campaign/npcs/Scalius\|Scalius]] handed Grunkthor a sealed note reminding the group of their debt to the [[campaign/factions/Dark Daggers\|Dark Daggers]].*
+
+---
+
+## Log Mentions
+
+- **[[campaign/sessions/019 09-07-2025\|019 09-07-2025]]** — After the rescue of [[Vista\|Vista]] from Chainspire Tower, [[campaign/npcs/Scalius\|Scalius]] of the [[campaign/factions/Dark Daggers\|Dark Daggers]] singled out Grunkthor to receive a sealed note, reminding the group that their debt to the guild remained outstanding and that he would be in touch.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/melian/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:40.207-07:00","updated":"2025-10-27T16:38:13.057-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/melian/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:40.207-07:00","updated":"2026-06-27T21:15:41.319-07:00"}
 ---
 
 
@@ -28,3 +28,8 @@
 
 ## Notes
 *Backstory, secrets, motivations, or how they connect to the world.*
+
+## Log Mentions
+
+- **[[campaign/sessions/005 01-19-2025\|005 01-19-2025]]** — After arriving in [[campaign/locations/4_cities_islands/Waterdeep\|Waterdeep]], [[campaign/npcs/Irlan Liaric\|Irlan Liaric]] introduced the party to Melian, Queen of [[campaign/npcs/Niavara\|Niavara]], at a bar.
+- **[[campaign/sessions/006 02-01-2025\|006 02-01-2025]]** — The party spoke further with Queen Melian and learned she had earned her impressive armor by slaying a dragon. She departed after their meeting, and the party began preparations to sail toward [[campaign/locations/2_regions & archipelagos/Velen\|Velen]].

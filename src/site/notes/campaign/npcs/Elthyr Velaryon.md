@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/elthyr-velaryon/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T18:32:38.056-07:00","updated":"2026-03-15T20:06:22.033-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/elthyr-velaryon/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T18:32:38.056-07:00","updated":"2026-06-27T21:16:05.348-07:00"}
 ---
 
 
@@ -34,3 +34,9 @@ A high-born Sylvan Elf, his skin carrying the faint blue hue of the Sylvan blood
 
 ## Notes
 Known only from Zydaria's account to Obold. She claims she now regrets choosing him over Lolth.
+
+---
+
+## Log Mentions
+
+- **[[campaign/sessions/035 03-15-2026\|035 03-15-2026]]** — [[campaign/npcs/Z'Daria Nix\|Z'Daria Nix]] recounted her history to [[campaign/players/Obold\|Obold]] during quiet afternoons in the woods near [[campaign/locations/6_sites/Tidewatch Bastion\|Tidewatch Bastion]]: she had fallen in love with Elthyr Velaryon — a high-born Sylvan Elf and one of [[campaign/npcs/Baphomet\|Baphomet]]'s earliest followers — in defiance of [[campaign/npcs/Lolth\|Lolth]]'s command. When she refused to end the relationship, Lolth sent assassins to the surface and had him killed, then bound Zydaria's soul into the halberd as punishment.

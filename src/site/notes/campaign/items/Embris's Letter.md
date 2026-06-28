@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/embris-s-letter/","noteIcon":"","created":"2026-03-15T12:31:47.075-07:00","updated":"2025-10-27T16:34:29.243-07:00"}
+{"dg-publish":true,"permalink":"/campaign/items/embris-s-letter/","noteIcon":"","created":"2026-03-15T12:31:47.075-07:00","updated":"2026-06-27T21:24:51.839-07:00"}
 ---
 
 
@@ -24,3 +24,7 @@ May the mountains stand firm beneath your feet,
 [[campaign/npcs/Emberis, Keeper of the Eternal Flame\|Emberis, Keeper of the Eternal Flame]]
 
 ## Log
+
+## Log Mentions
+
+- **[[campaign/sessions/009 03-16-2025\|009 03-16-2025]]** — [[campaign/players/Thorin\|Thorin]] discovered Embris's Letter in the collapsing tower of [[campaign/locations/4_cities_islands/Mintarin\|campaign/locations/4_cities_islands/Mintarin]], written in druidic and readable only by [[campaign/players/Ofie\|Ofie]]. The letter, from [[campaign/npcs/Emberis, Keeper of the Eternal Flame\|Emberis, Keeper of the Eternal Flame]], urged Zorath to unite "The Four" at the Crossroads of the Four Pillars at the next full moon to seek the final piece of the map to the Promised Land.

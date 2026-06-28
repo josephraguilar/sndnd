@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/galdrabrock/","noteIcon":"","created":"2026-03-15T12:31:46.607-07:00","updated":"2025-10-27T16:34:40.928-07:00"}
+{"dg-publish":true,"permalink":"/campaign/items/galdrabrock/","noteIcon":"","created":"2026-03-15T12:31:46.607-07:00","updated":"2026-06-27T21:18:26.364-07:00"}
 ---
 
 
@@ -22,3 +22,7 @@ spoken in infernal
 - "Kraga Loka" - closes the collar
 - "Kraga Lokadu < name > Nuna Og Vertu Bundin" - gets control of collar wearer
 
+## Log Mentions
+
+- **[[campaign/sessions/001 10-27-2024\|001 10-27-2024]]** — The party deciphered passages in the Galdrabrock, learning the infernal commands to control the slave collars worn by victims of [[campaign/npcs/Arch Bishop Corin Mag\|Arch Bishop Corin Mag]]. [[campaign/npcs/Kira Swan\|Kira Swan]] demanded the book and led the party through a secret passage beneath the [[campaign/locations/6_sites/Temple of the high Cleric\|Temple of the high Cleric]] in exchange for it.
+- **[[campaign/sessions/003 11-24-2024\|003 11-24-2024]]** — After defeating [[campaign/npcs/Arch Bishop Corin Mag\|Arch Bishop Corin Mag]], [[campaign/npcs/Thexus\|Thexus]] and [[campaign/npcs/Zae\|Zae]] arrived to receive the Galdrabrock, claiming it for themselves as the party made their escape from the battlefield surrounding the temple.

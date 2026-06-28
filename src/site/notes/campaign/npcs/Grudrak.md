@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/grudrak/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T18:32:39.525-07:00","updated":"2026-03-15T20:06:21.960-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/grudrak/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T18:32:39.525-07:00","updated":"2026-06-27T19:17:58.636-07:00"}
 ---
 
 

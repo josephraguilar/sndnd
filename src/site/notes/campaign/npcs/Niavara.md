@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/niavara/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:42.693-07:00","updated":"2025-10-27T16:38:17.322-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/niavara/","tags":["character","npc"],"noteIcon":"","created":"2026-03-15T12:31:42.693-07:00","updated":"2026-06-27T19:17:59.325-07:00"}
 ---
 
 

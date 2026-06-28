@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/obold/","tags":["character","player"],"noteIcon":"","created":"2026-03-15T12:31:39.322-07:00","updated":"2026-03-15T15:34:15.584-07:00"}
+{"dg-publish":true,"permalink":"/campaign/players/obold/","tags":["character","player"],"noteIcon":"","created":"2026-03-15T12:31:39.322-07:00","updated":"2026-06-27T21:24:52.625-07:00"}
 ---
 
 
@@ -15,14 +15,14 @@
 ---
 
 # [[campaign/players/Obold\|Obold]]
-A pale-skinned and completely hairless half goliath who's simple mind makes him somehow charm those around him. Merciless and "good-hearted", he seeks to murder all slavers for vengeance on the trade that took part in the killing of his mother [[campaign/npcs/Kaela\|Kaela]]. Obold is a creature of profound loyalty and equally profound violence — he will make his party swear oaths to protect his loved ones even at the cost of his own life, and he means every word. He leads from the front on his fiendish steed Ramses, converts enemies to Baphomet from a crow's nest after misty-stepping into it for dramatic effect, and executes surrendered foes without hesitation the moment he decides their information wasn't worth their breath. His simplicity is genuine and somehow endearing; when he isn't fighting or praying or collecting skulls as trophies, he is organizing bucking contests at the tavern.
+A pale-skinned and completely hairless half goliath who's simple mind makes him somehow charm those around him. Merciless and "good-hearted", he seeks to murder all slavers for vengeance on the trade that took part in the killing of his mother [[campaign/npcs/Kaela\|Kaela]]. Obold is a creature of profound loyalty and equally profound violence — he will make his party swear oaths to protect his loved ones even at the cost of his own life, and he means every word. He leads from the front on his fiendish steed [[campaign/npcs/Ramses\|Ramses]], converts enemies to Baphomet from a crow's nest after misty-stepping into it for dramatic effect, and executes surrendered foes without hesitation the moment he decides their information wasn't worth their breath. His simplicity is genuine and somehow endearing; when he isn't fighting or praying or collecting skulls as trophies, he is organizing bucking contests at the tavern.
 
 ---
 
 ## Personality
 **Traits:**
 - Well meaning. Not that smart. Quick to aid his friends. Talks in third person.
-- A front-line force of nature in combat — charges in on Ramses, delivers devastating smites and critical hits, and pursues fleeing enemies relentlessly; he killed his own uncle Thavrak by impaling him with a thrown axe after chasing him down across a burning farm.
+- A front-line force of nature in combat — charges in on [[campaign/npcs/Ramses\|Ramses]], delivers devastating smites and critical hits, and pursues fleeing enemies relentlessly; he killed his own uncle Thavrak by impaling him with a thrown axe after chasing him down across a burning farm.
 - Has a preacher's instinct for dramatic conversion — he set up an alms box, misty-stepped to a crow's nest to convert six enemies after a fight, and regularly persuades survivors to follow Baphomet.
 
 **Ideals:**
@@ -48,7 +48,7 @@ A pale-skinned and completely hairless half goliath who's simple mind makes him 
 
 ## Notes
 Was forced to follow [[campaign/npcs/Baphomet\|Baphomet]] by [[campaign/npcs/Holda\|Holda]]
-Baphomet showed him a half-goliath paladin of [[campaign/npcs/Iuz\|Iuz]] on [[campaign/npcs/Mintarin\|Mintarin]]
+Baphomet showed him a half-goliath paladin of [[campaign/npcs/Iuz\|Iuz]] on [[campaign/npcs/Mintarin\|campaign/npcs/Mintarin]]
 
 ---
 
@@ -57,7 +57,7 @@ CLEAVE: if i hit the second person with cleave, it takes half of full damage i d
 
 ---
 
-## Ramses 
+## [[campaign/npcs/Ramses\|Ramses]] 
 **AC** 10+2 per spell level
 
 **HP** 25 per spell level (the steed has a number of Hit Dice [d10s] equal to the spell’s level)
@@ -67,7 +67,7 @@ HP = 255
 **Speed** 60 ft.
 
 ## HP 
-50 - 19  = 31 -11 -8 = 12hp 
+50hp 
 
 ## Saves
 
@@ -108,7 +108,7 @@ Traits
 
 Actions
 
-**_Otherworldly Slam._** _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d8 plus the 2 of Necrotic (Fiend) damage.
+**_Otherworldly Slam._** _Melee Attack Roll:_ Bonus equals your spell attack modifier (+5), reach 5 ft. _Hit:_ 1d8 plus the 2 of Necrotic (Fiend) damage.
 
 Bonus Actions
 
@@ -123,7 +123,7 @@ Bonus Actions
 
 **Speed** 60 ft., Fly 60 ft. (requires level 4+ spell)
 
-HP - 14
+HP - 50 - 45  - 23 - 15 - 9
 
 |||Mod|Save|
 |---|---|---|---|
@@ -172,9 +172,14 @@ Bonus Actions
 - **[[campaign/sessions/026 11-09-2025\|026 11-09-2025]]** — Obold asked the dockmaster about the Knives Eye upon arriving in Baldur's Gate, then stayed aboard with Thorin to guard the cursed chest; at the meeting he asked Knifebloom about releasing souls from halberds and purchased a ring of featherfall and ring of water breathing.
 - **[[campaign/sessions/027 11-23-2025\|027 11-23-2025]]** — In Llorgh, Obold asked villagers for any information about his mother or sacrifices but learned nothing; he beheaded the captured dire scale brute leader after the raptor fight when the creature refused to cooperate.
 - **[[campaign/sessions/028 12-07-2025\|028 12-07-2025]]** — Obold made the party vow to save his mother Kaela even at the cost of his own life; he posed as a wounded goliath to bait the enemy into an ambush, fought the largest goliath with a critical hit, and grappled Irgrak to demand answers, learning Kaela had been alive five weeks prior and taking Irgrak's skull as a trophy.
-- **[[campaign/sessions/029 12-21-2025\|029 12-21-2025]]** — Obold led the farm assault atop Ramses IV, personally engaged his uncle Thavrak, relentlessly pursued him and forced his surrender, then executed him after confirming Kaela was alive; he claimed Thavrak's glaive and ordered all idols of Iuz burned before the village was razed.
+- **[[campaign/sessions/029 12-21-2025\|029 12-21-2025]]** — Obold led the farm assault atop [[campaign/npcs/Ramses\|Ramses IV]], personally engaged his uncle Thavrak, relentlessly pursued him and forced his surrender, then executed him after confirming Kaela was alive; he claimed Thavrak's glaive and ordered all idols of Iuz burned before the village was razed.
 - **[[campaign/sessions/030 01-04-2026\|030 01-04-2026]]** — Obold gifted Gunther Thavrak's glaive during the short rest; he agreed to follow the lizardfolk ranger Vutha despite harboring deep distrust of lizardfolk.
-- **[[campaign/sessions/031 01-18-2026\|031 01-18-2026]]** — Obold summoned Ramses V before the long rest; used goodberries and Z'daria to pacify and free the chained owlbear, turning it into an improvised weapon against the Cradle of Smoke defenders; then charged the last hag on Ramses V and began choking her after Thorin held her in place.
+- **[[campaign/sessions/031 01-18-2026\|031 01-18-2026]]** — Obold summoned [[campaign/npcs/Ramses\|Ramses V]] before the long rest; used goodberries and Z'daria to pacify and free the chained owlbear, turning it into an improvised weapon against the Cradle of Smoke defenders; then charged the last hag on [[campaign/npcs/Ramses\|Ramses V]] and began choking her after Thorin held her in place.
 - **[[campaign/sessions/032 02-01-2026\|032 02-01-2026]]** — Obold executed a captured seidr witch despite Thorin's promise of mercy; used the infernal command "Kraga Opinn" to free collared stone spawn; detected his mother's scent near the caged chamber; and kicked open the iron gate with Gunther to face Grudrack on the obsidian platform.
 - **[[campaign/sessions/033 02-13-2026\|033 02-13-2026]]** — Obold was forced into a ritual duel against his father Grudrack inside a magic barrier, fell after an exhausting fight, and experienced a vision in which Lolth, Tyr, Iuz, and Baphomet all sought to claim him; empowered by Baphomet, he rose and slew his father with a devastating divine smite, then asked the Betrayer King to take Kaela under his protection.
-- **[[campaign/sessions/034 03-01-2026\|034 03-01-2026]]** — Obold organized a bucking contest with Ramses at the Flaggen and Crow tavern to celebrate with the crew; he also purchased a winged helmet and an Eversmoking Bottle from Caer Callidier's shops.
+- **[[campaign/sessions/034 03-01-2026\|034 03-01-2026]]** — Obold organized a bucking contest with [[campaign/npcs/Ramses\|Ramses]] at the Flaggen and Crow tavern to celebrate with the crew; he also purchased a winged helmet and an Eversmoking Bottle from Caer Callidier's shops.
+- **[[campaign/sessions/035 03-15-2026\|035 03-15-2026]]** — Trained each morning with Thorin and Gunther; hunted down followers of Iuz in Caer Callidier with Kira Swan's Gloomshadow — executed Halden and several others, going quiet what remained of Iuz's influence in the city; spent afternoons in the woods learning Z'Daria Nix's full story, including her identity as a former drow high priestess of Lolth who refused her goddess's order to end a forbidden love; in the lizardfolk patrol battle misty-stepped into combat, cut a lizard in half, and crossbow-killed a raptor off Thorin as a reaction when it attacked [[campaign/npcs/Ramses\|Ramses]].
+- **[[campaign/sessions/036 03-29-2026\|036 03-29-2026]]** — Gave the prisoner the severed head of one of his clansmen; upon seeing Gunther transform into a frog via wild magic, kissed him to restore him; dismembered the last shrine lizardfolk warrior completely; desecrated the shrine altar with a symbol of Baphomet drawn in lizardfolk blood; was swept away by the second surge from the Witch's Maw.
+- **[[campaign/sessions/037 05-02-2026\|037 05-02-2026]]** — Saved Alias from the Witch's Maw surge by extending Z'Daria Nix for him to grab; misty-stepped into his own smoke cloud during the troll fight and was completely ignored by the beasts; fell through Spike Growth and took extra damage; claimed a troll tusk as a trophy after the fight and summoned [[campaign/npcs/Ramses\|Ramses VIII]]; at the tower entrance misty-stepped onto the drake carrying Lois, kicked the rider off, and crashed it to bring her down safely.
+- **[[campaign/sessions/038 05-24-2026\|038 05-24-2026]]** — Was the first party member attacked by tree spirits on entering the pocket dimension inside Agnus the Maw's tower.
+- **[[campaign/sessions/039 06-14-2026\|039 06-14-2026]]** — Borrowed Thorin's binding rope and misty-stepped onto the hag's giant raven, tying himself to it and riding it skyward; was shot down when Kaneko fired on the raven and caught by Ofie in hawk form; co-delivered the killing blow on Agnus the Maw alongside Ofie; opened the eversmoking bottle during the flood escape to trail a smoke signal as Oman sank.
